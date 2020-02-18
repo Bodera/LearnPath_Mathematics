@@ -1,0 +1,36 @@
+.fatorar lei
+.soma e produto
+.igualando a zero e Bhaskara
+.carloshdias. /views sitesgoogle
+
+learnpath_Mathematics
+*Anglo
+*Mat Dsct
+*Pré-Cálculo
+*cálculo
+*estatística
+
+
+domínio dos reais
+
+coeficiente de x^2 vezes coeficiente c é produto
+coeficiente x é soma
+
+a(x-x1).(x-x2) = ax^2+bx+c
+
+
+fixação:
+x/x+1 + 3/2x+3 - 11x+10/2x^2+5x+3
+
+condição de existência
+-divisao por 0
+   x+1 diferente de 0, logo x diferente de -1
+
+MMC de letras
+-(x+1, 2x+3, (x+1).(2x+3)
+
+
+lista de exercícios (na foto)
+lista 1 até 15 de fevereiro
+
+

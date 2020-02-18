@@ -1,0 +1,63 @@
+conjuntos numéricos
+
+N - naturais ( 0, 1, 2, 3...)
+Q - racionais (frações)
+Z - inteiros (... -3, -2, -1, 0, 1, 2 , 3..)
+R - reais 
+
+
+a € A (a pertence ao conjunto A)
+x % A (x não pertence  a A)
+
+Relação entre conjuntos
+ A é subconjunto de B se e somente se para todo x € A, temos x € B.
+ Notação c (está contido) e ¢ (não está contido)  э(contém)
+
+
+Igualdade entre conjuntos
+ Quando A c B e B c A. 
+
+Conjuntos especiais
+Void - A={x € R tal que x^2 = -1} 
+Universo - U
+
+
+Exercícios
+01- A={0, 3, 7} B={0, 3, 5}
+   3 € A - ✓
+   1 € B - X
+   3 € B - ✓
+   0 € A - ✓
+   5 € A - X
+   7 € A - ✓
+   2 € B - X
+   7 € B - X
+02- A={1, 2} B={1, 3, 2} C={1, 2, 3, 7, 8} D={3, 7}
+   A e B - A c B
+   A e C - A c C
+   A e D - A ¢ D
+   B e C - B c C
+   D e A - D ¢ A
+   D e B - D ¢ B
+   D e C - D c C
+03- Marque V ou F (em foto)
+   A
+04- Marque V ou F (em foto)
+pegadinha está contido (conjuntos e conjuntos) e pertence (elementos e conjuntos), conjuntos podem ser elementos de um conjunto. Vazio é um conjunto que não tem elementos e está contido em todos conjuntos.
+   V
+   F
+   V
+   F
+   V
+   V
+   V
+   F
+   F
+   F
+   F
+
+
+Operações entre conjuntos
+União - A u B ={x tal que x € A ou x € B}, ou inclusivo, pega todos os elementos.
+
+Intersecção - A h B ={x tal que x € A e x € B}, pega só elementos repetidos.

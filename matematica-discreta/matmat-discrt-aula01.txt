@@ -1,0 +1,28 @@
+Exercícios
+Coloque na forma decimal e identifique quais são de dízimas periódicas e quais são decimais exatos.
+
+3/8 = 0,375 (decimal exato)
+5/30 = 0,1666... (dízima periódica)
+37/20 = 1,85 (decimal exato)
+49/16 = 3,0625 (decimal exato)
+7/6 = 1,1666... (dízima periódica) 
+5/9 = 0,555... (dízima periódica) 
+37/90 =
+173/90 =
+
+Coloque na forma fracionária, simplificando a fração quando for possível.
+0,2 = 2/10 = 1/5
+3,5 = 35/10 = 7/2
+1,5 = 15/10 = 3/2
+0,6 = 6/10 = 3/5
+0,37 =
+9,6 =
+2,625 =
+0,125 = 125/1000 = 
+
+Decimal periódico para fração.
+2,313131... = 2 + 31/99 =  229/99
+0,1666... = (16-1)/90 = 15/90 = 1/6
+
+introdução a conjuntos numéricos.
+
