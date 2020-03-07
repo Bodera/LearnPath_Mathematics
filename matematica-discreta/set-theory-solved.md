@@ -47,7 +47,7 @@ g) (⊂) D and C - D is contained in C
 
 In the diagram below, A, B and C are three non-empty sets. Check `T` or `F` for each of the sentences, depending on whether it is true or false:
 
-[!Question No. 3 diagram](./images/QuestionNo03.png)
+![Question No. 3 diagram](./images/QuestionNo03.png)
 
 a) (T) A ⊂ C - A is contained in C  
 b) (T) B ⊂ C - B is contained in C  
