@@ -142,7 +142,14 @@ j) (B ∪ D) ∪ A
 
 ### Question No. 6
 
-With the data from the previous question, calculate:
+With the same set:
+```
+  A = {0, 1, 2, 3}
+  B = {0, 2, 3, 5}
+  C = {0, 2, 4, 6, 8}
+  D = {5, 7, 9}
+```  
+determine:
 
 a) A ∩ B  
 ```
@@ -196,7 +203,14 @@ j) (B ∩ D) ∩ A
 
 ### Question No. 7
 
-With the data from the previous question, calculate:
+With the same set:
+```
+  A = {0, 1, 2, 3}
+  B = {0, 2, 3, 5}
+  C = {0, 2, 4, 6, 8}
+  D = {5, 7, 9}
+```  
+determine:
 
 a) A − B  
 ```
