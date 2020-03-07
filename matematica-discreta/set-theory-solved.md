@@ -259,7 +259,22 @@ Consider the sets:
 ```  
 determine:
 
-a) Complementary of B in A
-b) Complementary of C in A
-c) Complementary of D in A
-d) Complementary of (B ∩ C ∩ D) in A
+a) Complementary of B in A  
+```
+  B - A = {1, 3, 4, 6, 7}
+```
+
+b) Complementary of C in A  
+```
+  C - A = {0, 2, 4, 6}
+```
+
+c) Complementary of D in A  
+```
+  D - A = {0, 1, 3, 5, 7}
+```
+
+d) Complementary of (B ∩ C ∩ D) in A  
+```
+  (B ∩ C ∩ D) - A = {0, 1, 2, 3, 4, 5, 6, 7}
+```
