@@ -141,3 +141,109 @@ j) (B ∪ D) ∪ A
 ```  
 
 ### Question No. 6
+
+With the data from the previous question, calculate:
+
+a) A ∩ B  
+```
+  A ∩ B = {0, 2, 3}
+```  
+
+b) A ∩ C  
+```
+  A ∩ C = {0, 2}
+```  
+
+c) A ∩ D  
+```
+  A ∩ D = {∅}
+```  
+
+d) B ∩ C  
+```
+  B ∩ C = {0, 2}
+```  
+
+e) B ∩ D  
+```
+  B ∩ D = {∅}
+```  
+
+f) C ∩ D  
+```
+  C ∩ D = {∅}
+```  
+
+g) (A ∩ B) ∩ C  
+```
+  (A ∩ B) ∩ C = {0, 2}
+```  
+
+h) (B ∩ C) ∩ D  
+```
+  (B ∩ C) ∩ D = {∅}
+```  
+
+i) (A ∩ C) ∩ D  
+```
+  (A ∩ C) ∩ D = {∅}
+```  
+
+j) (B ∩ D) ∩ A  
+```
+  (B ∩ D) ∩ A = {∅}
+```  
+
+### Question No. 7
+
+With the data from the previous question, calculate:
+
+a) A − B  
+```
+  A - B = {0, 2, 3}
+```  
+
+b) A − C  
+```
+  A - C = {0, 2, 3}
+```  
+
+c) A − D  
+```
+  A - D = {0, 2, 3}
+```  
+
+d) B − C  
+```
+  B - C = {0, 2, 3}
+```  
+
+e) B − D  
+```
+  B - D = {0, 2, 3}
+```  
+
+f) C − D  
+```
+  C − D = {0, 2, 3}
+```  
+
+g) (A − B) − C  
+```
+  (A − B) − C = {0, 2, 3}
+```  
+
+h) (B − C) − D  
+```
+  (B − C) − D = {0, 2, 3}
+```  
+
+i) (A − C) − D  
+```
+  (A − C) − D = {0, 2, 3}
+```  
+
+j) (B − D) − A  
+```
+  (B − D) − A = {0, 2, 3}
+```  
