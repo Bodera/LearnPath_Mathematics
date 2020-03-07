@@ -200,50 +200,66 @@ With the data from the previous question, calculate:
 
 a) A − B  
 ```
-  A - B = {0, 2, 3}
+  A - B = {1}
 ```  
 
 b) A − C  
 ```
-  A - C = {0, 2, 3}
+  A - C = {1, 3}
 ```  
 
 c) A − D  
 ```
-  A - D = {0, 2, 3}
+  A - D = {0, 1, 2, 3}
 ```  
 
 d) B − C  
 ```
-  B - C = {0, 2, 3}
+  B - C = {3, 5}
 ```  
 
 e) B − D  
 ```
-  B - D = {0, 2, 3}
+  B - D = {0, 2, 3, 5}
 ```  
 
 f) C − D  
 ```
-  C − D = {0, 2, 3}
+  C − D = {0, 2, 4, 6, 8}
 ```  
 
 g) (A − B) − C  
 ```
-  (A − B) − C = {0, 2, 3}
+  (A − B) − C = {1}
 ```  
 
 h) (B − C) − D  
 ```
-  (B − C) − D = {0, 2, 3}
+  (B − C) − D = {3}
 ```  
 
 i) (A − C) − D  
 ```
-  (A − C) − D = {0, 2, 3}
+  (A − C) − D = {1, 3}
 ```  
 
 j) (B − D) − A  
 ```
-  (B − D) − A = {0, 2, 3}
+  (B − D) − A = {5}
 ```  
+
+### Question No. 8
+
+Consider the sets:
+```
+  A = {0, 1, 2, 3, 4, 5, 6, 7}
+  B = {0, 2, 5}
+  C = {1, 3, 5, 7}
+  D = {2, 4, 6}
+```  
+determine:
+
+a) Complementary of B in A
+b) Complementary of C in A
+c) Complementary of D in A
+d) Complementary of (B ∩ C ∩ D) in A
