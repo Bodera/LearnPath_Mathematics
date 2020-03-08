@@ -23,9 +23,11 @@ __1º step__ - Sort the data in ascending order
 __2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value
 
 ```
-  (11) - (4) = 7
+  (11) - (4)
+  = 7 value of total amplitude
 
-  (19) - (5) = 14
+  (19) - (5)
+  = 14 value of total amplitude
 ```
 
 __3º step__ - Calculate the arithmetic average of each data set by applying the formula:
