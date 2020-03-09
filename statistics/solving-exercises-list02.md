@@ -2,7 +2,7 @@
 
 ### Question No. 1
 
-Obtain the total amplitude, mean, variance and standard deviation for the two data sets below:
+Obtain the total amplitude, mean, variance and standart deviation for the two data sets below:
 
 ```
   11   10   8   4   6   7   11   6   11   7
@@ -50,7 +50,7 @@ knowing this, arithmetic mean can now be calculate:
   = 11.111111 value of arithmetic mean
 ```
 
-__4º step__ - Calculate the standard deviation of each data set by applying the formula:
+__4º step__ - Calculate the standart deviation of each data set by applying the formula:
 
 ```
 s = √(1/(n-1)) * (xᵢ - x̅)²
@@ -59,31 +59,31 @@ n: total of values in the data set
 xᵢ: each individual value in the data set
 ```
 
-knowing this, standard deviation can now be calculate:
+knowing this, standart deviation can now be calculate:
 
 ```
   √(1/(10-1)) * ((4 - 8.1)² + (6 - 8.1)² + (6 - 8.1)² + (7 - 8.1)² + (7 - 8.1)² +
                  (8 - 8.1)² + (10 - 8.1)² + (11 - 8.1)² + (11 - 8.1)² + (11 - 8.1)²)
   = √(1/9) * (16.81 + 4.41 + 4.41 + 1.21 + 1.21 + 0.01 + 3.61 + 8.41 + 8.41 + 8.41)
   = √6.3222222
-  = 2.514402951 value of standard deviation
+  = 2.514402951 value of standart deviation
 
   √(1/(9-1)) * ((5 - 11.111111)² + (6 - 11.111111)² + (8 - 11.111111)² + (8 - 11.111111)² + (12 - 11.111111)² +
                 (13 - 11.111111)² + (14 - 11.111111)² + (15 - 11.111111)² + (19 - 11.111111)²)
   = √(1/8) * (37.34567765 + 26.12345565 + 9.679011654 + 9.679011654 + 0.7901236543 +
               3.567901654 + 8.345679654 + 15.12345765 + 62.23456965)
   = √21.6111111
-  = 4.648775226 value of standard deviation
+  = 4.648775226 value of standart deviation
 ```
 
 __5º step__ - Calculate the variance of each data set by applying the formula:
 
 ```
 s²
-s: standard deviation
+s: standart deviation
 ```
 
-knowing this, standard deviation can now be calculate:
+knowing this, standart deviation can now be calculate:
 
 ```
   (2.514402951)²
@@ -91,4 +91,109 @@ knowing this, standard deviation can now be calculate:
 
   (4.648775226)²
   = 21.6111111 value of variance
+```
+
+### Question No. 2
+
+Samples of annual salaries, in thousands of dollars, from government officials in the city of Los Angeles and Long Beach are listed below:
+
+```
+Los Angeles: 	20,2  26,1	20,9	35,9	23,0	28,2	31,6	18,3
+Long Beach: 	20,9	18,2	20,8	21,1	26,5	26,9	24,2	25,1
+```
+
+a) Obtain the total amplitude, mean, variance and standart deviation for each of the data sets
+b) Compare the two cities (average salary and standart deviation).
+
+#### Procedures for the solution of question No. 2
+
+__1º step__ - Sort the data in ascending order
+
+```
+LA:   18.3  20.2  20.9  23.0  26.1  28.2  31.6  35.9
+LBC:  18.2  20.8	20.9  21.1  24.2  25.1  26.5  26.9
+```
+
+__2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value
+
+```
+LA:  (35.9) - (18.3)
+     = 17.6 value of total amplitude
+
+LBC: (26.9) - (18.2)
+     = 8.7 value of total amplitude
+```
+
+__3º step__ - Calculate the arithmetic average of each data set by applying the formula:
+
+```
+x̅ = (1/n) * (x₁ + ... + xₙ)
+n: total of values in the data set
+xₙ: each individual value in the data set
+```
+
+knowing this, arithmetic mean can now be calculate:
+
+```
+LA: (1 / 8) * (18.3 + 20.2 + 20.9 + 23.0 + 26.1 + 28.2 + 31.6 + 35.9)
+    = 0.125 * 204.2
+    = 25.525 value of arithmetic mean
+
+LBC: (1 / 8) * (18.2 + 20.8	+ 20.9 + 21.1 + 24.2 + 25.1 + 26.5 + 26.9)
+     = 0.125 * 183.7
+     = 22.9625 value of arithmetic mean
+```
+
+__4º step__ - Calculate the standart deviation of each data set by applying the formula:
+
+```
+s = √(1/(n-1)) * (xᵢ - x̅)²
+x̅: arithmetic average of data set
+n: total of values in the data set
+xᵢ: each individual value in the data set
+```
+
+knowing this, standart deviation can now be calculate:
+
+```
+LA:  √(1/(8-1)) * ((18.3 - 25.525)² + (20.2 - 25.525)² + (20.9 - 25.525)² + (23.0 - 25.525)² +
+                   (26.1 - 25.525)² + (28.2 - 25.525)² + (31.6 - 25.525)² + (35.9 - 25.525)²)
+     = √(1/7) * (52.200625 + 28.355625 + 21.390625 + 6.375625 +
+                  0.330625 + 7.155625 + 36.905625 + 107.640625)
+     = √37.19357143
+     = 6.098653247 value of standart deviation
+
+LBC: √(1/(8-1)) * ((18.2 - 22.9625)² + (20.8 - 22.9625)² + (20.9 - 22.9625)² + (21.1 - 22.9625)² +
+                   (24.2 - 22.9625)² + (25.1 - 22.9625)² + (26.5 - 22.9625)² + (26.9 - 22.9625)²)
+     = √(1/7) * (22.68140625 + 4.67640625 + 4.25390625 + 3.46890625 +
+                 1.53140625 + 4.56890625 + 12.51390625 + 15.50390625)
+     = √9.885535714
+     = 3.144127178 value of standart deviation
+```
+
+__5º step__ - Calculate the variance of each data set by applying the formula:
+
+```
+s²
+s: standart deviation
+```
+
+knowing this, standart deviation can now be calculate:
+
+```
+LA:  (6.098653247)²
+     = 37.19357143 value of variance
+
+LBC: (3.144127178)²
+     = 9.885535711 value of variance
+```
+
+__6º step__ - Lets compare the arithmetic average and standart deviation of the two cities:
+
+```
+LA:  25.525 greater avg salary; 6.098653247 greater standart deviation.
+
+LBC: 22.9625 lower avg salary;  3.144127178 lower standart deviation.
+
+The annual wages of LA vary more than LBC.
 ```
