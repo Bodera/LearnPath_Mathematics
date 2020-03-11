@@ -43,16 +43,16 @@ The result of the following numeric expression is:
 The result of the following numeric expression is:
 
 ```
-[30 - (17 - 8) * 3 + 25] / 7 = ?
+[30 - (17 - 8) * 3 + 25] ÷ 7 = ?
 ```
 
 #### Solution for question no. 3
 
 ```
-[30 - (17 - 8) * 3 + 25] / 7 = ?
-= [30 - (51 - 24) + 25] / 7
-= [30 - 27 + 25] / 7
-= 28 / 7
+[30 - (17 - 8) * 3 + 25] ÷ 7 = ?
+= [30 - (51 - 24) + 25] ÷ 7
+= [30 - 27 + 25] ÷ 7
+= 28 ÷ 7
 = 4
 ```
 
@@ -61,18 +61,18 @@ The result of the following numeric expression is:
 The result of the following numeric expression is:
 
 ```
-{[(8 * 4 + 3) / 7 + (3 + 15 / 5) * 3] * 2 - (19 - 7) / 6} * 2 + 12 = ?
+{[(8 * 4 + 3) ÷ 7 + (3 + 15 ÷ 5) * 3] * 2 - (19 - 7) ÷ 6} * 2 + 12 = ?
 ```
 
 #### Solution for question no. 4
 
 ```
-{[(8 * 4 + 3) / 7 + (3 + 15 / 5) * 3] * 2 - (19 - 7) / 6} * 2 + 12 = ?
-= {[(32 + 3) / 7 + (3 + 3) * 3] * 2 - 12 / 6} * 2 + 12
-= {[35 / 7 + (9 + 9)] * 2 - 12 / 6} * 2 + 12
-= {[35 / 7 + 18] * 2 - 12 / 6} * 2 + 12
-= {[5 + 18] * 2 - 12 / 6} * 2 + 12
-= {23 * 2 - 12 / 6} * 2 + 12
+{[(8 * 4 + 3) ÷ 7 + (3 + 15 ÷ 5) * 3] * 2 - (19 - 7) ÷ 6} * 2 + 12 = ?
+= {[(32 + 3) ÷ 7 + (3 + 3) * 3] * 2 - 12 ÷ 6} * 2 + 12
+= {[35 ÷ 7 + (9 + 9)] * 2 - 12 ÷ 6} * 2 + 12
+= {[35 ÷ 7 + 18] * 2 - 12 ÷ 6} * 2 + 12
+= {[5 + 18] * 2 - 12 ÷ 6} * 2 + 12
+= {23 * 2 - 12 ÷ 6} * 2 + 12
 = {46 - 2} * 2 + 12
 = {92 - 4} + 12
 = 88 + 12
@@ -84,13 +84,13 @@ The result of the following numeric expression is:
 The rest of the integer division below is:
 
 ```
-15123 / 75 = ?
+15123 ÷ 75 = ?
 ```
 
 #### Solution for question no. 5
 
 ```
-15123 / 75 = ?
+15123 ÷ 75 = ?
 = 201
 
 15075 - 15123 = 48
@@ -101,13 +101,13 @@ The rest of the integer division below is:
 The rest of the integer division below is:
 
 ```
-12679 / 23 = ?
+12679 ÷ 23 = ?
 ```
 
 #### Solution for question no. 6
 
 ```
-12679 / 23 = ?
+12679 ÷ 23 = ?
 = 551
 
 12673 - 12679 = 6
