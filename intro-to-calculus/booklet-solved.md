@@ -7,11 +7,15 @@ This huge file will cover solutions for the exercises suggested on [this booklet
 Use inequalities to describe the given range:
 
 a)
------__[-----------)__-----  
+```
+-----[-----------)-----
     -2           3
+```
 
 b)
------__(----------------------->__  
+```
+-----(----------------------->
     -4           
+```
 
 #### Solution for question no. 1
