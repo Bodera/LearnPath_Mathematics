@@ -19,3 +19,13 @@ b)
 ```
 
 #### Solution for question no. 1
+
+a)
+```
+  -2 ≤ x < 3
+```
+
+b)
+```
+  x > -4
+```
