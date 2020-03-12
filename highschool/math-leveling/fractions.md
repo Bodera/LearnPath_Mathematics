@@ -99,6 +99,6 @@ Roberto paid R$ 75.00 and Marina R$ 45.00. The total cost of the videogame was R
 
 The result of the following numeric expression is:
 
-<img src="https://latex.codecogs.com/gif.latex?\frac{2}{\frac{-7}{15}}" title="\frac{2}{\frac{-7}{15}}" />
+<img src="https://latex.codecogs.com/gif.latex?\frac{2}{\frac{-7}{15}}"/>
 
 #### Solution for question no. 6
