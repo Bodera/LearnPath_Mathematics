@@ -1,6 +1,6 @@
 # Numeric expressions
 
-## Series 1
+## Series No. 1
 
 ```
 4 + 5 * 8 = ?
@@ -18,7 +18,7 @@
 11 + 4 * 3 = ?
 ```
 
-### Resolution
+### Resolution for series no. 1
 
 ```
 4 + (5 * 8)
@@ -62,7 +62,7 @@
 36 - 28 ÷ 7 = ?
 ```
 
-### Resolution
+### Resolution for series no. 2
 
 ```
 31 - (15 * 2)
@@ -106,7 +106,7 @@
 8 * 6 - 72 ÷ 8 = ?
 ```
 
-### Resolution
+### Resolution for series no. 3
 
 ```
 (6 * 4) + (3 * 7)
@@ -150,7 +150,7 @@
 (3 + 9) ÷ 3 - 4 ÷ (7 - 5) = ?
 ```
 
-### Resolution
+### Resolution for series no. 4
 
 ```
 5 * (7 + 4) + 3 * 2
@@ -198,7 +198,7 @@
 (+14) * (+9) = ?
 ```
 
-### Resolution
+### Resolution for series no. 5
 
 ```
 (+2) * (+5)
@@ -242,7 +242,7 @@
 (-1) * (+5) = ?
 ```
 
-### Resolution
+### Resolution for series no. 6
 
 ```
 (-2) * (+3)
@@ -286,7 +286,7 @@
 (-1) * (-8) = ?
 ```
 
-### Resolution
+### Resolution for series no. 7
 
 ```
 (-2) * (-3)
@@ -326,7 +326,7 @@
 (+18) ÷ (+3) = ?
 ```
 
-### Resolution
+### Resolution for series no. 8
 
 ```
 (+15) ÷ (+3)
@@ -370,7 +370,7 @@
 (+3) ÷ (-1) = ?
 ```
 
-### Resolution
+### Resolution for series no. 9
 
 ```
 (+15) ÷ (-3)
@@ -414,7 +414,7 @@
 (-7) ÷ (-1) = ?
 ```
 
-### Resolution
+### Resolution for series no. 10
 
 ```
 (-14) ÷ (-7)
@@ -454,7 +454,7 @@
 (+7) * (-6) ÷ (+14) * (-1) = ?
 ```
 
-### Resolution
+### Resolution for series no. 11
 
 ```
 (+12) * (-4) ÷ (-6)
@@ -520,7 +520,7 @@
 10 ^ 3 = ?
 ```
 
-### Resolution
+### Resolution for series no. 12
 
 ```
 2 ^ 3
@@ -588,7 +588,7 @@
 (-1) ^ 6 = ?
 ```
 
-### Resolution
+### Resolution for series no. 13
 
 ```
 (-3) ^ 2
@@ -632,7 +632,7 @@
 (-1) ^ 7 = ?
 ```
 
-### Resolution
+### Resolution for series no. 14
 
 ```
 (-2) ^ 5
@@ -676,7 +676,7 @@
 10 ^ 6 = ?
 ```
 
-### Resolution
+### Resolution for series no. 15
 
 ```
 10 ^ 2
@@ -720,7 +720,7 @@
 1000000000 = ?
 ```
 
-### Resolution
+### Resolution for series no. 16
 
 ```
 1000000
@@ -760,7 +760,7 @@
 -1 ^ 6 = ?
 ```
 
-### Resolution
+### Resolution for series no. 17
 
 ```
 -3 ^ 2
@@ -840,7 +840,7 @@
 √225 = ?
 ```
 
-### Resolution
+### Resolution for series no. 18
 
 ```
 √4
@@ -932,7 +932,7 @@
 ³√1000 = ?
 ```
 
-### Resolution
+### Resolution for series no. 19
 
 ```
 ³√27
@@ -980,4 +980,4 @@
 √41209 = ?
 ```
 
-### Resolution
+### Resolution for series no. 20

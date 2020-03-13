@@ -29,3 +29,60 @@ b)
 ```
   x > -4
 ```
+
+### Question No. 2
+
+Represent the interval given as a line segment on a graduated line:
+
+a) -3 ≤ x < 2  
+b) -1 < x < 5  
+c) x ≥ 1  
+d) 2 ≥ x < 7  
+
+#### Solution for question no. 2
+
+a)
+```
+----[--------------)-------
+   -3              2
+```
+
+b)
+```
+----(--------------------)----
+   -1                    5
+```
+
+c)
+```
+-----------[--------------->
+           1
+```
+
+d)
+```
+--------[----------------)----
+        2                7
+```
+
+### Question No. 3
+
+Determine the distance between two real numbers:
+
+a) 0 and 3  
+b) -5 and -2  
+
+#### Solution for question no. 3
+
+a)
+```
+  3 - 0
+  = 3 total distance.
+```
+
+b)
+```
+  (-5) - (-2)
+  = |-3|
+  = 3 total distance
+```
