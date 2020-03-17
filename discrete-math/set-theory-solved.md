@@ -2,7 +2,7 @@
 
 You may want to check out [this pdf file](./teoria-dos-conjuntos1.pdf) in order to read more about set theory and the needed properties to perform operations between them.
 
-The __bold text__ will be used to denote a problem which solution will be achieved using formulas. The *italic text* will be used to denote a problem which solution will be achieved using the [Venn diagram](https://www.mathsisfun.com/sets/venn-diagrams.html), in this case the [meta-chart tool](https://www.meta-chart.com/venn#/) will be used to plot the diagrams.
+The __bold text__ will be used to denote a problem which solution will be achieved using formulas. The *italic text* will be used to denote a problem which solution will be achieved using the [Venn diagram](https://www.mathsisfun.com/sets/venn-diagrams.html), in this case the [lucid chart tool](https://www.lucidchart.com/pages/pt/exemplos/diagrama-de-venn-online) will be used to plot the diagrams.
 
 ## Exercises
 
@@ -132,7 +132,7 @@ h) (B ∪ C) ∪ D
 
 i) (A ∪ C) ∪ D  
 ```
-  (A ∪ C) ∪ D = {0, 1, 2, 3, 4, 6, 7, 8, 9}
+  (A ∪ C) ∪ D = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
 ```  
 
 j) (B ∪ D) ∪ A  
@@ -173,7 +173,7 @@ d) B ∩ C
 
 e) B ∩ D  
 ```
-  B ∩ D = {∅}
+  B ∩ D = {5}
 ```  
 
 f) C ∩ D  
@@ -234,7 +234,7 @@ d) B − C
 
 e) B − D  
 ```
-  B - D = {0, 2, 3, 5}
+  B - D = {0, 2, 3}
 ```  
 
 f) C − D  
@@ -259,7 +259,7 @@ i) (A − C) − D
 
 j) (B − D) − A  
 ```
-  (B − D) − A = {5}
+  (B − D) − A = {∅}
 ```  
 
 ### Question No. 8
@@ -291,4 +291,28 @@ c) Complementary of D in A
 d) Complementary of (B ∩ C ∩ D) in A  
 ```
   (B ∩ C ∩ D) - A = {0, 1, 2, 3, 4, 5, 6, 7}
+```
+
+### Question No. 9
+
+In a research on preference over two newspapers, 470 people were consulted and the result was as follows: 250 of them read the newspaper A, 180 read newspaper B and 60 read both newspapers.
+The following questions are asked:
+
+![Question No. 9 diagram](./images/QuestionNo09.png)
+
+a) How many people read only newspaper A?  
+```
+190
+```
+b) How many people read only newspaper B?  
+```
+120
+```
+c) How many people read newspapers?  
+```
+370
+```
+d) How many people do not read newspapers?  
+```
+100
 ```
