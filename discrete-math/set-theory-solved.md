@@ -316,3 +316,18 @@ d) How many people do not read newspapers?
 ```
 100
 ```
+
+### Question No. 10
+
+In a city, three products A, B and C are consumed. A market survey was conducted on the consumption of these products and the following result was obtained:
+
+|      Product      | Number of consumers |
+|:-----------------:|:-------------------:|
+|         A         |         150         |
+|         B         |         200         |
+|         C         |         250         |
+|      A and B      |          70         |
+|      A and C      |          90         |
+|      B and C      |          80         |
+|     A, B and C    |          60         |
+| None of the three |         180         |
