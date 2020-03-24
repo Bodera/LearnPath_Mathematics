@@ -3,7 +3,7 @@ conjuntos numéricos
 N - naturais ( 0, 1, 2, 3...)
 Q - racionais (frações)
 Z - inteiros (... -3, -2, -1, 0, 1, 2 , 3..)
-R - reais 
+R - reais
 
 
 a € A (a pertence ao conjunto A)
@@ -15,10 +15,10 @@ Relação entre conjuntos
 
 
 Igualdade entre conjuntos
- Quando A c B e B c A. 
+ Quando A c B e B c A.
 
 Conjuntos especiais
-Void - A={x € R tal que x^2 = -1} 
+Void - A={x € R tal que x^2 = -1}
 Universo - U
 
 
@@ -43,7 +43,8 @@ Exercícios
 03- Marque V ou F (em foto)
    A
 04- Marque V ou F (em foto)
-pegadinha está contido (conjuntos e conjuntos) e pertence (elementos e conjuntos), conjuntos podem ser elementos de um conjunto. Vazio é um conjunto que não tem elementos e está contido em todos conjuntos.
+pegadinha está contido (conjuntos e conjuntos) e pertence (elementos e conjuntos), conjuntos podem ser elementos de um conjunto.
+ Vazio é um conjunto que não tem elementos e está contido em todos conjuntos.
    V
    F
    V

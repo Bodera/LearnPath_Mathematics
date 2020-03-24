@@ -331,3 +331,56 @@ In a city, three products A, B and C are consumed. A market survey was conducted
 |      B and C      |          80         |
 |     A, B and C    |          60         |
 | None of the three |         180         |
+
+The following questions are asked:
+
+![Question No. 10 diagram](./images/QuestionNo10.png)
+
+a) How many people consume only product A?  
+```
+50
+```
+b) How many people consume product A or product B or product C?  
+```
+A + B + C
+= 50 + 110 + 140
+= 300
+```
+c) How many people consume product A or product B?  
+```
+A + B
+= 50 + 110
+= 160
+```
+d) How many people were consulted?  
+```
+600
+```
+
+### Question No. 11
+
+A test was made up of two problems. 300 students hit only one, 260 hit the second, 100 students hit both and 210 missed the first. How many students took the test?
+
+![Question No. 11 diagram](./images/QuestionNo11.png)
+
+__Answer:__  
+```
+450 students took the test.
+```
+
+### Question No. 12
+
+According to the theory, a set with m elements has exactly 2ᵐ subsets. Using this reasoning, determine the number of elements in set A, knowing that:
+
+1. B is a set of three elements;  
+2. A ∩ B is empty;  
+3. The number of subsets of A ∪ B is 32.  
+
+__Answer:__  
+```
+1 => P(B) = 2³ => 𝟾̲
+2 => A ∩ B = {∅}
+3 => A ∪ B = P(32) => A ∪ 3 = 2⁵ => 2 ∪ 3 = 5
+
+A is a set of two elements.
+```
