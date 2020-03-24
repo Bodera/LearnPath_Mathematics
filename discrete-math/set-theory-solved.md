@@ -342,15 +342,17 @@ a) How many people consume only product A?
 ```
 b) How many people consume product A or product B or product C?  
 ```
-A + B + C
-= 50 + 110 + 140
-= 300
+(A + B + C) + (A ∩ B) + (B ∩ C) + (A ∩ C) + (A ∩ B ∩ C)
+= 300 + (10 + 20 + 30 + 60)
+= 300 + 120
+= 420
 ```
 c) How many people consume product A or product B?  
 ```
-A + B
-= 50 + 110
-= 160
+(A + B) + (A ∩ B) + (B ∩ C) + (A ∩ C) + (A ∩ B ∩ C)
+= 160 + (10 + 20 + 30 + 60)
+= 160 + 120
+= 280
 ```
 d) How many people were consulted?  
 ```
@@ -378,9 +380,29 @@ According to the theory, a set with m elements has exactly 2ᵐ subsets. Using t
 
 __Answer:__  
 ```
-1 => P(B) = 2³ => 𝟾̲
+1 => P(B) = 2³ => 8
 2 => A ∩ B = {∅}
 3 => A ∪ B = P(32) => A ∪ 3 = 2⁵ => 2 ∪ 3 = 5
 
 A is a set of two elements.
+```
+
+### Question No. 13
+
+A publisher is studying the possibility of launching the publications HELENA, SENHORA and A MORENINHA again. For this, it carried out a market research and concluded that for every 1,000 people consulted, 600 read MORENINHA, 400 read HELENA, 300 read LADY, 200 read MORENINHA and HELENA, 150 read MORENINHA and LADY, 100 read HELENA and LADY and 20 read the three works.
+It is questioned:
+
+![Question No. 13 diagram](./images/QuestionNo13.png)
+
+a) How many people read only one of the three works?  
+```
+(H ∪ M ∪ S) = 270 + 120 + 70 = 460
+```
+b) How many people have not read any of the three works?  
+```
+Complementary of (H ∪ M ∪ S) = 130
+```
+c) How many people read two or more works?  
+```
+(H ∩ S) + (M ∩ S) + (H ∩ M) + (H ∩ S ∩ M) = 80 + 130 + 180 + 20 = 410
 ```
