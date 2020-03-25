@@ -396,13 +396,73 @@ It is questioned:
 
 a) How many people read only one of the three works?  
 ```
-(H ∪ M ∪ S) = 270 + 120 + 70 = 460
+(H ∪ M ∪ S)
+= 270 + 120 + 70
+= 460
 ```
 b) How many people have not read any of the three works?  
 ```
-Complementary of (H ∪ M ∪ S) = 130
+Complementary of (H ∪ M ∪ S)
+= 130
 ```
 c) How many people read two or more works?  
 ```
-(H ∩ S) + (M ∩ S) + (H ∩ M) + (H ∩ S ∩ M) = 80 + 130 + 180 + 20 = 410
+(H ∩ S) + (M ∩ S) + (H ∩ M) + (H ∩ S ∩ M)
+= 80 + 130 + 180 + 20
+= 410
+```
+
+### Question No. 14
+In a group of 99 athletes, 40 play volleyball, 20 play volleyball and basketball, 22 play basketball and football, 18 play volleyball and football, 11 play all three. The number of people who play basketball is equal to the number of people who play football.
+It is questioned:
+
+![Question No. 14 diagram](./images/QuestionNo14.png)
+
+a) How many play football and do not play volleyball?  
+```
+F + (B ∩ F)
+= 25 + 11
+= 36
+```
+b) How many play basketball and do not play volleyball?  
+```
+B + (F ∩ B)
+= 23 + 11
+= 34
+```
+c) How many play volleyball and do not play basketball?  
+```
+V + (F ∩ V)
+= 13 + 7
+= 20
+```
+
+### Question No. 15
+
+Given the diagram below, color the region (A ∩ B) ∪ (A ∩ C).
+
+![Question No. 15 diagram](./images/QuestionNo15.png)
+
+__Answer__:
+
+![Question No. 15 diagram - Answer](./images/QuestionNo15-Answer.png)
+
+### Question No. 16
+
+__Answers__:
+a) What is called the set that has only one element?  
+```
+Unitary.
+```
+b) If A ∩ B = ∅, what are the sets A and B called?  
+```
+Disjoint sets.
+```
+c) If a set A has 3 elements and a set B has 5 elements, how many elements does set A ∩ B will have at most?
+```
+3 elements.
+```
+d) If A and B are disjoint, how many elements will the set A ∩ B have?  
+```
+0, none. The intersection of disjoint sets is ∅.
 ```
