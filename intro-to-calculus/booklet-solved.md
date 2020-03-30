@@ -1,3 +1,8 @@
+# Resources you may find useful
+
+[Do your math](https://doyourmath.com)
+[Quick math](https://quickmath.com)
+
 ## Differential calculus booklet
 
 This huge file will cover solutions for the exercises suggested on [this booklet](https://drive.google.com/file/d/0B977UW2k4o7acmZ6SkFXZm1LTUk/view). Use the answers as a strategy to understand the necessary steps to solve the problems, not just copy them in a freak way.
