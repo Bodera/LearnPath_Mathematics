@@ -1,7 +1,7 @@
 # Resources you may find useful
 
-[Do your math](https://doyourmath.com)
-[Quick math](https://quickmath.com)
+1. [Do your math](https://doyourmath.com)
+2. [Quick math](https://quickmath.com)
 
 ## Differential calculus booklet
 
