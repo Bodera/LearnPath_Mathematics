@@ -197,3 +197,73 @@ LBC: 22.9625 lower avg salary;  3.144127178 lower standart deviation.
 
 The annual wages of LA vary more than LBC.
 ```
+
+### Question No. 3
+
+Samples of annual salaries, in thousands of dollars, for teachers from public and private schools are listed below.
+
+```
+Public school:  38,6	38,1	38,7	36,8	34,8	35,9	39,9	36,2
+Private school: 21,8	18,4	20,3	17,6	19,7	18,3	19,4	20,8
+```
+
+a) Obtain the total amplitude, mean, variance and standard deviation for each of the data sets.
+b) Compare the two education networks (average salary and standard deviation).
+
+### Procedures for the solution of question No. 3
+
+__1º step__ - Sort the data in ascending order
+
+```
+Public school:  34,8  35,9  36,2  36,8  38,1  38,6	38,7	39,9
+Private school: 17,6  18,3  18,4  19,4  19,7	20,3	20,8  21,8
+```
+
+### Question No. 4
+
+### Procedures for the solution of question No. 4
+
+
+### Question No. 5
+
+### Procedures for the solution of question No. 5
+
+
+### Question No. 6
+
+### Procedures for the solution of question No. 6
+
+
+### Question No. 7
+
+### Procedures for the solution of question No. 7
+
+
+### Question No. 8
+
+### Procedures for the solution of question No. 8
+
+
+### Question No. 9
+
+### Procedures for the solution of question No. 9
+
+
+### Question No. 10
+
+### Procedures for the solution of question No. 10
+
+
+### Question No. 11
+
+### Procedures for the solution of question No. 11
+
+
+### Question No. 12
+
+### Procedures for the solution of question No. 12
+
+
+### Question No. 13
+
+### Procedures for the solution of question No. 13
