@@ -1,5 +1,6 @@
 ## Variations measures
 
+
 ### Question No. 1
 
 Obtain the total amplitude, average, variance and standart deviation for the two data sets below:
@@ -12,7 +13,7 @@ Dataset 2:  15   8   12   5   19   14   8   6   13
 
 #### Procedures for the solution of question No. 1
 
-__1º step__ - Sort the data in ascending order
+__1º step__ - Sort the data in ascending order.
 
 ```
 Dataset 1:  4   6   6   7   7   8   10   11   11   11  
@@ -20,7 +21,7 @@ Dataset 1:  4   6   6   7   7   8   10   11   11   11
 Dataset 2:  5   6   8   8   12   13   14   15   19
 ```
 
-__2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value
+__2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value.
 
 ```
 Dataset 1:  (11) - (4)
@@ -96,6 +97,7 @@ Dataset 2:  (4.648775227)²
             = 21.6111... value of variance
 ```
 
+
 ### Question No. 2
 
 Samples of annual salaries, in thousands of dollars, from government officials in the city of Los Angeles and Long Beach are listed below:
@@ -110,14 +112,14 @@ b) Compare the two cities (average salary and standart deviation).
 
 #### Procedures for the solution of question No. 2
 
-__1º step__ - Sort the data in ascending order
+__1º step__ - Sort the data in ascending order.
 
 ```
 LA:   18.3  20.2  20.9  23.0  26.1  28.2  31.6  35.9
 LBC:  18.2  20.8	20.9  21.1  24.2  25.1  26.5  26.9
 ```
 
-__2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value
+__2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value.
 
 ```
 LA:  (35.9) - (18.3)
@@ -203,6 +205,7 @@ LBC: 22.9625 lower salary avg; 3.144127178 lower standart deviation.
 The annual wages of LA vary more than LBC.
 ```
 
+
 ### Question No. 3
 
 Samples of annual salaries, in thousands of dollars, for teachers from public and private schools are listed below.
@@ -217,14 +220,14 @@ b) Compare the two education networks (average salary and standart deviation).
 
 ### Procedures for the solution of question No. 3
 
-__1º step__ - Sort the data in ascending order
+__1º step__ - Sort the data in ascending order.
 
 ```
 Public school:  34.8  35.9  36.2  36.8  38.1  38.6	38.7	39.9
 Private school: 17.6  18.3  18.4  19.4  19.7	20.3	20.8  21.8
 ```
 
-__2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value
+__2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value.
 
 ```
 Public school:  (39.9) - (34.8)
