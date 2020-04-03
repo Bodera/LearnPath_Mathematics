@@ -13,11 +13,11 @@ e)  __Universe__: parts produced by a certain machine. __Variable__: diameter.
 
 #### Solution of question No. 1
 
-a) Qualitative.
-b) Quantitative discrete.
-c) Quantitative discrete.
-d) Quantitative discrete.
-e) Quantitative continuous.
+a) Qualitative.  
+b) Quantitative discrete.  
+c) Quantitative discrete.  
+d) Quantitative discrete.  
+e) Quantitative continuous.  
 
 
 ### Question No. 2
@@ -105,12 +105,12 @@ knowing this, the frequency distribution table can now be built:
 
 | Midpoint (x^) |  Age (x) | Absolute frequency (f) | Cumulative frequency (F) |
 |:-------------:|:--------:|:----------------------:|:------------------------:|
-|      5.5      |  0|---11 |           27           |            27            |
-|      16.5     | 11|---22 |           13           |            40            |
-|      27.5     | 22|---33 |           16           |            56            |
-|      38.5     | 33|---44 |            7           |            63            |
-|      49.5     | 44|---55 |           11           |            74            |
-|      60.5     | 55|---66 |            3           |            77            |
+|      5.5      |  0\|---11 |           27           |            27            |
+|      16.5     | 11\|---22 |           13           |            40            |
+|      27.5     | 22\|---33 |           16           |            56            |
+|      38.5     | 33\|---44 |            7           |            63            |
+|      49.5     | 44\|---55 |           11           |            74            |
+|      60.5     | 55\|---66 |            3           |            77            |
 |      ###      |    ###   |           77           |            ###           |
 
 ### Question No. 4
