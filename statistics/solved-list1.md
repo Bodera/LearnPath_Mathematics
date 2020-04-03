@@ -98,20 +98,20 @@ However the highest record in the dataset is actually 63. So to better adjust th
 6 = number of classes in the frequency distribution table
 63 ÷ 6 = 10.5
 
-The ideal interval between classes for the frequency distribution table is 12.
+The ideal interval between classes for the frequency distribution table is 11.
 ```
 
 knowing this, the frequency distribution table can now be built:
 
 | Midpoint (x^) |  Age (x) | Absolute frequency (f) | Cumulative frequency (F) |
 |:-------------:|:--------:|:----------------------:|:------------------------:|
-|               |  0|---11 |                        |                          |
-|               | 11|---22 |                        |                          |
-|               | 22|---33 |                        |                          |
-|               | 33|---44 |                        |                          |
-|               | 44|---55 |                        |                          |
-|               | 55|---66 |                        |                          |
-|               |          |                        |                          |
+|      5.5      |  0|---11 |           27           |            27            |
+|      16.5     | 11|---22 |           13           |            40            |
+|      27.5     | 22|---33 |           16           |            56            |
+|      38.5     | 33|---44 |            7           |            63            |
+|      49.5     | 44|---55 |           11           |            74            |
+|      60.5     | 55|---66 |            3           |            77            |
+|      ###      |    ###   |           77           |            ###           |
 
 ### Question No. 4
 
