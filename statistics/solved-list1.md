@@ -273,7 +273,18 @@ e) The sum of the midpoints of the class intervals is less than the population s
 
 __1º step__ - Add information to the frequency distribution table.
 
+| Midpoint | Weights (kg) | Simple frequency | Cumulative frequency | Relative frequency % | Cumulative frequency % |
+|:--------:|:------------:|:----------------:|:--------------------:|:--------------------:|:----------------------:|
+|     3    |    2 --- 4   |         9        |           9          |          30          |           30           |
+|     5    |    4 --- 6   |        12        |          21          |          40          |           70           |
+|     7    |    6 --- 8   |         6        |          27          |          20          |           90           |
+|     9    |   8 --- 10   |         2        |          29          |         6.67         |          96.67         |
+|    11    |   10 --- 12  |         1        |          30          |         3.33         |           100          |
+|    35    |   __TOTAL__  |        30        |          ###         |         100%         |           ###          |
 
+__2nd__ - Now we can affirme that more than 65% of the observations weigh 4 kg or more.  
+
+__Answer__: Alternative __c__.
 
 ### Question No. 7
 
@@ -296,3 +307,16 @@ d) The increasing cumulative relative frequency of the second class interval is 
 #### Solution of question No. 7
 
 __1º step__ - Add information to the frequency distribution table.
+
+| Midpoint | Minimum wages (x) | Simple frequency | Cumulative frequency | Relative frequency % | Cumulative frequency % |
+|:--------:|:-----------------:|:----------------:|:--------------------:|:--------------------:|:----------------------:|
+|     3    |      1 --- 5      |         5        |           5          |           5          |            5           |
+|     8    |      6 --- 10     |        20        |          25          |          20          |           25           |
+|    13    |     11 --- 15     |        50        |          75          |          50          |           75           |
+|    18    |     16 --- 20     |        20        |          95          |          20          |           95           |
+|    23    |     21 --- 25     |         5        |          100         |           5          |           100          |
+|    65    |     __TOTAL__     |        100       |          ###         |         100%         |           ###          |
+
+__2nd__ - Now we can affirme that the increasing cumulative relative frequency of the second class interval is 0.25, or 25%.  
+
+__Answer__: Alternative __d__.
