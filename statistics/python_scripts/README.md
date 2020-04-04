@@ -13,7 +13,10 @@ __1st__ - Preparing the environment:
 $ conda create --name statistics_stuff python=3.7
 $ source activate statistics_stuff
 $ conda install pandas
-$ conda install numpy
+$ conda config --add channels conda-forge
+$ conda search matplotlib --channel conda-forge
+$ conda install matplotlib matplotlib-base mpl_sample_data
+$ python3 <file.py>
 ```
 
 __2nd__ - Know what you can do with Pandas:
