@@ -7,6 +7,10 @@ Because programming and maths you will only learn by doing.
 2. [Algebra symbols](https://www.rapidtables.com/math/symbols/Algebra_Symbols.html)
 3. [Mathematical Double-Struck capital letters](https://www.fileformat.info/info/unicode/category/Lu/list.htm)
 
+## Casting out nines
+
+I suggest using the [Desmos scientific calculator](https://www.desmos.com/scientific) to perform the calculations.
+
 ### Repository content
 
 Work in progress (WIP).

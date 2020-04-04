@@ -91,43 +91,208 @@ __2º step__ - To create a frequency distribution table, we need to find out the
 77 = number of total records in the data set
 6 = number of classes in the frequency distribution table
 77 ÷ 6 = 12.8333...
+```
 
 However the highest record in the dataset is actually 63. So to better adjust the range let's make a different approach.
 
+```
 63 = highest record
 6 = number of classes in the frequency distribution table
 63 ÷ 6 = 10.5
-
-The ideal interval between classes for the frequency distribution table is 11.
 ```
+
+The ideal interval between classes for the frequency distribution table is __11__.
 
 knowing this, the frequency distribution table can now be built:
 
-| Midpoint (x^) |  Age (x) | Absolute frequency (f) | Cumulative frequency (F) |
-|:-------------:|:--------:|:----------------------:|:------------------------:|
-|      5.5      |  0\|---11 |           27           |            27            |
-|      16.5     | 11\|---22 |           13           |            40            |
-|      27.5     | 22\|---33 |           16           |            56            |
-|      38.5     | 33\|---44 |            7           |            63            |
-|      49.5     | 44\|---55 |           11           |            74            |
-|      60.5     | 55\|---66 |            3           |            77            |
-|      ###      |    ###   |           77           |            ###           |
+| Midpoint (x^) |  Age (x)  | Absolute frequency (f) | Cumulative frequency (F) | Relative frequency % (fr) | Cumulative frequency % |
+|:-------------:|:---------:|:----------------------:|:------------------------:|:-------------------------:|:----------------------:|
+|      5.5      |  0\|---11 |           27           |            27            |           35.06           |          35.06         |
+|      16.5     | 11\|---22 |           13           |            40            |           16.88           |          51.95         |
+|      27.5     | 22\|---33 |           16           |            56            |           20.78           |          72.72         |
+|      38.5     | 33\|---44 |            7           |            63            |            9.1            |          81.81         |
+|      49.5     | 44\|---55 |           11           |            74            |           14.28           |          96.10         |
+|      60.5     | 55\|---66 |            3           |            77            |            3.9            |           100          |
+|      ###      |    ###    |           77           |            ###           |            100%           |           ###          |
+
+__3º step__ - Now that we've finished the table, we can plot the graphs.
 
 ### Question No. 4
 
-#### Solution of question No. 4
+A survey on the age, in years, of a freshman class at a college, revealed the following data:
 
+```
+18, 17, 18, 20, 21, 19, 20, 18, 17, 19
+20, 18, 19, 18, 19, 21, 18, 19, 18, 18
+19, 19, 21, 20, 17, 19, 19, 18, 18, 19
+18, 21, 18, 19, 19, 20, 19, 18, 19, 20
+18, 19, 19, 18, 20, 20, 18, 19, 18, 18
+```
+
+Your task is to build the convenient frequency distribution for this data and plot the data on a line graph.
+
+#### Procedures for the solution of question No. 4
+
+__1º step__ - Sort the data in ascending order.
+
+```
+17, 17, 17, 18, 18, 18, 18, 18, 18, 18
+18, 18, 18, 18, 18, 18, 18, 18, 18, 18
+18, 19, 19, 19, 19, 19, 19, 19, 19, 19
+19, 19, 19, 19, 19, 19, 19, 19, 20, 20
+20, 20, 20, 20, 20, 20, 21, 21, 21, 21
+```
+
+__2º step__ - To create a frequency distribution table, we need to find out the range for each class. The instruction left us free to choose the number of classes.
+
+```
+50 = number of total records in the data set
+5 = number of distinct records
+```
+So for convenience each class will consist of __a single value__, without intervals.
+
+knowing this, the frequency distribution table can now be built:
+
+| Age (x) | Absolute frequency (f) | Cumulative frequency (F) | Relative frequency % (fr) | Cumulative frequency % |
+|:-------:|:----------------------:|:------------------------:|:-------------------------:|:----------------------:|
+|    17   |            3           |             3            |             6             |            6           |
+|    18   |           18           |            21            |             36            |           42           |
+|    19   |           17           |            38            |             34            |           76           |
+|    20   |            8           |            46            |             16            |           92           |
+|    21   |            4           |            50            |             8             |           100          |
+|   ###   |           50           |            ###           |            100%           |           ###          |
+
+__3º step__ - Now that we've finished the table, we can plot the graph.
 
 ### Question No. 5
 
-#### Solution of question No. 5
+The data below represent the earnings of a stock exchange share in the last 50 months. Build the frequency distribution suitable for this data and sketch the frequency histogram of that distribution.
 
+```
+2.50, 2.00, 1.50, 1.00, 2.80, 3.00
+4.50, 5.00, 5.20, 4.40, 1.20, 4.30
+4.00, 4.15, 4.25, 2.33, 2.15, 1.36
+3.20, 5.32, 4.15, 1.25, 2.59, 2.16
+4.12, 5.23, 1.24, 1.00, 1.62, 2.00
+2.56, 4.16, 4.26, 4.36, 5.89, 4.30
+5.66, 3.33, 3.40, 2.69, 4.22, 4.89
+5.69, 5.98, 5.00, 2.70, 4.11, 4.25
+4.75, 1.88
+```
+
+#### Procedures for the solution of question No. 5
+
+__1º step__ - Sort the data in ascending order.
+
+```
+1.00, 1.00, 1.20, 1.24, 1.25, 1.36
+1.50, 1.62, 1.88, 2.00, 2.00, 2.16
+2.15, 2.33, 2.50, 2.56, 2.59, 2.69
+2.70, 2.80, 3.00, 3.20, 3.33, 3.40
+4.00, 4.11, 4.12, 4.15, 4.15, 4.16
+4.22, 4.25, 4.25, 4.26, 4.30, 4.30
+4.36, 4.40, 4.50, 4.75, 4.89, 5.00
+5.00, 5.20, 5.23, 5.32, 5.66, 5.69
+5.89, 5.98
+```
+
+__2º step__ - To create a frequency distribution table, we need to find out the range for each class. The instruction left us free to choose the number of classes.
+
+```
+50 = number of total records in the data set
+? = number of classes
+```
+
+* Sturges rule
+
+```
+k = number of classes
+n = number of total records in the data set
+k = 1 + 3.3 * log(n)
+k = 1 + 3.3 * log(50)
+k = 6.606
+```
+
+* Power of 2 rule
+
+```
+k = number of classes
+n = number of total records in the data set
+k = 2ᵏ ≥ n
+k = 2⁶ = 64
+k = 6
+```
+
+* Square root rule
+
+```
+k = number of classes
+n = number of total records in the data set
+k = √n
+k = √50
+k = 7.071
+```
+
+The ideal number of classes is __7__ and the interval between classes for the frequency distribution table is __0.72__.
+
+knowing this, the frequency distribution table can now be built:
+
+| Midpoint (x^) |   Yield (x)   | Absolute frequency (f) | Cumulative frequency (F) | Relative frequency % (fr) | Cumulative frequency % |
+|:-------------:|:-------------:|:----------------------:|:------------------------:|:-------------------------:|:----------------------:|
+|      1.36     | 1.00\|---1.72 |            8           |             8            |             16            |           16           |
+|      2.08     | 1.72\|---2.44 |            6           |            14            |             12            |           28           |
+|      2.80     | 2.44\|---3.16 |            7           |            21            |             14            |           42           |
+|      3.52     | 3.16\|---3.88 |            3           |            24            |             6             |           48           |
+|      4.24     | 3.88\|---4.60 |           15           |            39            |             30            |           78           |
+|      4.96     | 4.60\|---5.32 |            6           |            45            |             12            |           90           |
+|      5.68     | 5.32\|---6.04 |            5           |            50            |             10            |           100          |
+|      ###      |      ###      |           50           |            ###           |            100%           |           ###          |
+
+__3º step__ - Now that we've finished the table, we can plot the graph.
 
 ### Question No. 6
 
+According to the frequency distribution transcribed below, it can be stated that:
+
+| Weights (kg) | Simple frequency |
+|:------------:|:----------------:|
+|    2 --- 4   |         9        |
+|    4 --- 6   |        12        |
+|    6 --- 8   |         6        |
+|   8 --- 10   |         2        |
+|   10 --- 12  |         1        |
+|   __TOTAL__  |        30        |
+
+a) 8% of observations are in the class `8 --- 10`.  
+b) 65% of the observations weigh not less than 4 kg and less than 10 kg.  
+c) More than 65% of the observations weigh 4 kg or more.  
+d) Fewer than 20 observations weigh 4 kg or more.  
+e) The sum of the midpoints of the class intervals is less than the population size.  
+
 #### Solution of question No. 6
+
+__1º step__ - Add information to the frequency distribution table.
+
 
 
 ### Question No. 7
 
+Consider the frequency distribution below, referring to salaries paid to employees of a company, and tick the correct alternative.
+
+| Minimum wages (x) | Simple frequency |
+|:-----------------:|:----------------:|
+|      1 --- 5      |         5        |
+|      6 --- 10     |        20        |
+|     11 --- 15     |        50        |
+|     16 --- 20     |        20        |
+|     21 --- 25     |         5        |
+|     __TOTAL__     |        100       |
+
+a) The relative frequency of the second class is 0.25.  
+b) The above data are insufficient for the construction of a frequency polygon.  
+c) The above data are insufficient for the construction of a graph of accumulated relative frequency.  
+d) The increasing cumulative relative frequency of the second class interval is 0.25.  
+
 #### Solution of question No. 7
+
+__1º step__ - Add information to the frequency distribution table.
