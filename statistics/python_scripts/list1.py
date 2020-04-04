@@ -26,9 +26,11 @@ frq_dist_frame = pd.DataFrame(data=frq_dist)
 print(frq_dist_frame)
 
 # plotting the frequency distribution histogram
+# need to combine line chart and bar chart to make the frequency polygon chart
 
 plt.bar(frq_dist_frame['Age (x)'], frq_dist_frame['Absolute frequency (f)'],
-        width=1.0, linewidth=2.0, edgecolor='#781955')
+        width=1.0, linewidth=2.0, edgecolor='#781955', yerr=abs(frq_dist_frame['Midpoint (x^)'])
+        )
 plt.title('Frequency distribution histogram')
 
 plt.show()
