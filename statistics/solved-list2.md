@@ -459,8 +459,8 @@ x̅ =
       ∑(fᵢ*x^ᵢ)
     ————————————
         ∑ fᵢ
-fᵢ: relative frequency of xⱼ
-x^ᵢ: midpoint of xⱼ
+fᵢ: relative frequency of xᵢ
+x^ᵢ: midpoint of xᵢ
 ∑(fᵢ*x^ᵢ): summation of the product of fᵢ and x^ᵢ, for all instances of xᵢ
 ∑ fᵢ: summation of fᵢ, for all instances of xᵢ
 ```
@@ -515,8 +515,8 @@ x̅ =
       ∑(fᵢ*x^ᵢ)
     ————————————
         ∑ fᵢ
-fᵢ: relative frequency of xⱼ
-x^ᵢ: midpoint of xⱼ
+fᵢ: relative frequency of xᵢ
+x^ᵢ: midpoint of xᵢ
 ∑(fᵢ*x^ᵢ): summation of the product of fᵢ and x^ᵢ, for all instances of xᵢ
 ∑ fᵢ: summation of fᵢ, for all instances of xᵢ
 ```
@@ -531,7 +531,7 @@ x̅ = 35
 __3º step__ - Calculate the median for tabular data.
 
 ```
-x~ = Lim inf + (h  * ((Lx - Fant) ÷ fᵢ))
+x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
 
 Lim inf: lower limit of the median class
 h: amplitude of the median class (any lower limit subtracted from the immediately lower limit)
@@ -546,9 +546,9 @@ knowing this, the median can now be calculate:
 median class: the class where the value of Lx is (check Fᵢ)
 median class: 30 --- 40
 
-x~ = 30 + (10  * ((50 - 30) ÷ 40))
-x~ = 30 + (10  * (20 ÷ 40))
-x~ = 30 + (10  * 0.5)
+x~ = 30 + (10 * ((50 - 30) ÷ 40))
+x~ = 30 + (10 * (20 ÷ 40))
+x~ = 30 + (10 * 0.5)
 x~ = 30 + 5
 x~ = 35
 ```
@@ -556,7 +556,7 @@ x~ = 35
 __4º step__ - Calculate the mode for tabular data.
 
 ```
-Mo = Lim inf + h  * (Δ₁ ÷ (Δ₁ + Δ₂))
+Mo = Lim inf + h * (Δ₁ ÷ (Δ₁ + Δ₂))
 
 Lim inf: lower limit of the modal class
 h: amplitude of the modal class (any lower limit subtracted from the immediately lower limit)
@@ -570,9 +570,9 @@ knowing this, the mode can now be calculate:
 modal class: the class with higher frequency of samples
 modal class: 30 --- 40
 
-Mo = 30 + 10  * (20 ÷ (20 + 20))
-Mo = 30 + 10  * (20 ÷ 40)
-Mo = 30 + 10  * 0.5
+Mo = 30 + 10 * (20 ÷ (20 + 20))
+Mo = 30 + 10 * (20 ÷ 40)
+Mo = 30 + 10 * 0.5
 Mo = 30 + 5
 Mo = 35
 ```
@@ -585,67 +585,626 @@ c) The median and mode of distribution: respectively __35__ and __35__ minutes
 
 ### Question No. 15
 
-The number of airplanes that 11 airlines maintain in operation:
+Given the frequency distribution of 44 students' grades, determine the mean, median and mode of distribution:
+
+| Grades (x) | *fᵢ* | *x^ᵢ* | *x^ᵢ * fᵢ* | *Fᵢ* |
+|:----------:|:----:|:-----:|:----------:|:----:|
+|   0\|--2   |   5  |       |            |      |
+|   2\|--4   |   8  |       |            |      |
+|   4\|--6   |  14  |       |            |      |
+|   6\|--8   |  10  |       |            |      |
+|   8\|--10  |   7  |       |            |      |
+|  __TOTAL__ |  44  |       |            |      |
 
 #### Procedures for the solution of question No. 15
 
+__1ª step__ - Fill the missing information on the given table.
+
+| Grades (x) | *fᵢ* | *x^ᵢ* | *x^ᵢ * fᵢ* | *Fᵢ* |
+|:----------:|:----:|:-----:|:----------:|:----:|
+|   0\|--2   |   5  |   1   |      5     |   5  |
+|   2\|--4   |   8  |   3   |     24     |  13  |
+|   4\|--6   |  14  |   5   |     70     |  27  |
+|   6\|--8   |  10  |   7   |     70     |  37  |
+|   8\|--10  |   7  |   9   |     63     |  44  |
+|  __TOTAL__ |  44  |   25  |     232    |  ### |
+
+__2º step__ - Calculate the arithmetic mean for tabular data.
+
+```
+x̅ =
+      ∑(fᵢ*x^ᵢ)
+    ————————————
+        ∑ fᵢ
+fᵢ: relative frequency of xᵢ
+x^ᵢ: midpoint of xᵢ
+∑(fᵢ*x^ᵢ): summation of the product of fᵢ and x^ᵢ, for all instances of xᵢ
+∑ fᵢ: summation of fᵢ, for all instances of xᵢ
+```
+
+knowing this, the arithmetic mean can now be calculate:
+
+```
+x̅ = 232 ÷ 44
+x̅ = 5.27...
+```
+
+__3º step__ - Calculate the median for tabular data.
+
+```
+x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
+
+Lim inf: lower limit of the median class
+h: amplitude of the median class (any lower limit subtracted from the immediately lower limit)
+Lx: ⁿ⁄₂, where n is the sum of all relative frequencies in the data set
+Fant: cumulative frequency before the median class
+fᵢ: relative frequency of the median class
+```
+
+knowing this, the median can now be calculate:
+
+```
+median class: the class where the value of Lx is (check Fᵢ)
+median class: 4|--6
+
+x~ = 4 + (2 * ((22 - 13) ÷ 14))
+x~ = 4 + (2 * (9 ÷ 14))
+x~ = 4 + (2 * 0.6428)
+x~ = 4 + 1.2857
+x~ = 5.2857
+```
+
+__4º step__ - Calculate the mode for tabular data.
+
+```
+Mo = Lim inf + h * (Δ₁ ÷ (Δ₁ + Δ₂))
+
+Lim inf: lower limit of the modal class
+h: amplitude of the modal class (any lower limit subtracted from the immediately lower limit)
+Δ₁: relative frequency of the modal class subtracted from the relative frequency immediately preceding
+Δ₂: relative frequency of the modal class subtracted from the relative frequency immediately afterwards
+```
+
+knowing this, the mode can now be calculate:
+
+```
+modal class: the class with higher frequency of samples
+modal class: 4|--6
+
+Mo = 4 + 2 * (6 ÷ (6 + 4))
+Mo = 4 + 2 * (6 ÷ 10)
+Mo = 4 + 2 * 0.6
+Mo = 4 + 1.2
+Mo = 5.2
+```
+
+__5º step__ - Answer the questions.
+
+a) The arithmetic average: __5.27...__  
+b) The median: __5.2857__  
+c) The mode: __5.2__  
+
 ### Question No. 16
 
-The number of airplanes that 11 airlines maintain in operation:
+Given the frequency distribution of the statures of 70 athletes, determine the mean, median and fashion of the distribution:
+
+| Statures in cm (x) | *fᵢ* | *x^ᵢ* | *x^ᵢ * fᵢ* | *Fᵢ* |
+|:------------------:|:----:|:-----:|:----------:|:----:|
+|     150\|--158     |   5  |       |            |      |
+|     158\|--166     |  12  |       |            |      |
+|     166\|--174     |  18  |       |            |      |
+|     174\|--182     |  27  |       |            |      |
+|     182\|--190     |   8  |       |            |      |
+|      __TOTAL__     |  70  |       |            |      |
 
 #### Procedures for the solution of question No. 16
 
+__1ª step__ - Fill the missing information on the given table.
+
+| Statures in cm (x) | *fᵢ* | *x^ᵢ* | *x^ᵢ * fᵢ* | *Fᵢ* |
+|:------------------:|:----:|:-----:|:----------:|:----:|
+|     150\|--158     |   5  |  154  |     770    |   5  |
+|     158\|--166     |  12  |  162  |    1944    |  17  |
+|     166\|--174     |  18  |  170  |    3060    |  35  |
+|     174\|--182     |  27  |  178  |    4806    |  62  |
+|     182\|--190     |   8  |  186  |    1488    |  70  |
+|      __TOTAL__     |  70  |  850  |    12068   |  ### |
+
+__2º step__ - Calculate the arithmetic mean for tabular data.
+
+```
+x̅ =
+      ∑(fᵢ*x^ᵢ)
+    ————————————
+        ∑ fᵢ
+fᵢ: relative frequency of xᵢ
+x^ᵢ: midpoint of xᵢ
+∑(fᵢ*x^ᵢ): summation of the product of fᵢ and x^ᵢ, for all instances of xᵢ
+∑ fᵢ: summation of fᵢ, for all instances of xᵢ
+```
+
+knowing this, the arithmetic mean can now be calculate:
+
+```
+x̅ = 12068 ÷ 70
+x̅ = 172.4
+```
+
+__3º step__ - Calculate the median for tabular data.
+
+```
+x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
+
+Lim inf: lower limit of the median class
+h: amplitude of the median class (any lower limit subtracted from the immediately lower limit)
+Lx: ⁿ⁄₂, where n is the sum of all relative frequencies in the data set
+Fant: cumulative frequency before the median class
+fᵢ: relative frequency of the median class
+```
+
+knowing this, the median can now be calculate:
+
+```
+median class: the class where the value of Lx is (check Fᵢ)
+median class: 166|--174
+
+x~ = 166 + (8 * ((35 - 17) ÷ 18))
+x~ = 166 + (8 * (18 ÷ 18))
+x~ = 166 + (8 * 1)
+x~ = 166 + 8
+x~ = 174
+```
+
+__4º step__ - Calculate the mode for tabular data.
+
+```
+Mo = Lim inf + h * (Δ₁ ÷ (Δ₁ + Δ₂))
+
+Lim inf: lower limit of the modal class
+h: amplitude of the modal class (any lower limit subtracted from the immediately lower limit)
+Δ₁: relative frequency of the modal class subtracted from the relative frequency immediately preceding
+Δ₂: relative frequency of the modal class subtracted from the relative frequency immediately afterwards
+```
+
+knowing this, the mode can now be calculate:
+
+```
+modal class: the class with higher frequency of samples
+modal class: 174|--182
+
+Mo = 174 + 8 * (9 ÷ (9 + 19))
+Mo = 174 + 8 * (9 ÷ 28)
+Mo = 174 + 8 * 0.3214
+Mo = 174 + 2.5714
+Mo = 176.5714
+```
+
+__5º step__ - Answer the questions.
+
+a) The arithmetic average: __172.4__  
+b) The median: __174__  
+c) The mode: __176.5714__  
+
 ### Question No. 17
 
-The number of airplanes that 11 airlines maintain in operation:
+A small print shop bought a new machine to automatically cut fabric pieces to standard lengths. However, due to the different characteristics of the fabrics used, the machine does not make an exact cut to the “requested” measurement, causing a variation in the size of the cut pieces. The table below illustrates the absolute frequency of cuts, over the course of a day, that the machine made when it was set to produce parts between 140 cm and 160 cm. Calculate the value for the mean, median and mode of this data set:
+
+| Statures in cm (x) | *fᵢ* | *x^ᵢ* | *x^ᵢ * fᵢ* | *Fᵢ* |
+|:------------------:|:----:|:-----:|:----------:|:----:|
+|      100---109     |   8  |       |            |      |
+|      110---119     |  17  |       |            |      |
+|      120---129     |  20  |       |            |      |
+|      130---139     |  32  |       |            |      |
+|      140---149     |  42  |       |            |      |
+|      150---159     |  24  |       |            |      |
+|      160---169     |  11  |       |            |      |
+|      170---179     |   4  |       |            |      |
+|      __TOTAL__     |  158 |       |            |      |
 
 #### Procedures for the solution of question No. 17
 
+__1ª step__ - Fill the missing information on the given table.
+
+| Statures in cm (x) | *fᵢ* | *x^ᵢ* | *x^ᵢ * fᵢ* | *Fᵢ* |
+|:------------------:|:----:|:-----:|:----------:|:----:|
+|      100---109     |   8  | 104.5 |     836    |   8  |
+|      110---119     |  17  | 114.5 |   1946.5   |  25  |
+|      120---129     |  20  | 124.5 |    2490    |  45  |
+|      130---139     |  32  | 134.5 |    4304    |  77  |
+|      140---149     |  42  | 144.5 |    6069    |  119 |
+|      150---159     |  24  | 154.5 |    3708    |  143 |
+|      160---169     |  11  | 164.5 |   1809.5   |  154 |
+|      170---179     |   4  | 174.5 |     698    |  158 |
+|      __TOTAL__     |  158 |  1116 |    21861   |  ### |
+
+__2º step__ - Calculate the arithmetic mean for tabular data.
+
+```
+x̅ =
+      ∑(fᵢ*x^ᵢ)
+    ————————————
+        ∑ fᵢ
+fᵢ: relative frequency of xᵢ
+x^ᵢ: midpoint of xᵢ
+∑(fᵢ*x^ᵢ): summation of the product of fᵢ and x^ᵢ, for all instances of xᵢ
+∑ fᵢ: summation of fᵢ, for all instances of xᵢ
+```
+
+knowing this, the arithmetic mean can now be calculate:
+
+```
+x̅ = 21861 ÷ 158
+x̅ = 138.3607595
+```
+
+__3º step__ - Calculate the median for tabular data.
+
+```
+x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
+
+Lim inf: lower limit of the median class
+h: amplitude of the median class (any lower limit subtracted from the immediately lower limit)
+Lx: ⁿ⁄₂, where n is the sum of all relative frequencies in the data set
+Fant: cumulative frequency before the median class
+fᵢ: relative frequency of the median class
+```
+
+knowing this, the median can now be calculate:
+
+```
+median class: the class where the value of Lx is (check Fᵢ)
+median class: 140---149
+
+x~ = 140 + (10 * ((79 - 77) ÷ 42))
+x~ = 140 + (10 * (2 ÷ 42))
+x~ = 140 + (10 * 0.04762)
+x~ = 140 + 0.4762
+x~ = 140.4762
+```
+
+__4º step__ - Calculate the mode for tabular data.
+
+```
+Mo = Lim inf + h * (Δ₁ ÷ (Δ₁ + Δ₂))
+
+Lim inf: lower limit of the modal class
+h: amplitude of the modal class (any lower limit subtracted from the immediately lower limit)
+Δ₁: relative frequency of the modal class subtracted from the relative frequency immediately preceding
+Δ₂: relative frequency of the modal class subtracted from the relative frequency immediately afterwards
+```
+
+knowing this, the mode can now be calculate:
+
+```
+modal class: the class with higher frequency of samples
+modal class: 140---149
+
+Mo = 140 + 10 * (10 ÷ (10 + 18))
+Mo = 140 + 10 * (10 ÷ 28)
+Mo = 140 + 10 * 0.3571
+Mo = 140 + 3.571
+Mo = 143.571
+```
+
+__5º step__ - Answer the questions.
+
+a) The arithmetic average: __138.36__  
+b) The median: __140.4762__  
+c) The mode: __143.571__  
 
 ### Question No. 18
 
-The number of airplanes that 11 airlines maintain in operation:
+The following frequency distribution table gives the speeds developed by drivers fined by the city police. These drivers were driving in a place where the speed limit is 50 km/h. Calculate the average speed, median and mode of the distribution below. Compare to the 50km/h limit:
+
+| Velocity in km/h (x) | *fᵢ* | *x^ᵢ* | *x^ᵢ * fᵢ* | *Fᵢ* |
+|:--------------------:|:----:|:-----:|:----------:|:----:|
+|       64\|--66       |  14  |       |            |      |
+|       66\|--68       |  11  |       |            |      |
+|       68\|--70       |   8  |       |            |      |
+|       70\|--72       |   6  |       |            |      |
+|       72\|--74       |   4  |       |            |      |
+|       74\|--76       |   3  |       |            |      |
+|       76\|--78       |   1  |       |            |      |
+|       78\|--80       |   2  |       |            |      |
+|       80\|--82       |   0  |       |            |      |
+|       82\|--84       |   1  |       |            |      |
+|       __TOTAL__      |  50  |       |            |      |
 
 #### Procedures for the solution of question No. 18
 
+__1ª step__ - Fill the missing information on the given table.
+
+| Velocity in km/h (x) | *fᵢ* | *x^ᵢ* | *x^ᵢ * fᵢ* | *Fᵢ* |
+|:--------------------:|:----:|:-----:|:----------:|:----:|
+|       64\|--66       |  14  |   65  |     910    |  14  |
+|       66\|--68       |  11  |   67  |     737    |  25  |
+|       68\|--70       |   8  |   69  |     552    |  33  |
+|       70\|--72       |   6  |   71  |     426    |  39  |
+|       72\|--74       |   4  |   73  |     292    |  43  |
+|       74\|--76       |   3  |   75  |     225    |  46  |
+|       76\|--78       |   1  |   77  |     77     |  47  |
+|       78\|--80       |   2  |   79  |     158    |  49  |
+|       80\|--82       |   0  |   81  |      0     |  49  |
+|       82\|--84       |   1  |   83  |     83     |  50  |
+|       __TOTAL__      |  50  |  740  |    3460    |  ### |
+
+__2º step__ - Calculate the arithmetic mean for tabular data.
+
+```
+x̅ =
+      ∑(fᵢ*x^ᵢ)
+    ————————————
+        ∑ fᵢ
+fᵢ: relative frequency of xᵢ
+x^ᵢ: midpoint of xᵢ
+∑(fᵢ*x^ᵢ): summation of the product of fᵢ and x^ᵢ, for all instances of xᵢ
+∑ fᵢ: summation of fᵢ, for all instances of xᵢ
+```
+
+knowing this, the arithmetic mean can now be calculate:
+
+```
+x̅ = 3460 ÷ 50
+x̅ = 69.2
+```
+
+__3º step__ - Calculate the median for tabular data.
+
+```
+x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
+
+Lim inf: lower limit of the median class
+h: amplitude of the median class (any lower limit subtracted from the immediately lower limit)
+Lx: ⁿ⁄₂, where n is the sum of all relative frequencies in the data set
+Fant: cumulative frequency before the median class
+fᵢ: relative frequency of the median class
+```
+
+knowing this, the median can now be calculate:
+
+```
+median class: the class where the value of Lx is (check Fᵢ)
+median class: 66|--68
+
+x~ = 66 + (2 * ((25 - 14) ÷ 11))
+x~ = 66 + (2 * (11 ÷ 11))
+x~ = 66 + (2 * 1)
+x~ = 66 + 2
+x~ = 68
+```
+
+__4º step__ - Calculate the mode for tabular data.
+
+```
+Mo = Lim inf + h * (Δ₁ ÷ (Δ₁ + Δ₂))
+
+Lim inf: lower limit of the modal class
+h: amplitude of the modal class (any lower limit subtracted from the immediately lower limit)
+Δ₁: relative frequency of the modal class subtracted from the relative frequency immediately preceding
+Δ₂: relative frequency of the modal class subtracted from the relative frequency immediately afterwards
+```
+
+knowing this, the mode can now be calculate:
+
+```
+modal class: the class with higher frequency of samples
+modal class: 64|--66
+
+Mo = 64 + 2 * (14 ÷ (14 + 3))
+Mo = 64 + 2 * (14 ÷ 17)
+Mo = 64 + 2 * 0.823529
+Mo = 64 + 1.64705
+Mo = 65.64705
+```
+
+__5º step__ - Answer the questions.
+
+a) The arithmetic average: __69.2__, corresponding to 38.4% above the velocity limit.  
+b) The median: __68__, corresponding to 36% above the velocity limit.  
+c) The mode: __65.64705__ corresponding to 31.29% above the velocity limit.  
 
 ### Question No. 19
 
-The number of airplanes that 11 airlines maintain in operation:
+Find the geometric mean of the numbers 4, 6 and 9:
 
 #### Procedures for the solution of question No. 19
 
+__1º step__ - Calculate the geometric mean of the numbers.
+
+```
+x̅ Geom = ⁿ√x₁*x₂*...*xₙ
+n: total of values in the sample
+xₙ: each individual record in the sample
+```
+
+knowing this, the geometric mean can now be calculate:
+
+```
+x̅ Geom = ³√4 * 6 * 9
+x̅ Geom = ³√216
+x̅ Geom = 6
+```
+
+__2º step__ - Answer the question.
+
+The geometric mean of the numbers 4, 6 and 9 is __6__.
 
 ### Question No. 20
 
-The number of airplanes that 11 airlines maintain in operation:
+One category of workers has a wage increase of 20% after one month, 12% after two months and 7% after three months. What is the average monthly percentage increase in this category?
 
 #### Procedures for the solution of question No. 20
 
+__1º step__ - Calculate the geometric mean of the percentage factors.
+
+```
+x̅ Geom = ⁿ√x₁*x₂*...*xₙ
+n: total of values in the sample
+xₙ: each individual record in the sample
+```
+
+knowing this, the geometric mean can now be calculate:
+
+```
+x̅ Geom = ³√1.20 * 1.12 * 1.07
+x̅ Geom = ³√1.43808
+x̅ Geom = 1.128741126
+```
+
+__2º step__ - Answer the question.
+
+The average monthly percentage increase in this category is __12.87%__.
 
 ### Question No. 21
 
-The number of airplanes that 11 airlines maintain in operation:
+Find the harmonic mean of the numbers 1, 2, 3 and 4.:
 
 #### Procedures for the solution of question No. 21
 
+__1º step__ - Calculate the harmonic mean of the numbers.
+
+![Harmonic mean formula](https://www.thecalculator.co/includes/forms/assets/img/Harmonic%20Mean%20Formula.jpg)
+
+knowing this, the harmonic mean can now be calculate:
+
+```
+x̅ Harm =
+                    4
+  ——————————————————————————————————————
+        1       1       1       1
+      ————— + ————— + ————— + —————
+        1       2       3       4
+
+x̅ Harm =
+                4
+  ——————————————————————————————
+        3       1       1  
+      ————— + ————— + —————
+        2       3       4   
+
+x̅ Harm =
+             4
+     ——————————————————
+         11       1    
+       —————— + —————
+          6       4   
+
+x̅ Harm =
+           4
+        ————————
+           25    
+         ——————
+           12   
+
+x̅ Harm = 1.92
+```
+
+__2º step__ - Answer the question.
+
+The harmonic average of the numbers 1, 2, 3 and 4 is __1.92__.
 
 ### Question No. 22
 
-The number of airplanes that 11 airlines maintain in operation:
+Suppose that on a given trip, a car develops __two__ distinct speeds, during half the journey it maintained a speed of 50km/h and during the remaining half it's speed was 60km/h. Determine the average vehicle speed on the route.
 
 #### Procedures for the solution of question No. 22
 
+__1º step__ - Calculate the harmonic mean.
+
+![Harmonic mean formula](https://www.thecalculator.co/includes/forms/assets/img/Harmonic%20Mean%20Formula.jpg)
+
+knowing this, the harmonic mean can now be calculate:
+
+```
+x̅ Harm =
+               2
+      ——————————————————
+          1        1    
+        —————— + ——————
+          50       60   
+
+x̅ Harm =
+           2
+       —————————
+          11    
+         —————
+          300
+
+x̅ Harm = 54.54...
+```
+
+__2º step__ - Answer the question.
+
+The average speed of the vehicle on this trip was __54.54km/h__.
 
 ### Question No. 23
 
-The number of airplanes that 11 airlines maintain in operation:
+A group of tourists travels by boat at an average speed of 18km/h and then returns by helicopter, following the same route, at an average speed of 72km/h. What is the average speed of the entire route?
 
 #### Procedures for the solution of question No. 23
 
+__1º step__ - Calculate the harmonic mean.
+
+![Harmonic mean formula](https://www.thecalculator.co/includes/forms/assets/img/Harmonic%20Mean%20Formula.jpg)
+
+knowing this, the harmonic mean can now be calculate:
+
+```
+Because there are 2 routes:
+
+x̅ Harm =
+               2
+      ——————————————————
+          1        1    
+        —————— + ——————
+          18       72   
+
+x̅ Harm =
+           2
+        ————————
+           90    
+         ——————
+          1296
+
+x̅ Harm = 28.8
+```
+
+__2º step__ - Answer the question.
+
+The average speed in the entire route was __28.8km/h__.
 
 ### Question No. 24
 
-The number of airplanes that 11 airlines maintain in operation:
+A water truck fills a pool in 20 minutes while another truck takes half an hour to do the same job. How long will the water trucks take together?
 
 #### Procedures for the solution of question No. 24
+
+__1º step__ - Calculate the harmonic mean.
+
+![Harmonic mean formula](https://www.thecalculator.co/includes/forms/assets/img/Harmonic%20Mean%20Formula.jpg)
+
+knowing this, the harmonic mean can now be calculate:
+
+```
+Because it is only one pool:
+
+x̅ Harm =
+               1
+      ——————————————————
+          1        1    
+        —————— + ——————
+          20       30   
+
+x̅ Harm =
+           1
+        ————————
+           5    
+         ——————
+           60
+
+x̅ Harm = 12
+```
+
+__2º step__ - Answer the question.
+
+Together the water trucks will take __12__ minutes to fill the pool.
