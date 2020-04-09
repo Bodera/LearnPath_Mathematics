@@ -68,16 +68,16 @@ Dataset 1:  √((1/(10-1)) * ((4 - 8.1)² + (6 - 8.1)² + (6 - 8.1)² + (7 - 8.1
             = √((1/9) * (16.81 + 4.41 + 4.41 + 1.21 + 1.21 + 0.01 + 3.61 + 8.41 + 8.41 + 8.41))
             = √(0.111... * 56.9)
             = √(6.3222...)
-            = 2.514402955 value of standart deviation
+            = 2.5144 value of standart deviation
 
 Dataset 2:  √((1/(9-1)) * ((5 - 11.111...)² + (6 - 11.111...)² + (8 - 11.111...)² +
                            (8 - 11.111...)² + (12 - 11.111...)² + (13 - 11.111...)² +
                            (14 - 11.111...)² + (15 - 11.111...)² + (19 - 11.111...)²))
             = √((1/8) * (37.34567765 + 26.12345565 + 9.679011654 + 9.679011654 + 0.7901236543 +
                          3.567901654 + 8.345679654 + 15.12345765 + 62.23456965))
-            = √(0.125 * 172.8888889)
+            = √(0.125 * 172.889)
             = √(21.6111...)
-            = 4.648775227 value of standart deviation
+            = 4.6487 value of standart deviation
 ```
 
 __5º step__ - Calculate the variance of each data set by applying the formula:
@@ -167,7 +167,7 @@ LA:  √((1/(8-1)) * ((18.3 - 25.525)² + (20.2 - 25.525)² + (20.9 - 25.525)² 
                   0.330625 + 7.155625 + 36.905625 + 107.640625))
      = √(0.1428571429 * 260.355)
      = √(37.19357144)
-     = 6.098653248 value of standart deviation
+     = 6.0986 value of standart deviation
 
 LBC: √((1/(8-1)) * ((18.2 - 22.9625)² + (20.8 - 22.9625)² + (20.9 - 22.9625)² + (21.1 - 22.9625)² +
                     (24.2 - 22.9625)² + (25.1 - 22.9625)² + (26.5 - 22.9625)² + (26.9 - 22.9625)²))
@@ -175,7 +175,7 @@ LBC: √((1/(8-1)) * ((18.2 - 22.9625)² + (20.8 - 22.9625)² + (20.9 - 22.9625)
                   1.53140625 + 4.56890625 + 12.51390625 + 15.50390625))
      = √(0.1428571429 * 69.19875)
      = √(9.885535717)
-     = 3.144127179 value of standart deviation
+     = 3.1441 value of standart deviation
 ```
 
 __5º step__ - Calculate the variance of each data set by applying the formula:
@@ -189,18 +189,18 @@ knowing this, standart deviation can now be calculate:
 
 ```
 LA:  (6.098653248)²
-     = 37.19357144 value of variance
+     = 37.1935 value of variance
 
 LBC: (3.144127179)²
-     = 9.885535717 value of variance
+     = 9.8855 value of variance
 ```
 
 __6º step__ - Lets compare the arithmetic average and standart deviation of the two cities:
 
 ```
-LA:  25.525 higher salary avg; 6.098653247 higher standart deviation.
+LA:  25.525 higher salary avg; 6.0986 higher standart deviation.
 
-LBC: 22.9625 lower salary avg; 3.144127178 lower standart deviation.
+LBC: 22.9625 lower salary avg; 3.1441 lower standart deviation.
 
 The annual wages of LA vary more than LBC.
 ```
@@ -275,7 +275,7 @@ Public school:  √((1/(8-1)) * ((34.8 - 37.375)² + (35.9 - 37.375)² + (36.2 -
                              0.525625 + 1.500625 + 1.755625 + 6.375625))
                 = √(0.1428571429 * 20.675)
                 = √(2.953571429)  
-                = 1.718595773 value of standart deviation
+                = 1.7186 value of standart deviation
 
 Private school: √((1/(8-1)) * ((17.6 - 19.5375)² + (18.3 - 19.5375)² + (18.4 - 19.5375)² + (19.4 - 19.5375)² +
                                (19.7 - 19.5375)² + (20.3 - 19.5375)² + (20.8 - 19.5375)² + (21.8 - 19.5375)²))
@@ -283,7 +283,7 @@ Private school: √((1/(8-1)) * ((17.6 - 19.5375)² + (18.3 - 19.5375)² + (18.4
                              0.02640625 + 0.58140625 + 1.59390625 + 5.11890625))
                 = √(0.1428571429 * 13.91875)
                 = √(1.988392858)
-                = 1.410103846 value of standart deviation
+                = 1.4101 value of standart deviation
 ```
 
 __5º step__ - Calculate the variance of each data set by applying the formula:
@@ -297,26 +297,175 @@ knowing this, standart deviation can now be calculate:
 
 ```
 Public school:  (1.718595773)²
-                = 2.953571429 value of variance
+                = 2.9535 value of variance
 
 Private school: (1.410103846)²
-                = 1.988392858 value of variance
+                = 1.9883 value of variance
 ```
 
 __6º step__ - Lets compare the average salary and standart deviation of the two education networks:
 
 ```
-Public school:  37.375 higher salary avg; 1.718595773 slightly higher standart deviation
+Public school:  37.375 higher salary avg; 1.7185 slightly higher standart deviation
 
-Private school: 19.5375 lower salary avg; 1.410103846 slightly lower standart deviation
+Private school: 19.5375 lower salary avg; 1.4101 slightly lower standart deviation
 
 Although the public school has a higher average salary, annual salaries vary more.
 ```
 
 ### Question No. 4
 
+Akhiok is a small fishing village on the island of Kodiak, Alaska. The following census represents the stated age data for the entire population of the 77 inhabitants of Akhiok:
+
+```
+28  6  17  48  63  47  27  21  3  7  12
+39  50  54  33  45  15  24  1  7  36  53
+46  27  5  10  32  50  52  11  42  22  3
+17  34  56  25  2  30  10  33  1  49  13
+16  8  31  21  6  9  2  11  32  25  0
+55  23  41  29  4  51  1  6  31  5  5
+4  10  26  12  6  16  8  2  4  28  11
+```
+
+Determine the mean and standard deviation of the data set. Then, after building a frequency distribution table, determine the mean and standard deviation of the data set.
+
 ### Procedures for the solution of question No. 4
 
+__1º step__ - Sort the data in ascending order.
+
+```
+0  1  1  1  2  2  2  3  3  4  4
+4  5  5  5  6  6  6  6  7  7  8
+8  9  10  10  10  11  11  11  12  12  13
+15  16  16  17  17  21  21  22  23  24  25
+25  26  27  27  28  28  29  30  31  31  32
+32  33  33  34  36  39  41  42  45  46  47
+48  49  50  50  51  52  53  54  55  56  63
+```
+
+__2º step__ - Calculate the arithmetic mean of the data set by applying the formula:
+
+```
+x̅ = (1/n) * (x₁ + ... + xₙ)
+n: total of values in the data set
+xₙ: each individual value in the data set
+```
+
+knowing this, arithmetic mean can now be calculate:
+
+```
+x̅ = (1/77) * (0 + 1 + 1 + 1 + 2 + 2 + 2 + 3 + 3 + 4 + 4
+              + 4 + 5 + 5 + 5 + 6 + 6 + 6 + 6 + 7 + 7 + 8
+              + 8 + 9 + 10 + 10 + 10 + 11 + 11 + 11 + 12 + 12 + 13
+              + 15 + 16 + 16 + 17 + 17 + 21 + 21 + 22 + 23 + 24 + 25
+              + 25 + 26 + 27 + 27 + 28 + 28 + 29 + 30 + 31 + 31 + 32
+              + 32 + 33 + 33 + 34 + 36 + 39 + 41 + 42 + 45 + 46 + 47
+              + 48 + 49 + 50 + 50 + 51 + 52 + 53 + 54 + 55 + 56 + 63)
+
+x̅ = 0.012987 * 1745
+x̅ = 22.6623
+```
+
+__3º step__ - Calculate the standart deviation of each data set by applying the formula:
+
+```
+s = √((1/(n-1)) * (xᵢ - x̅)²)
+x̅: arithmetic average of data set
+n: total of values in the data set
+xᵢ: each individual value in the data set
+```
+
+knowing this, standart deviation can now be calculate:
+
+```
+s = √((1/(76)) * ((0 - 22.6623)² + (1 - 22.6623)² + (1 - 22.6623)² + (1 - 22.6623)² +
+                  (2 - 22.6623)² + (2 - 22.6623)² + (2 - 22.6623)² + (3 - 22.6623)² +
+                  (3 - 22.6623)² + (4 - 22.6623)² + (4 - 22.6623)² + (4 - 22.6623)² +
+                  (5 - 22.6623)² + (5 - 22.6623)² + (5 - 22.6623)² + (6 - 22.6623)² +
+                  (6 - 22.6623)² + (6 - 22.6623)² + (6 - 22.6623)² + (7 - 22.6623)² +
+                  (7 - 22.6623)² + (8 - 22.6623)² + (8 - 22.6623)² + (9 - 22.6623)² +
+                  (10 - 22.6623)² + (10 - 22.6623)² + (10 - 22.6623)² + (11 - 22.6623)² +
+                  (11 - 22.6623)² + (11 - 22.6623)² + (12 - 22.6623)² + (12 - 22.6623)² +
+                  (13 - 22.6623)² + (15 - 22.6623)² + (16 - 22.6623)² + (16 - 22.6623)² +
+                  (17 - 22.6623)² + (17 - 22.6623)² + (21 - 22.6623)² + (21 - 22.6623)² +
+                  (22 - 22.6623)² + (23 - 22.6623)² + (24 - 22.6623)² + (25 - 22.6623)² +
+                  (25 - 22.6623)² + (26 - 22.6623)² + (27 - 22.6623)² + (27 - 22.6623)² +
+                  (28 - 22.6623)² + (28 - 22.6623)² + (29 - 22.6623)² + (30 - 22.6623)² +
+                  (31 - 22.6623)² + (31 - 22.6623)² + (32 - 22.6623)² + (32 - 22.6623)² +
+                  (33 - 22.6623)² + (33 - 22.6623)² + (34 - 22.6623)² + (36 - 22.6623)² +
+                  (39 - 22.6623)² + (41 - 22.6623)² + (42 - 22.6623)² + (45 - 22.6623)² +
+                  (46 - 22.6623)² + (47 - 22.6623)² + (48 - 22.6623)² + (49 - 22.6623)² +
+                  (50 - 22.6623)² + (50 - 22.6623)² + (51 - 22.6623)² + (52 - 22.6623)² +
+                  (53 - 22.6623)² + (54 - 22.6623)² + (55 - 22.6623)² + (56 - 22.6623)² +
+                  (63 - 22.6623)²))
+
+s = √(0.0131 * 23441.22078)
+s = √308.4371155
+s = 17.5623
+```
+
+__4º step__ - Build the frequency distribution table.
+
+| Ages *(x)* | *fᵢ* | *x^* | *x^ * fᵢ* | *Fᵢ* |
+|:----------:|:----:|:----:|:---------:|:----:|
+|  0\|---11  |  27  |  5.5 |   148.5   |  27  |
+|  11\|---22 |  13  | 16.5 |   214.5   |  40  |
+|  22\|---33 |  16  | 27.5 |    440    |  56  |
+|  33\|---44 |   7  | 38.5 |   269.5   |  63  |
+|  44\|---55 |  11  | 49.5 |   544.5   |  74  |
+|  55\|---66 |   3  | 60.5 |   181.5   |  77  |
+|  __TOTAL__ |  77  |  198 |   1798.5  |  ### |
+
+__5º step__ - Calculate the arithmetic mean for tabular data.
+
+```
+x̅ =
+      ∑(fᵢ*x^ᵢ)
+    ————————————
+        ∑ fᵢ
+fᵢ: relative frequency of xᵢ
+x^ᵢ: midpoint of xᵢ
+∑(fᵢ*x^ᵢ): summation of the product of fᵢ and x^ᵢ, for all instances of xᵢ
+∑ fᵢ: summation of fᵢ, for all instances of xᵢ
+```
+
+knowing this, the arithmetic mean can now be calculate:
+
+```
+x̅ = 1798.5 ÷ 77
+x̅ = 23.3571
+```
+
+__6º step__ - Calculate the arithmetic mean for tabular data.
+
+```
+s = √ ( ∑((x^ᵢ - x̅)² * fᵢ) ÷ (n-1))
+
+fᵢ: relative frequency of the x^ᵢ class
+x^ᵢ: midpoint of each class
+x̅: arithmetic mean of the tabular data
+n: sum of all relative frequencies
+```
+
+knowing this, the standard deviation can now be calculate:
+
+```
+s = √( ((5.5 - 23.35714286)² * 27 + (16.5 - 23.35714286)² * 13 + (27.5 - 23.35714286)² * 16 +
+        (38.5 - 23.35714286)² * 7 + (49.5 - 23.35714286)² * 11 + (60.5 - 23.35714286)² * 3 ) ÷ (77-1))
+
+s = √( (8609.69388 + 611.2653066 + 274.6122445 + 1605.142857 + 7517.938774 + 4138.77551) ÷ 76)
+
+s = √(22757.42857 ÷ 76)
+
+s = √299.4398496
+
+s = 17.3043
+```
+
+__7º step__ - Answer the questions.
+
+Raw data: a) arithmetic mean = __22.6623__, b) standard deviation = __17.5623__  
+Tabular data: a) arithmetic mean = __23.3571__, b) standard deviation = __17.3043__  
 
 ### Question No. 5
 
