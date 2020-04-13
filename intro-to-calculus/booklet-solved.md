@@ -7,7 +7,7 @@
 
 This huge file will cover solutions for the exercises suggested on [this booklet](https://drive.google.com/file/d/0B977UW2k4o7acmZ6SkFXZm1LTUk/view). Use the answers as a strategy to understand the necessary steps to solve the problems, not just copy them in a freak way.
 
-[__Question No. 2__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-2)
+[__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems)
 
 ## Review problems
 
