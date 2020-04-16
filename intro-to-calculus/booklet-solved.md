@@ -9,11 +9,20 @@
 
 This huge file will cover solutions for the exercises suggested on [differential calculus booklet](https://drive.google.com/file/d/0B977UW2k4o7acmZ6SkFXZm1LTUk/view). Use the answers as a strategy to understand the necessary steps to solve the problems, not just copy them in a freak way.
 
-[__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems)
+## Summary
 
-## Review problems
+*. [__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems)
 
-### Question No. 1
+### Review problems
+
+1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-1)
+2. [Question No. 2](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-2)
+3. [Question No. 3](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-3)
+4. [Question No. 4](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-4)
+5. [Question No. 5](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-5)
+6. [Question No. 6](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-6)
+
+#### Question No. 1
 
 Use inequalities to describe the given range:
 
@@ -29,7 +38,7 @@ b)
     -4                       +∞
 ```
 
-#### Solution for question No. 1
+###### Solution for question No. 1
 
 a)
 ```
@@ -41,7 +50,7 @@ b)
   x > -4
 ```
 
-### Question No. 2
+#### Question No. 2
 
 Represent the interval given as a line segment on a graduated line:
 
@@ -50,7 +59,7 @@ b) -1 < x < 5
 c) x ≥ 1  
 d) 2 ≥ x < 7  
 
-#### Solution for question No. 2
+###### Solution for question No. 2
 
 a)
 ```
@@ -76,14 +85,14 @@ d)
         2                7
 ```
 
-### Question No. 3
+#### Question No. 3
 
 Determine the distance between two real numbers:
 
 a) 0 and 3  
 b) -5 and -2  
 
-#### Solution for question No. 3
+###### Solution for question No. 3
 
 a)
 ```
@@ -97,14 +106,14 @@ b)
   = 3 total distance
 ```
 
-### Question No. 4
+#### Question No. 4
 
 Determine the interval (s) constituted by the real numbers `x` that satisfy the given inequality:
 
 a) |x - 3| ≤ 1  
 b) |2x + 1| > 3  
 
-#### Solution for question No. 4
+###### Solution for question No. 4
 
 a)
 Developing solution:
@@ -148,7 +157,7 @@ or
 x ∈ (-∞, -2) ⋃ (1, ∞)
 ```
 
-### Question No. 5
+#### Question No. 5
 
 In the problems presented below, calculate the value of the given expression without using a calculator:
 
@@ -163,7 +172,7 @@ h) (2 ^ ³⁄₂ * (4 ^ ⁵⁄₂)) ÷ 8 ^ ²⁄₃
 i) (54 ^ (1/3) * 2 ^ (1/6)) ÷ √8  
 j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃  
 
-#### Solution for question No. 5
+###### Solution for question No. 5
 
 a)
 Developing solution:
@@ -321,7 +330,7 @@ Developing solution:
 (³√81 * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃ ≈ 5.6696
 ```
 
-### Question No. 6
+#### Question No. 6
 
 In the problems below, explain *__n__* in the given expression (assuming > 0, a ≠ 1).
 
@@ -330,7 +339,7 @@ b) a³ ÷ (√a)⁵ = a²ⁿ
 c) a² * a⁻⁵ = (aⁿ)³  
 d) a²ⁿ * a³ = a⁻⁷  
 
-#### Solution for question No. 6
+###### Solution for question No. 6
 
 `a)`
 Developing solution:
@@ -340,9 +349,8 @@ a ^ (²⁄₃ + ¹⁄₂) = a ^ (3 * n)
 a ^ (⁷⁄₆) = a ^ (3 * n)
 ⁶√a⁷ = a ^ (3 * n)
 
-3n = 3 * ⁷⁄₆
-n = ⁷⁄₆
 3n = ²¹⁄₁₈
+n = ⁷⁄₆
 
 a²/³ * a¹/² = a^²¹⁄₁₈
 ```
@@ -362,9 +370,8 @@ a^(3 - (⁵⁄₂)) = a ^ (2 * n)
 a¹/² = a ^ (2 * n)
 √a = a ^ (2 * n)
 
-2n = ¹⁄₂ * 2
-n = ¹⁄₂
 2n = ²⁄₄
+n = ¹⁄₂
 
 a³ ÷ (√a)⁵ = a^²⁄₄
 ```
@@ -372,4 +379,41 @@ a³ ÷ (√a)⁵ = a^²⁄₄
 Presenting solution:
 ```
 n = ¹⁄₄
+```
+
+`c)`
+Developing solution:
+```
+a² * a⁻⁵ = (aⁿ)³
+a^(2 + (-5)) = a^(3 * n)
+a^(-3) = a^(3 * n)
+
+3n = (-3)
+n = -1
+
+a² * a⁻⁵ = a⁻³
+```
+
+Presenting solution:
+```
+n = -1
+```
+
+`d)`
+Developing solution:
+```
+a²ⁿ * a³ = a⁻⁷
+a²ⁿ = a⁻⁷ ÷ a³
+a²ⁿ = a⁽⁻⁷⁾ ⁻ ³
+a^(2*n) = a⁻¹⁰
+
+2n = -10
+n = -5
+
+a⁻¹⁰ * a³ = a⁻⁷
+```
+
+Presenting solution:
+```
+n = -5
 ```

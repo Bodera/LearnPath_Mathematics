@@ -218,7 +218,7 @@ Private school: 21.8	18.4	20.3	17.6	19.7	18.3	19.4	20.8
 a) Obtain the total amplitude, average, variance and standart deviation for each of the data sets.
 b) Compare the two education networks (average salary and standart deviation).
 
-### Procedures for the solution of question No. 3
+#### Procedures for the solution of question No. 3
 
 __1º step__ - Sort the data in ascending order.
 
@@ -329,7 +329,7 @@ Akhiok is a small fishing village on the island of Kodiak, Alaska. The following
 
 Determine the mean and standard deviation of the data set. Then, after building a frequency distribution table, determine the mean and standard deviation of the data set.
 
-### Procedures for the solution of question No. 4
+#### Procedures for the solution of question No. 4
 
 __1º step__ - Sort the data in ascending order.
 
@@ -469,44 +469,48 @@ Tabular data: a) arithmetic mean = __23.3571__, b) standard deviation = __17.304
 
 ### Question No. 5
 
-### Procedures for the solution of question No. 5
+#### Procedures for the solution of question No. 5
 
 
 ### Question No. 6
 
-### Procedures for the solution of question No. 6
+Without calculating, what is the set with the largest sample standard deviation? Which has the lowest sample standard deviation? Explain your reasoning.
+
+![Image-QuestionNo.6](./assets/ListNo03Qst6.png)
+
+#### Procedures for the solution of question No. 6
 
 
 ### Question No. 7
 
-### Procedures for the solution of question No. 7
+#### Procedures for the solution of question No. 7
 
 
 ### Question No. 8
 
-### Procedures for the solution of question No. 8
+#### Procedures for the solution of question No. 8
 
 
 ### Question No. 9
 
-### Procedures for the solution of question No. 9
+#### Procedures for the solution of question No. 9
 
 
 ### Question No. 10
 
-### Procedures for the solution of question No. 10
+#### Procedures for the solution of question No. 10
 
 
 ### Question No. 11
 
-### Procedures for the solution of question No. 11
+#### Procedures for the solution of question No. 11
 
 
 ### Question No. 12
 
-### Procedures for the solution of question No. 12
+#### Procedures for the solution of question No. 12
 
 
 ### Question No. 13
 
-### Procedures for the solution of question No. 13
+#### Procedures for the solution of question No. 13
