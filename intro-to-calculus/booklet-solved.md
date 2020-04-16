@@ -11,16 +11,16 @@ This huge file will cover solutions for the exercises suggested on [differential
 
 ## Summary
 
-*. [__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems)
+* [__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems)
 
 ### Review problems
 
-1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-1)
-2. [Question No. 2](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-2)
-3. [Question No. 3](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-3)
-4. [Question No. 4](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-4)
-5. [Question No. 5](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-5)
-6. [Question No. 6](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no.-6)
+1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-1)
+2. [Question No. 2](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-2)
+3. [Question No. 3](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-3)
+4. [Question No. 4](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-4)
+5. [Question No. 5](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-5)
+6. [Question No. 6](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-6)
 
 #### Question No. 1
 
