@@ -11,17 +11,17 @@ This huge file will cover solutions for the exercises suggested on [differential
 
 ## Summary
 
-* [__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems)  
-* [__Absolute values and ranges__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#absolute-values-and-ranges)
+* [__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems-a)  
+* [__Absolute values and ranges__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#absolute-values-and-ranges-b)
 
 ### Review problems (A)
 
-1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-1)
-2. [Question No. 2](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-2)
-3. [Question No. 3](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-3)
-4. [Question No. 4](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-4)
-5. [Question No. 5](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-5)
-6. [Question No. 6](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-6)
+1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-1-a)
+2. [Question No. 2](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-2-a)
+3. [Question No. 3](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-3-a)
+4. [Question No. 4](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-4-a)
+5. [Question No. 5](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-5-a)
+6. [Question No. 6](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-6-a)
 
 #### Question No. 1 (A)
 
@@ -51,7 +51,7 @@ b)
   x > -4
 ```
 
-#### Question No. 2
+#### Question No. 2 (A)
 
 Represent the interval given as a line segment on a graduated line:
 
@@ -86,7 +86,7 @@ d)
         2                7
 ```
 
-#### Question No. 3
+#### Question No. 3 (A)
 
 Determine the distance between two real numbers:
 
@@ -107,7 +107,7 @@ b)
   = 3 total distance
 ```
 
-#### Question No. 4
+#### Question No. 4 (A)
 
 Determine the interval (s) constituted by the real numbers `x` that satisfy the given inequality:
 
@@ -158,7 +158,7 @@ or
 x ∈ (-∞, -2) ⋃ (1, ∞)
 ```
 
-#### Question No. 5
+#### Question No. 5 (A)
 
 Calculate the value of the given expression without using a calculator:
 
@@ -331,7 +331,7 @@ Developing solution:
 (³√81 * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃ ≈ 5.6696
 ```
 
-#### Question No. 6
+#### Question No. 6 (A)
 
 Make the value of *__n__* explicit in the given expression (assuming > 0, a ≠ 1).
 
@@ -420,6 +420,9 @@ n = -5
 ```
 
 ### Absolute values and ranges (B)
+
+1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-1-b)
+2. [Question No. 2](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-2-b)
 
 #### Question No. 1 (B)
 
@@ -550,3 +553,9 @@ S = {x ∈ ℝ | x < -2 or x > 4}
 or
 x ∈ (-∞, -2) ⋃ (4, +∞)
 ```
+
+#### Question No. 2 (B)
+
+`foo bar`
+
+###### Solution for question No. 2
