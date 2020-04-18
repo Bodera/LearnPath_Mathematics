@@ -41,12 +41,12 @@ b)
 
 ###### Solution for question No. 1
 
-a)
+`a)`
 ```
   -2 ≤ x < 3
 ```
 
-b)
+`b)`
 ```
   x > -4
 ```
@@ -62,25 +62,25 @@ d) 2 ≥ x < 7
 
 ###### Solution for question No. 2
 
-a)
+`a)`
 ```
 ----[--------------)-------
    -3              2
 ```
 
-b)
+`b)`
 ```
 ----(--------------------)----
    -1                    5
 ```
 
-c)
+`c)`
 ```
 -----------[--------------->
            1               +∞
 ```
 
-d)
+`d)`
 ```
 --------[----------------)----
         2                7
@@ -95,13 +95,13 @@ b) -5 and -2
 
 ###### Solution for question No. 3
 
-a)
+`a)`
 ```
   3 - 0
   = 3 total distance.
 ```
 
-b)
+`b)`
 ```
   (-2) - (-5)
   = 3 total distance
@@ -116,8 +116,7 @@ b) |2x + 1| > 3
 
 ###### Solution for question No. 4
 
-a)
-Developing solution:
+`a)` Developing solution:
 ```
 = |x - 3| ≤ 1
 = (x - 3) + 3 ≤ 1 + 3
@@ -136,8 +135,7 @@ or
 x ∈ [2, 4]
 ```
 
-b)
-Developing solution:
+`b)` Developing solution:
 ```
 = |2x + 1| > 3
 = (2x + 1) + (-1) > 3 + (-1)
@@ -175,8 +173,7 @@ j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃
 
 ###### Solution for question No. 5
 
-a)
-Developing solution:
+`a)` Developing solution:
 ```
 3⁵ = 3 * 3 * 3 * 3 * 3
 [...] = 3³ * 3²
@@ -184,8 +181,7 @@ Developing solution:
 3⁵ = 243  
 ```
 
-b)
-Developing solution:
+`b)` Developing solution:
 ```
 4⁻² = (2²) ^ -2
 [...] = 2 ^ (-2 * 2)
@@ -195,8 +191,7 @@ Developing solution:
 4⁻² = 0.0625
 ```
 
-c)
-Developing solution:
+`c)` Developing solution:
 ```
 8 ^ ²⁄₃ = (2³) ^ (2/3)
 [...] = 2 ^ (3 * 2/3)
@@ -206,8 +201,7 @@ Developing solution:
 8 ^ ²⁄₃ = 4
 ```
 
-d)
-Developing solution:
+`d)` Developing solution:
 ```
 49 ^ ⁻³⁄₂ = (7²) ^ (-3/2)
 [...] = 7 ^ (2 * -3/2)
@@ -219,8 +213,7 @@ Developing solution:
 49 ^ ⁻³⁄₂ ≈ 0.0029
 ```
 
-e)
-Developing solution:
+`e)` Developing solution:
 ```
 (4 * (32) ^ ³⁄₄) ÷ (√2)³ = (4 * (2⁵) ^ (3/4)) ÷ (√2) ^ 3
 [...] = (4 * 2 ^ (5 * 3/4)) ÷ (√2) ^ 3
@@ -242,8 +235,7 @@ Developing solution:
 (4 * (32) ^ ³⁄₄) ÷ (√2)³ ≈ 19.0273
 ```
 
-f)
-Developing solution:
+`f)` Developing solution:
 ```
 (1 ÷ 9) ^ ⁻⁵⁄₂ = 1 ÷ ((1/9) ^ (5/2))
 [...] = 1 ÷ (1 ^ (5/2) / 9 ^ (5/2))
@@ -258,8 +250,7 @@ Developing solution:
 (1 ÷ 9) ^ ⁻⁵⁄₂ = 243
 ```
 
-g)
-Developing solution:
+`g)` Developing solution:
 ```
 16 ^ ³⁄₂ + 27 ^ ²⁄₃ = (2⁴) ^ (3/2) + (3³) ^ (2/3)
 [...] = 2 ^ (4 * (3/2)) + 3 ^ (3 * (2/3))
@@ -270,8 +261,7 @@ Developing solution:
 16 ^ ³⁄₂ + 27 ^ ²⁄₃ = 73
 ```
 
-h)
-Developing solution:
+`h)` Developing solution:
 ```
 (2 ^ ³⁄₂ * (4 ^ ⁵⁄₂)) ÷ 8 ^ ²⁄₃ = (2 ^ (3/2) * ((2²) ^ (5/2))) ÷ 8 ^ (2/3)
 [...] = (2 ^ (3/2) * (2 ^ (2 * (5/2)))) ÷ 8 ^ (2/3)
@@ -293,8 +283,7 @@ Developing solution:
 (2 ^ ³⁄₂ * (4 ^ ⁵⁄₂)) ÷ 8 ^ ²⁄₃ ≈ 22.6274
 ```
 
-i)
-Developing solution:
+`i)` Developing solution:
 ```
 (³√54 * ⁶√2) ÷ √8 = (³√54 * ⁶√2) ÷ √2³
 [...] = (³√54 * ⁶√2) ÷ √2²*2¹
@@ -312,8 +301,7 @@ Developing solution:
 (³√54 * ⁶√2) ÷ √8 = 1.5
 ```
 
-j)
-Developing solution:
+`j)` Developing solution:
 ```
 (³√81 * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃ = (³√81 * (6 ^ (2/3))) ÷ 2 ^ (4/3)
 [...] = (³√81 * (2 ^ (2/3) * 3 ^ (2/3))) ÷ 2 ^ (4/3)
@@ -342,8 +330,7 @@ d) a²ⁿ * a³ = a⁻⁷
 
 ###### Solution for question No. 6
 
-`a)`
-Developing solution:
+`a)` Developing solution:
 ```
 a²/³ * a¹/² = a³ⁿ
 a ^ (²⁄₃ + ¹⁄₂) = a ^ (3 * n)
@@ -382,8 +369,7 @@ Presenting solution:
 n = ¹⁄₄
 ```
 
-`c)`
-Developing solution:
+`c)` Developing solution:
 ```
 a² * a⁻⁵ = (aⁿ)³
 a^(2 + (-5)) = a^(3 * n)
@@ -400,8 +386,7 @@ Presenting solution:
 n = -1
 ```
 
-`d)`
-Developing solution:
+`d)` Developing solution:
 ```
 a²ⁿ * a³ = a⁻⁷
 a²ⁿ = a⁻⁷ ÷ a³
@@ -437,8 +422,7 @@ f) |x - 1| > 3
 
 ###### Solution for question No. 1
 
-a)
-Developing solution:
+`a)` Developing solution:
 ```
 = z ≤ 3
 or
@@ -452,8 +436,7 @@ or
 x ∈ [-3, 3]
 ```
 
-b)
-Developing solution:
+`b)` Developing solution:
 ```
 = |x + 4| ≤ 2
 = (x + 4) + (-4) ≤ 2 + (-4)
@@ -472,8 +455,7 @@ or
 x ∈ [-6, -2]
 ```
 
-c)
-Developing solution:
+`c)` Developing solution:
 ```
 = |x + 2| ≥ 5
 = (x + 2) + (-2) ≥ 5 + (-2)
@@ -492,8 +474,7 @@ or
 x ∈ (-∞, -7] ⋃ [3, +∞)
 ```
 
-d)
-Developing solution:
+`d)` Developing solution:
 ```
 = |x - 2| ≤ 5
 = (x - 2) + 2 ≤ 5 + 2
@@ -512,8 +493,7 @@ or
 x ∈ [-3, 7]
 ```
 
-e)
-Developing solution:
+`e)` Developing solution:
 ```
 = |1 - x| < 3
 = (1 - x) + (-1) < 3 + (-1)
@@ -534,8 +514,7 @@ or
 x ∈ (-2, 4)
 ```
 
-f)
-Developing solution:
+`f)` Developing solution:
 ```
 = |x - 1| > 3
 = (x - 1) + 1 > 3 + 1
