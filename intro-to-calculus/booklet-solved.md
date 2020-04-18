@@ -11,9 +11,10 @@ This huge file will cover solutions for the exercises suggested on [differential
 
 ## Summary
 
-* [__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems)
+* [__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems)  
+* [__Absolute values and ranges__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#absolute-values-and-ranges)
 
-### Review problems
+### Review problems (A)
 
 1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-1)
 2. [Question No. 2](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-2)
@@ -22,7 +23,7 @@ This huge file will cover solutions for the exercises suggested on [differential
 5. [Question No. 5](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-5)
 6. [Question No. 6](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-6)
 
-#### Question No. 1
+#### Question No. 1 (A)
 
 Use inequalities to describe the given range:
 
@@ -123,7 +124,7 @@ Developing solution:
 = x - 3 + 3 ≤ 4
 = x ≤ 4
 or
-= (x - 3) + 3 ≥ -1 + 3
+= (x - 3) + 3 ≥ (-1) + 3
 = x - 3 + 3 ≥ 2
 = x ≥ 2
 ```
@@ -139,15 +140,15 @@ b)
 Developing solution:
 ```
 = |2x + 1| > 3
-= (2x + 1) + (-1) < -3 + (-1)
-= 2x + 1 - 1 < -3 - 1
-= 2x < -4
-= x < -2
-or
 = (2x + 1) + (-1) > 3 + (-1)
 = 2x + 1 - 1 > 3 - 1
 = 2x > 2
 = x > 1
+or
+= (2x + 1) + (-1) < -3 + (-1)
+= 2x + 1 - 1 < -3 - 1
+= 2x < -4
+= x < -2
 ```
 
 Presenting solution:
@@ -159,7 +160,7 @@ x ∈ (-∞, -2) ⋃ (1, ∞)
 
 #### Question No. 5
 
-In the problems presented below, calculate the value of the given expression without using a calculator:
+Calculate the value of the given expression without using a calculator:
 
 a) 3⁵  
 b) 4⁻²  
@@ -332,7 +333,7 @@ Developing solution:
 
 #### Question No. 6
 
-In the problems below, explain *__n__* in the given expression (assuming > 0, a ≠ 1).
+Make the value of *__n__* explicit in the given expression (assuming > 0, a ≠ 1).
 
 a) a²/³ * a¹/² = a³ⁿ  
 b) a³ ÷ (√a)⁵ = a²ⁿ  
@@ -416,4 +417,136 @@ a⁻¹⁰ * a³ = a⁻⁷
 Presenting solution:
 ```
 n = -5
+```
+
+### Absolute values and ranges (B)
+
+#### Question No. 1 (B)
+
+Determine the interval, or intervals, made up of all real numbers *x* that satisfy the given inequality.
+
+a) |z| ≤ 3  
+b) |x + 4| ≤ 2  
+c) |x + 2| ≥ 5  
+d) |x - 2| ≤ 5  
+e) |1 - x| < 3  
+f) |x - 1| > 3  
+
+###### Solution for question No. 1
+
+a)
+Developing solution:
+```
+= z ≤ 3
+or
+= z ≥ -3
+```
+
+Presenting solution:
+```
+S = {x ∈ ℝ | -3 ≤ z ≤ 3}
+or
+x ∈ [-3, 3]
+```
+
+b)
+Developing solution:
+```
+= |x + 4| ≤ 2
+= (x + 4) + (-4) ≤ 2 + (-4)
+= x + 4 + (-4) ≤ -2
+= x ≤ -2
+or
+= (x + 4) + (-4) ≥ (-2) + (-4)
+= x + 4 + (-4) ≥ -6
+= x ≥ -6
+```
+
+Presenting solution:
+```
+S = {x ∈ ℝ | -6 ≤ x ≤ -2}
+or
+x ∈ [-6, -2]
+```
+
+c)
+Developing solution:
+```
+= |x + 2| ≥ 5
+= (x + 2) + (-2) ≥ 5 + (-2)
+= x + 2 + (-2) ≥ 3
+= x ≥ 3
+or
+= (x + 2) + (-2) ≤ (-5) + (-2)
+= x + 2 + (-2) ≤ -7
+= x ≤ -7
+```
+
+Presenting solution:
+```
+S = {x ∈ ℝ | x ≤ -7 or x ≥ 3}
+or
+x ∈ (-∞, -7] ⋃ [3, +∞)
+```
+
+d)
+Developing solution:
+```
+= |x - 2| ≤ 5
+= (x - 2) + 2 ≤ 5 + 2
+= x - 2 + 2 ≤ 7
+= x ≤ 7
+or
+= (x - 2) + 2 ≥ (-5) + 2
+= x - 2 + 2 ≥ -3
+= x ≥ -3
+```
+
+Presenting solution:
+```
+S = {x ∈ ℝ | -3 ≤ x ≤ 7}
+or
+x ∈ [-3, 7]
+```
+
+e)
+Developing solution:
+```
+= |1 - x| < 3
+= (1 - x) + (-1) < 3 + (-1)
+= 1 - x + (-1) < 2
+= -x < 2
+= x > -2
+or
+= (1 - x) + (-1) > (-3) + (-1)
+= (1 - x) + (-1) > -4
+= -x > -4
+= x < 4
+```
+
+Presenting solution:
+```
+S = {x ∈ ℝ | -2 < x < 4}
+or
+x ∈ (-2, 4)
+```
+
+f)
+Developing solution:
+```
+= |x - 1| > 3
+= (x - 1) + 1 > 3 + 1
+= x - 1 + 1 > 4
+= x > 4
+or
+= (x - 1) + 1 < (-3) + 1
+= x - 1 + 1 < -2
+= x < -2
+```
+
+Presenting solution:
+```
+S = {x ∈ ℝ | x < -2 or x > 4}
+or
+x ∈ (-∞, -2) ⋃ (4, +∞)
 ```
