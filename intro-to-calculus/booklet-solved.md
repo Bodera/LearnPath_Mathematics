@@ -610,14 +610,15 @@ Presenting solution:
 
 Simplify the given quotient as much as possible.
 
-a) (x² * (x - 1)³ - 2x(x - 1)²) ÷ (x² - x - 2)  
+a) (x²(x - 1)³ - 2x(x - 1)²) ÷ (x² - x - 2)  
 b) (x(x + 2)⁴ - x³(x + 2)²) ÷ (x² - 3x + 2)  
 
 ###### Solution for question No. 3
 
 `a)` Developing solution:
 ```
-=
+= (x²(x - 1)³ - 2x(x - 1)²) ÷ (x² - x - 2)
+
 ```
 
 Presenting solution:
