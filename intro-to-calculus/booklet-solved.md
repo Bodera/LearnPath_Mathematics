@@ -535,6 +535,92 @@ x ∈ (-∞, -2) ⋃ (4, +∞)
 
 #### Question No. 2 (B)
 
-`foo bar`
+Simplify as much as possible.
+
+a) x⁴ - 9x²  
+b) x¹⁶ - (2x)⁴  
+c) x³ + 3(x - 12)  
+d) 2(x - 3)² * (x + 1) - 5(x - 3)³ * (2x)
 
 ###### Solution for question No. 2
+
+`a)` Developing solution:
+```
+= x⁴ - 9x²
+= x² * (x² - 9)
+= x² * (x² - 3²)
+= x² * (x + 3) * (x - 3)
+```
+
+Presenting solution:
+```
+x²(x + 3)(x - 3)
+```
+
+`b)` Developing solution:
+```
+= x¹⁶ - (2x)⁴
+= x¹⁶ - 2⁴x⁴
+= x¹⁶ - 16x⁴
+```
+
+Presenting solution:
+```
+x¹⁶ - 16x⁴
+```
+
+`c)` Developing solution:
+```
+= x³ + 3(x - 12)
+= x³ + 3x - 36
+```
+
+Presenting solution:
+```
+x³ + 3x - 36
+```
+
+
+`d)` Developing solution:
+```
+= 2(x - 3)² * (x + 1) - 5(x - 3)³ * (2x)
+= 2(x - 3)² * (x + 1) - 5(x - 3)³ * 2x
+= 2(x - 3)² * (x + 1) - 5*2(x - 3)³ * x
+= 2(x² + 2x * (-3) + (-3)²) * (x + 1) - 10(x - 3)³ * x
+= 2(x² - 6x + 9) * (x + 1) - 10(x - 3)³ * x    //Applied the perfect square formula
+= 2(x² - 6x + 9) * (x + 1) - 10(x³ + 3x² * (-3) + 3x * (-3)² + (-3)³) * x
+= 2(x² - 6x + 9) * (x + 1) - 10(x³ -9x² + 3x * 9 - 27) * x
+= 2(x² - 6x + 9) * (x + 1) - 10(x³ -9x² + 27x - 27) * x    //Applied the perfect cube formula
+= (2x² - 12x + 18) * (x + 1) - 10(x³ -9x² + 27x - 27) * x
+= (2x³ - 12x² + 18x + 2x² - 12x + 18) - 10(x³ -9x² + 27x - 27) * x
+= (2x³ - 10x² + 6x + 18) - (10 * x)(x³ -9x² + 27x - 27)
+= (2x³ - 10x² + 6x + 18) - (10x) * (x³ -9x² + 27x - 27)
+= (2x³ - 10x² + 6x + 18) - (10x⁴ - 90x³ + 270x² - 270x)
+= 2x³ - 10x² + 6x + 18 + 10x⁴ + 90x³ - 270x² + 270x
+= 10x⁴ + 90x³ + 2x³ - 270x² - 10x² + 270x + 6x + 18
+= 10x⁴ + 92x³ - 280x² - 276x + 18
+```
+
+Presenting solution:
+```
+10x⁴ + 92x³ - 280x² - 276x + 18
+```
+
+#### Question No. 3 (B)
+
+Simplify the given quotient as much as possible.
+
+a) (x² * (x - 1)³ - 2x(x - 1)²) ÷ (x² - x - 2)  
+b) (x(x + 2)⁴ - x³(x + 2)²) ÷ (x² - 3x + 2)  
+
+###### Solution for question No. 3
+
+`a)` Developing solution:
+```
+=
+```
+
+Presenting solution:
+```
+
+```
