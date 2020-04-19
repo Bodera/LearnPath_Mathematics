@@ -22,6 +22,27 @@ The __bold text__ will be used to denote a problem which solution will be achiev
 14. [Question No. 14](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-14)
 15. [Question No. 15](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-15)
 16. [Question No. 16](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-16)
+17. [Question No. 17](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-17)
+18. [Question No. 18](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-18)
+19. [Question No. 19](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-19)
+20. [Question No. 20](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-20)
+21. [Question No. 21](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-21)
+22. [Question No. 22](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-22)
+23. [Question No. 23](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-23)
+24. [Question No. 24](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-24)
+25. [Question No. 25](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-25)
+26. [Question No. 26](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-26)
+27. [Question No. 27](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-27)
+28. [Question No. 28](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-28)
+29. [Question No. 29](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-29)
+30. [Question No. 30](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-30)
+31. [Question No. 31](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-31)
+32. [Question No. 32](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-32)
+33. [Question No. 33](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-33)
+34. [Question No. 34](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-34)
+35. [Question No. 35](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-35)
+
+
 
 ### Question No. 1
 
@@ -483,3 +504,122 @@ d) If A and B are disjoint, how many elements will the set A ∩ B have?
 ```
 0, none. The intersection of disjoint sets is ∅.
 ```
+
+### Question No. 17
+
+In the sentences below, *T* is used to mark the true sentences and *F* the false ones.
+
+a) {2} ∈ {0, 1, 2} - {2} belongs to {0, 1, 2}  
+b) ∅ ⊂ {5, 6, 7} - *void* is contained in {5, 6, 7}  
+c) ∅ ∈ {∅, 4} - *void* belongs to {∅, 4}  
+d) 5 ∈ {3, {5, 1}, 4} - 5 belongs to {3, {5, 1}, 4}  
+e) {5, 6} ⊃ {5, 6, 7} - {5, 6} contains {5, 6, 7}  
+
+__Answers__:
+
+a) __F__  
+b) __T__  
+c) __T__  
+d) __F__  
+e) __F__  
+
+### Question No. 18
+
+Which of the sentences below is true?
+
+a) 0 = {0} - 0 is equals to {0}  
+b) 0 ∈ ∅ - 0 belongs to *void*  
+c) { } = ∅ - { } is equals to *void*  
+d) {{ }} = ∅ - {{ }} is equals to *void*  
+
+__Answers__:
+
+Letter __C__ is true.
+
+### Question No. 19
+
+Being A = {1, 2, {1}, {2, 3}}, which of the propositions below is false?
+
+a) 1 ∈ A - 1 belongs to A  
+b) {3} ∈ A - {3} belongs to A  
+c) {1} ∈ A - {1} belongs to A  
+d) A has four elements in total  
+
+__Answers__:
+
+Letter __B__ is false.
+
+### Question No. 20
+
+Given the set A = {1, {2}, 2}, which of the relationships below is false?
+
+a) {2} ∈ A - {2} belongs to A  
+b) {1} ∈ A - {1} belongs to A  
+c) {1, 2} ⊂ A - {1, 2} is contained in A  
+d) {2} ⊂ A - {2} is contained in A  
+e) {2, {2}} ⊂ A - {2, {2}} is contained in A  
+
+__Answers__:
+
+Letter __B__ is false.
+
+### Question No. 21
+
+Given the set A = {3, {3}}, and the propositions:
+
+I. 3 ∈ A  
+II. {3} ⊂ A  
+III. {3} ∈ A  
+
+So which of them are true?
+
+__Answer__:
+
+All propositions are true.
+
+### Question No. 22
+
+If A = {∅, 3, {3}, {2, 3}}, so:
+
+a) {2, 3} ⊂ A - {2, 3} is contained in A  
+b) 2 ∈ A - 2 belongs to A  
+c) ∅ ∉ A - *void* does not belong to A  
+d) 3 ⊂ A - 3 is contained in A  
+e) {3} ∈ A - {3} belongs to A  
+
+__Answer__:
+
+Letter __E__ is correct.
+
+### Question No. 23
+
+In the diagram below, we have that:
+
+![Question No. 23 diagram](./images/QuestionNo23.png)
+
+a) 3 ∈ P(F) - 3 belongs to a part of F  
+b) {4, 5} ⊂ P(F) - {4, 5} is contained in a part of F  
+c) {3} ∉ P(F) - {3} does not belong to a part of F  
+d) {2, 3} ⊂ P(F) - {2, 3} is contained in a part of F  
+e) {{9}} ∈ P(F) - {{9}} belongs to a part of F  
+
+`Hint`
+```
+F has a total of 5 elements
+F = {2, 3, 4, 5, {9}}
+The total subsets that we can form from F is = 2⁵
+2⁵ = 32
+
+a subset without elements: {∅}
+a subset with a single element: {2}; {3}; {4}; {5}; {{9}}
+a subset with two elements: {2, 3}; {2, 4}; {2, 5}; {2, {9}}; {3, 4};
+                            {3, 5}; {3, {9}}; {4, 5}; {4, {9}}; {5, {9}}
+a subset with three elements: {2, 3, 4}; {2, 3, 5}; {2, 3, {9}}; {2, 4, 5}; {2, 4, {9}}; {2, 5, {9}};
+                              {2, 5, {9}}; {3, 4, 5}; {3, 4, {9}}; {3, 5, {9}}; {4, 5, {9}};
+a subset with four elements: {2, 3, 4, 5}; {2, 3, 4, {9}}; {2, 4, 5, {9}}; {3, 4, 5, {9}};
+a subset with five elements: {2, 3, 4, 5, {9}}
+```
+
+__Answer__:
+
+Letter __E__ is correct.
