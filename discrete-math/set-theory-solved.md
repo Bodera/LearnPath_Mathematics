@@ -608,7 +608,7 @@ e) {{9}} ∈ P(F) - {{9}} belongs to a part of F
 F has a total of 5 elements
 F = {2, 3, 4, 5, {9}}
 The total subsets that we can form from F is = 2⁵
-2⁵ = 32
+2 ^ 5 = 32
 
 a subset without elements: {∅}
 a subset with a single element: {2}; {3}; {4}; {5}; {{9}}
@@ -623,3 +623,167 @@ a subset with five elements: {2, 3, 4, 5, {9}}
 __Answer__:
 
 Letter __E__ is correct.
+
+### Question No. 24
+
+Consider the following sets of natural numbers:
+
+i. A = {x ∈ ℕ | 0 ≤ x ≤ 25}
+ii. B = {x ∈ ℕ | 16 ≤ x < 25}
+
+The number of elements in the set A ⋂ B is?
+
+a) 9  
+b) 10  
+c) 11  
+d) 12  
+
+`Hint`
+```
+A ⋂ B = {16, 17, 18, 19, 20, 21, 22, 23, 24}
+
+A total of 9 elements.
+```
+
+__Answer__:
+
+Letter __A__ is correct.
+
+### Question No. 25
+
+Consider the following sets of natural numbers:
+
+i. A = {x ∈ ℕ | 1 ≤ x ≤ 20}
+ii. B = {x ∈ ℕ | 17 < x ≤ 25}
+
+The number of subsets in A ⋂ B is equal to:
+
+a) 3  
+b) 4  
+c) 6  
+d) 8  
+
+`Hint`
+```
+A ⋂ B has a total of 3 elements.
+A ⋂ B = {18, 19, 20}
+The total subsets that we can form from A ⋂ B is = 2³
+2 ^ 3 = 8
+
+a subset without elements: {∅}
+a subset with a single element: {18}; {19}; {20}
+a subset with two elements: {18, 19}; {18, 20}; {19, 20}
+a subset with three elements: {18, 19, 20}
+```
+
+__Answer__:
+
+Letter __D__ is correct.
+
+### Question No. 26
+
+Let A be a set with 8 elements. The number of subsets in A is?
+
+a) 8  
+b) 256  
+c) 6  
+d) 128  
+
+`Hint`
+```
+A has a total of 8 elements.
+A = {a, b, c, d, e, f, g, h}
+The total subsets that we can form from A = 2⁸
+2 ^ 8 = 256
+
+a subset without elements: {∅}
+a subset with a single element: {...}
+a subset with two elements: {...}
+a subset with three elements: {...}
+a subset with four elements: {...}
+a subset with five elements: {...}
+a subset with six elements: {...}
+a subset with seven elements: {...}
+a subset with eight elements: {a, b, c, d, e, f, g, h}
+
+We've already proved it.
+```
+
+__Answer__:
+
+Letter __B__ is correct.
+
+### Question No. 27
+
+Given the set E = {1, 2, 4, 8}, does it have how many subsets?
+
+a) 8  
+b) 16  
+c) 32  
+d) 64  
+
+`Hint`
+```
+E has a total of 4 elements.
+The total subsets that we can form from A = 2⁴
+2 ^ 4 = 16
+
+a subset without elements: {∅}
+a subset with a single element: {...}
+a subset with two elements: {...}
+a subset with three elements: {...}
+a subset with four elements: {1, 2, 3, 4}
+
+We've already proved it.
+```
+
+__Answers__:
+
+Letter __B__ is correct.
+
+### Question No. 28
+
+What is the set of parts of the empty set?
+
+a) ∅  
+b) {∅}  
+c) {∅, {∅}}  
+d) {{∅}}  
+
+`Hint`
+```
+∅ = {∅}
+∅ has a total of 0 elements.
+The total subsets that we can form from ∅ = 2⁰
+2 ^ 0 = 1
+
+a subset without elements: {∅}
+```
+
+__Answer__:
+
+Letter __B__ is correct.
+
+### Question No. 29
+
+What is the set of parts of the set {∅}?
+
+a) ∅  
+b) {∅}  
+c) {∅, {∅}}  
+d) {{∅}}  
+
+`Hint`
+```
+{∅} = {∅, {∅}}
+{∅} has a total of 1 elements.
+The total subsets that we can form from {∅} = 2¹
+2 ^ 1 = 2
+
+a subset without elements: {∅}
+a subset with a single elements: {{∅}}
+```
+
+__Answer__:
+
+Letter __C__ is correct.
