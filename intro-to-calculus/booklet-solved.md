@@ -618,6 +618,21 @@ b) (x(x + 2)⁴ - x³(x + 2)²) ÷ (x² - 3x + 2)
 `a)` Developing solution:
 ```
 = (x²(x - 1)³ - 2x(x - 1)²) ÷ (x² - x - 2)
+= (x(x - 1)²(x(x - 1) - 2)) ÷ ((x + 1)(x - 2))
+= (x(x - 1)²(x² - x - 2)) ÷ ((x + 1)(x - 2))
+= (x(x - 1)²(x + 1)(x - 2)) ÷ ((x + 1)(x - 2))
+= x(x - 1)²
+
+```
+
+Presenting solution:
+```
+x(x - 1)²
+```
+
+`b)` Developing solution:
+```
+= (x(x + 2)⁴ - x³(x + 2)²) ÷ (x² - 3x + 2)
 
 ```
 

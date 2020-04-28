@@ -1,5 +1,20 @@
-## Variations measures
+# Variations measures
 
+## Summary
+
+* [__Question No. 1__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-1)
+* [__Question No. 2__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-2)
+* [__Question No. 3__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-3)
+* [__Question No. 4__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-4)
+* [__Question No. 5__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-5)
+* [__Question No. 6__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-6)
+* [__Question No. 7__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-7)
+* [__Question No. 8__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-8)
+* [__Question No. 9__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-9)
+* [__Question No. 10__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-10)
+* [__Question No. 11__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-11)
+* [__Question No. 12__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-12)
+* [__Question No. 13__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-13)
 
 ### Question No. 1
 
@@ -327,7 +342,7 @@ Akhiok is a small fishing village on the island of Kodiak, Alaska. The following
 4  10  26  12  6  16  8  2  4  28  11
 ```
 
-Determine the mean and standard deviation of the data set. Then, after building a frequency distribution table, determine the mean and standard deviation of the data set.
+Determine the mean and standart deviation of the data set. Then, after building a frequency distribution table, determine the mean and standart deviation of the data set.
 
 #### Procedures for the solution of question No. 4
 
@@ -436,7 +451,7 @@ x̅ = 1798.5 ÷ 77
 x̅ = 23.3571
 ```
 
-__6º step__ - Calculate the arithmetic mean for tabular data.
+__6º step__ - Calculate the standart deviation for tabular data.
 
 ```
 s = √ ( ∑((x^ᵢ - x̅)² * fᵢ) ÷ (n-1))
@@ -447,7 +462,7 @@ x̅: arithmetic mean of the tabular data
 n: sum of all relative frequencies
 ```
 
-knowing this, the standard deviation can now be calculate:
+knowing this, the standart deviation can now be calculate:
 
 ```
 s = √( ((5.5 - 23.35714286)² * 27 + (16.5 - 23.35714286)² * 13 + (27.5 - 23.35714286)² * 16 +
@@ -464,17 +479,114 @@ s = 17.3043
 
 __7º step__ - Answer the questions.
 
-Raw data: a) arithmetic mean = __22.6623__, b) standard deviation = __17.5623__  
-Tabular data: a) arithmetic mean = __23.3571__, b) standard deviation = __17.3043__  
+Raw data: a) arithmetic mean = __22.6623__, b) standart deviation = __17.5623__  
+Tabular data: a) arithmetic mean = __23.3571__, b) standart deviation = __17.3043__  
 
 ### Question No. 5
 
-#### Procedures for the solution of question No. 5
+The number of printing errors on the first 3 pages of a newspaper was counted for 50 days, and a specific software recorded these data in the form of a stem-and-leaf diagram.
 
+#### Questions and Answers about question No. 5
+
+```
+Steam | Leaves
+  0       4
+  0       555556666777788899
+  1       000001111222222222234444444
+  1       569
+  2       2
+
+Arithmetic average: 10.4 errors
+Median: 11 errors
+Standart deviation: 3.84 errors
+```
+
+__Q:__ The value `13` occurred only once. Is the chance that it will happen again __high__ or __low__? Justify your answer.  
+__A:__ __High__. Let's check the `z-score` for the value `13`.
+
+```
+standart score, the z-score, informs us how many standart deviation a record is away from the mean, according to the Chebyshev's inequality.
+Useful to know if a value is typical or atypical for a given data set.
+
+z = (x - x̅) / s
+
+x: value to be tested
+x̅: arithmetic mean
+s: standart deviation
+
+z = (13 - 10.4) / 3.84
+z = 2.6 / 3.84
+z = 0.67
+```
+
+knowing this, we can now say the chances of repetition for `13`
+
+```
+-1 < z < +1 = 68%
+-2 < z < +2 = 95%
+-3 < z < +3 = 99,7%
+
+0.67 (13) is in an interval that concentrates 68% of the records.
+So it is not difficult for this to happen again.
+```
+
+__Q:__ Do the same analysis for data 22.  
+__A:__ __High__. Let's check the `z-score` for the value `22`.
+
+```
+standart score, the z-score, informs us how many standart deviation a record is away from the mean, according to the Chebyshev's inequality.
+Useful to know if a value is typical or atypical for a given data set.
+
+z = (x - x̅) / s
+
+x: value to be tested
+x̅: arithmetic mean
+s: standart deviation
+
+z = (22 - 10.4) / 3.84
+z = 11.6 / 3.84
+z = 3.02
+```
+
+knowing this, we can now say the chances of repetition for `22`
+
+```
+-1 < z < +1 = 68%
+-2 < z < +2 = 95%
+-3 < z < +3 = 99,7%
+
+3.02 (22) is in an interval that is apart from 99,7% of the records.
+So it is considered as an outlier and is hard for this to happen again.
+```
+
+__Q:__ Suppose that data `22` occurred on a certain day when there were many problems in the printing process of that newspaper. Delete this data from the whole set and recalculate the arithmetic mean.  
+
+Oh my... we will have to perform a tiresome calculation :disappointed:.
+
+```
+Arithmetic mean counting occurrences for value 22: 10.4
+Number of counted occurrences: 50
+Total occurrences of value 22: 1
+Sum of all records: ?
+
+? ÷ 50 = 10.4
+? = 10.4 * 50
+? = 520
+
+520 - 22 = 498
+498 ÷ 50 = 9.96
+
+Hehehe... gotcha! :D
+```
+
+__A__: The arithmetic mean without `22` is equals to `9.96`.
+
+__Q__: Determine the new average without data `22`, assuming you don't know the data, but only `10.4` as the average.  
+__A__: We've already perform this task on the question above.
 
 ### Question No. 6
 
-Without calculating, what is the set with the largest sample standard deviation? Which has the lowest sample standard deviation? Explain your reasoning.
+Without calculating, what is the set with the largest sample standart deviation? Which has the lowest sample standart deviation? Explain your reasoning.
 
 ![Image-QuestionNo.6](./assets/ListNo03Qst6.png)
 

@@ -787,3 +787,114 @@ a subset with a single elements: {{∅}}
 __Answer__:
 
 Letter __C__ is correct.
+
+### Question No. 30
+
+Given the sets:
+
+i. A = {a, b, c}
+ii. B = {b, c, d}
+iii. C = {a, c, d, e}
+
+We can say that the set P = (A - C) ∪ (C - B) ∪ (A ∩ B ∩ C) is:
+
+a) {a, b, c, e}  
+b) {a, c, e}  
+c) A  
+d) {b, d, e}  
+
+`Hint`
+```
+A - C = {b}
+C - B = {a, e}
+A ∩ B ∩ C = {c}
+
+P = (A - C) ∪ (C - B) ∪ (A ∩ B ∩ C)
+P = {a, b, c, e}
+```
+
+__Answer__:
+
+Letter __A__ is correct.
+
+### Question No. 31
+
+Given:
+
+i. A = {1, 3, 5, 7, 9, 11}
+ii. B = {1, 2, 3, 4, 5}
+iii. C = {2, 4, 7, 8, 9, 10}
+
+So, the set (A ∪ B) ∩ C - A is equal to:
+
+a) {2, 4}  
+b) {4}  
+c) {2, 4, 8}  
+d) {1, 3, 5, 11}  
+
+`Hint`
+```
+A ∪ B = {1, 2, 3, 4, 5, 7, 9, 11}
+(A ∪ B) ∩ C = {2, 4, 7, 9}
+(A ∪ B) ∩ C - A = {2, 4}
+```
+
+__Answer__:
+
+Letter __A__ is correct.
+
+### Question No. 32
+
+Let A ✤ B be the symmetric difference of sets A and B, defined by A ✤ B as = (A - B) ∪ (B - A). Since:
+
+i. A = {a, b, c}
+ii. B = {b, c, d, e, f}
+
+Then A ✤ B is which set?
+
+a) {a, d, e, f}  
+b) {b, c, d, f}  
+c) ∅  
+d) {a}  
+e) A ∩ C  
+
+`Hint`
+```
+A - B = {a}
+B - A = {d, e, f}
+(A - B) ∪ (B - A) = {a, d, e, f}
+```
+
+__Answer__:
+
+Letter __A__ is correct.
+
+### Question No. 33
+
+Consider the statements about the set U knowing that U = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.
+
+I. ∅ ∈ U and n(U) = 10  
+II. ∅ ⊂ U and n(U) = 10  
+III. 5 ∈ U and {5} ⊂ U  
+IV. {0, 1, 2, 5} ∩ {5} = 5  
+
+Then it can be said that it is true:
+
+a) only I and III  
+b) only II and IV  
+c) only II and III  
+d) only IV  
+e) all the statements are true  
+
+
+`Hint`
+```
+U = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}; ∅ is not an element of U.
+{∅} is contained in U. U also has 10 elements.
+5 belongs to U and also {5} is contained in U.
+{0, 1, 2, 5} ∩ {5} is not equals to 5.
+```
+
+__Answer__:
+
+Letter __C__ is correct.
