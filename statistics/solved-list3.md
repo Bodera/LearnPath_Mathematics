@@ -505,7 +505,7 @@ __Q:__ The value `13` occurred only once. Is the chance that it will happen agai
 __A:__ __High__. Let's check the `z-score` for the value `13`.
 
 ```
-standart score, the z-score, informs us how many standart deviation a record is away from the mean, according to the Chebyshev's inequality.
+standart score, the z-score, informs us how many standart deviation a record is away from the mean, according to the Gaussian distribution.
 Useful to know if a value is typical or atypical for a given data set.
 
 z = (x - x̅) / s
@@ -534,7 +534,7 @@ __Q:__ Do the same analysis for data 22.
 __A:__ __High__. Let's check the `z-score` for the value `22`.
 
 ```
-standart score, the z-score, informs us how many standart deviation a record is away from the mean, according to the Chebyshev's inequality.
+standart score, the z-score, informs us how many standart deviation a record is away from the mean, according to the Gaussian distribution.
 Useful to know if a value is typical or atypical for a given data set.
 
 z = (x - x̅) / s
@@ -553,7 +553,7 @@ knowing this, we can now say the chances of repetition for `22`
 ```
 -1 < z < +1 = 68%
 -2 < z < +2 = 95%
--3 < z < +3 = 99,7%
+-3 < z < +3 = 99.7%
 
 3.02 (22) is in an interval that is apart from 99,7% of the records.
 So it is considered as an outlier and is hard for this to happen again.
@@ -586,43 +586,182 @@ __A__: We've already perform this task on the question above.
 
 ### Question No. 6
 
-Without calculating, what is the set with the largest sample standart deviation? Which has the lowest sample standart deviation? Explain your reasoning.
-
 ![Image-QuestionNo.6](./assets/ListNo03Qst6.png)
 
-#### Procedures for the solution of question No. 6
+#### Questions and Answers about question No. 6
 
+Without calculating...
+
+__Q__: What is the set with the largest sample standart deviation? Explain your reasoning.  
+__A__: Figure `ii`. Because the data with higher frequency is very distant from the average.
+
+__Q__: Which has the lowest sample standart deviation? Explain your reasoning.  
+__A__: Figure `iii`. Because the sample contains data most close to the average.
+
+It is worth to mention that Figure `i` follows a Gaussian distribution in which most of the data is concentrated close to the average.
 
 ### Question No. 7
 
+The average value of land and buildings per acre for a sample of farms is $1,000, with a standard deviation of $200. The data set has a bell-shaped distribution. Estimate the percentage of farms whose land and construction values per acre are between $800 and $1,200.
+
 #### Procedures for the solution of question No. 7
 
+__1º step__ - Organize the received information.
+
+```
+x̅: 1000
+s:  200
+```
+
+__2º step__ - The statement tells us that the data set has a bell-shaped distribution.
+
+```
++/- 1s = 68%
++/- 2s = 95%
++/- 3s = 99.7%
+```
+
+knowing this, the percentage of farms whose land and construction values per acre are between $800 and $1,200 is __68%__.
 
 ### Question No. 8
 
+Using the sample statistics from the previous exercise, do the following. (Suppose the number of farms in the sample is `75`.)
+
+1. Use the Empirical Rule to estimate the number of farms whose land and construction value per acre is between $800 and $1,200.
+2. If another `25` farms were sampled, how many of them would you expect to find land and construction values between $800 and $1,200 per acre?
+
 #### Procedures for the solution of question No. 8
 
+__1º step__ - Let's answer the first question.
+
+```
+Calculate 68% of 75
+
+= 75 * 0.68
+= 51
+```
+
+__2º step__ - Now let's answer the second question.
+
+```
+Calculate 68% of 25
+
+= 25 * 0.68
+= 17
+```
 
 ### Question No. 9
 
+Old Faithful is a famous geyser in Yellowstone National Park. In a sample with `n` = `32`, the average duration of Old Faithful eruptions is `3.32` minutes, with a standard deviation of `1.09` minutes. Using Chebychev's theorem, how many eruptions, at least, last between `1.14` minutes and `5.5` minutes? `(source: Yellowstone National Park)`
+
 #### Procedures for the solution of question No. 9
 
+__1º step__ - Organize the received information.
+
+```
+n: 32
+x̅:  3.32
+s:  1.09
+```
+
+__2º step__ - The statement tells us to work with Chebychev's theorem.
+
+```
++/- 2s = (3.32 + 1.09 * 2) and (3.32 - 1.09 * 2)
+       = 5.5/1.14
++/- 3s = (3.32 + 1.09 * 3) and (3.32 - 1.09 * 3)
+       = 6.59/0.05
+```
+
+__3º step__ - Calculate the number of total eruptions.
+
+```
+[x̅ - 2s, x̅ + 2s] ➜ 75% of data
+[x̅ - 3s, x̅ + 3s] ➜ 89% of data
+
+= 32 * 0.75
+= 24
+```
 
 ### Question No. 10
 
+The results of a random sample of the number of pets per family in a region are shown in the histogram below. Estimate the sample mean and standard deviation in the data set.
+
+![Image-QuestionNo.10](./assets/ListNo03Qst10.png)
+
 #### Procedures for the solution of question No. 10
 
+__1º step__ - Organize the received information.
+
+```
+n = 40
+x̅ = ? ((5 * 0) + (11 * 1) + (7 * 2) + (10 * 3) + (7 * 4)) ÷ 40
+  = 2.075
+s: ? 1.09
+```
+
+__2º step__ - Calculate the arithmetic average.
+
+```
+x̅ = (1/n) * (x₁ + ... + xₙ)
+n: total of values in the data set
+xₙ: each individual value in the data set
+```
+
+knowing this, arithmetic mean can now be calculate:
+
+```
+x̅ = (1 ÷ 40) * ((5 * 0) + (11 * 1) + (7 * 2) + (10 * 3) + (7 * 4))
+x̅ = 2.075
+```
+
+__3º step__ - Calculate the standart deviation.
+
+```
+s = √((1/(n-1)) * (xᵢ - x̅)²)
+x̅: arithmetic average of data set
+n: total of values in the data set
+xᵢ: each individual value in the data set
+```
+
+knowing this, standart deviation can now be calculate:
+
+```
+s = √((1/(40-1)) * ((0 - 2.075)² + (0 - 2.075)² + (0 - 2.075)² + (0 - 2.075)² + (0 - 2.075)²
+                    + (1 - 2.075)² + (1 - 2.075)² + (1 - 2.075)² + (1 - 2.075)² + (1 - 2.075)²
+                    + (1 - 2.075)² + (1 - 2.075)² + (1 - 2.075)² + (1 - 2.075)² + (1 - 2.075)²
+                    + (1 - 2.075)² + (2 - 2.075)² + (2 - 2.075)² + (2 - 2.075)² + (2 - 2.075)²
+                    + (2 - 2.075)² + (2 - 2.075)² + (2 - 2.075)² + (3 - 2.075)² + (3 - 2.075)²
+                    + (3 - 2.075)² + (3 - 2.075)² + (3 - 2.075)² + (3 - 2.075)² + (3 - 2.075)²
+                    + (3 - 2.075)² + (3 - 2.075)² + (3 - 2.075)² + (4 - 2.075)² + (4 - 2.075)²
+                    + (4 - 2.075)² + (4 - 2.075)² + (4 - 2.075)² + (4 - 2.075)² + (4 - 2.075)²)
+s = √((1/39) * 68.775)
+s = √1.763461538
+s = 1.327953892
+```
 
 ### Question No. 11
+
+In the block chart below, we see the amount of caffeine in a sample of portions of coffee with five ounces each. Make a frequency distribution for the data. Then use the table to estimate the sample mean and standard deviation of the data set. `(Adapted from the American Dietetic Association's Complete Food and Nutrition Guide)`
+
+![Image-QuestionNo.11](./assets/ListNo03Qst11.png)
 
 #### Procedures for the solution of question No. 11
 
 
 ### Question No. 12
 
+The estimated distribution (in millions) of the United States population by age for the year 2006 is shown in the pie chart below. Make a frequency distribution for the data. Then use the table to estimate the sample mean and standard deviation of the data set. Use 70 as a midpoint for "65 years or older" `(Source: US Censos Bares-tu)`
+
+![Image-QuestionNo.12](./assets/ListNo03Qst12.png)
+
 #### Procedures for the solution of question No. 12
 
 
 ### Question No. 13
+
+Japan's estimated population for the year 2010 is given in the corresponding bar graph. Make a frequency distribution for the data. Then use the table to estimate the sample mean and standard deviation of the data set. (Source: LIS Censos Barrou, International Base)
+
+![Image-QuestionNo.13](./assets/ListNo03Qst13.png)
 
 #### Procedures for the solution of question No. 13
