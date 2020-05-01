@@ -1,7 +1,6 @@
 # Variations measures
 
 ## Summary
-
 * [__Question No. 1__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-1)
 * [__Question No. 2__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-2)
 * [__Question No. 3__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-3)
@@ -17,9 +16,7 @@
 * [__Question No. 13__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list3.md#question-no-13)
 
 ### Question No. 1
-
 Obtain the total amplitude, average, variance and standart deviation for the two data sets below:
-
 ```
 Dataset 1:  11   10   8   4   6   7   11   6   11   7
 
@@ -27,9 +24,7 @@ Dataset 2:  15   8   12   5   19   14   8   6   13
 ```
 
 #### Procedures for the solution of question No. 1
-
 __1º step__ - Sort the data in ascending order.
-
 ```
 Dataset 1:  4   6   6   7   7   8   10   11   11   11  
 
@@ -37,7 +32,6 @@ Dataset 2:  5   6   8   8   12   13   14   15   19
 ```
 
 __2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value.
-
 ```
 Dataset 1:  (11) - (4)
             = 7 value of total amplitude
@@ -47,7 +41,6 @@ Dataset 2:  (19) - (5)
 ```
 
 __3º step__ - Calculate the arithmetic mean of each data set by applying the formula:
-
 ```
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
@@ -55,7 +48,6 @@ xₙ: each individual value in the data set
 ```
 
 knowing this, arithmetic mean can now be calculate:
-
 ```
 Dataset 1:  (1 / 10) * (4 + 6 + 6 + 7 + 7 + 8 + 10 + 11 + 11 + 11)
             = 0.1 * 81
@@ -67,7 +59,6 @@ Dataset 2:  (1 / 9) * (5 + 6 + 8 + 8 + 12 + 13 + 14 + 15 + 19)
 ```
 
 __4º step__ - Calculate the standart deviation of each data set by applying the formula:
-
 ```
 s = √((1/(n-1)) * (xᵢ - x̅)²)
 x̅: arithmetic average of data set
@@ -76,7 +67,6 @@ xᵢ: each individual value in the data set
 ```
 
 knowing this, standart deviation can now be calculate:
-
 ```
 Dataset 1:  √((1/(10-1)) * ((4 - 8.1)² + (6 - 8.1)² + (6 - 8.1)² + (7 - 8.1)² + (7 - 8.1)² +
                             (8 - 8.1)² + (10 - 8.1)² + (11 - 8.1)² + (11 - 8.1)² + (11 - 8.1)²))
@@ -96,14 +86,12 @@ Dataset 2:  √((1/(9-1)) * ((5 - 11.111...)² + (6 - 11.111...)² + (8 - 11.111
 ```
 
 __5º step__ - Calculate the variance of each data set by applying the formula:
-
 ```
 s²
 s: standart deviation
 ```
 
 knowing this, standart deviation can now be calculate:
-
 ```
 Dataset 1:  (2.514402955)²
             = 6.3222... value of variance
@@ -114,9 +102,7 @@ Dataset 2:  (4.648775227)²
 
 
 ### Question No. 2
-
 Samples of annual salaries, in thousands of dollars, from government officials in the city of Los Angeles and Long Beach are listed below:
-
 ```
 Los Angeles: 	20.2  26.1	20.9	35.9	23.0	28.2	31.6	18.3
 Long Beach: 	20.9	18.2	20.8	21.1	26.5	26.9	24.2	25.1
@@ -126,16 +112,13 @@ a) Obtain the total amplitude, average, variance and standart deviation for each
 b) Compare the two cities (average salary and standart deviation).
 
 #### Procedures for the solution of question No. 2
-
 __1º step__ - Sort the data in ascending order.
-
 ```
 LA:   18.3  20.2  20.9  23.0  26.1  28.2  31.6  35.9
 LBC:  18.2  20.8	20.9  21.1  24.2  25.1  26.5  26.9
 ```
 
 __2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value.
-
 ```
 LA:  (35.9) - (18.3)
      = 17.6 value of total amplitude
@@ -145,7 +128,6 @@ LBC: (26.9) - (18.2)
 ```
 
 __3º step__ - Calculate the arithmetic mean of each data set by applying the formula:
-
 ```
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
@@ -153,7 +135,6 @@ xₙ: each individual value in the data set
 ```
 
 knowing this, arithmetic mean can now be calculate:
-
 ```
 LA: (1 / 8) * (18.3 + 20.2 + 20.9 + 23.0 + 26.1 + 28.2 + 31.6 + 35.9)
     = 0.125 * 204.2
@@ -165,7 +146,6 @@ LBC: (1 / 8) * (18.2 + 20.8	+ 20.9 + 21.1 + 24.2 + 25.1 + 26.5 + 26.9)
 ```
 
 __4º step__ - Calculate the standart deviation of each data set by applying the formula:
-
 ```
 s = √((1/(n-1)) * (xᵢ - x̅)²)
 x̅: arithmetic average of data set
@@ -174,7 +154,6 @@ xᵢ: each individual value in the data set
 ```
 
 knowing this, standart deviation can now be calculate:
-
 ```
 LA:  √((1/(8-1)) * ((18.3 - 25.525)² + (20.2 - 25.525)² + (20.9 - 25.525)² + (23.0 - 25.525)² +
                     (26.1 - 25.525)² + (28.2 - 25.525)² + (31.6 - 25.525)² + (35.9 - 25.525)²))
@@ -194,14 +173,12 @@ LBC: √((1/(8-1)) * ((18.2 - 22.9625)² + (20.8 - 22.9625)² + (20.9 - 22.9625)
 ```
 
 __5º step__ - Calculate the variance of each data set by applying the formula:
-
 ```
 s²
 s: standart deviation
 ```
 
 knowing this, standart deviation can now be calculate:
-
 ```
 LA:  (6.098653248)²
      = 37.1935 value of variance
@@ -211,7 +188,6 @@ LBC: (3.144127179)²
 ```
 
 __6º step__ - Lets compare the arithmetic average and standart deviation of the two cities:
-
 ```
 LA:  25.525 higher salary avg; 6.0986 higher standart deviation.
 
@@ -222,9 +198,7 @@ The annual wages of LA vary more than LBC.
 
 
 ### Question No. 3
-
 Samples of annual salaries, in thousands of dollars, for teachers from public and private schools are listed below.
-
 ```
 Public school:  38.6	38.1	38.7	36.8	34.8	35.9	39.9	36.2
 Private school: 21.8	18.4	20.3	17.6	19.7	18.3	19.4	20.8
@@ -234,16 +208,13 @@ a) Obtain the total amplitude, average, variance and standart deviation for each
 b) Compare the two education networks (average salary and standart deviation).
 
 #### Procedures for the solution of question No. 3
-
 __1º step__ - Sort the data in ascending order.
-
 ```
 Public school:  34.8  35.9  36.2  36.8  38.1  38.6	38.7	39.9
 Private school: 17.6  18.3  18.4  19.4  19.7	20.3	20.8  21.8
 ```
 
 __2º step__ - Then calculate the total amplitude of each data set by subtracting the highest value from the lowest value.
-
 ```
 Public school:  (39.9) - (34.8)
                 = 5.1 value of total amplitude
@@ -253,7 +224,6 @@ Private school: (21.8) - (17.6)
 ```
 
 __3º step__ - Calculate the arithmetic mean of each data set by applying the formula:
-
 ```
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
@@ -261,7 +231,6 @@ xₙ: each individual value in the data set
 ```
 
 knowing this, arithmetic mean can now be calculate:
-
 ```
 Public school:  = (1/8) * (34.8 + 35.9 + 36.2 + 36.8 + 38.1 + 38.6 + 38.7	+ 39.9)
                 = 0.125 * 299
@@ -273,7 +242,6 @@ Private school: = (1/8) * (17.6 + 18.3 + 18.4 + 19.4 + 19.7	+ 20.3 + 20.8 + 21.8
 ```
 
 __4º step__ - Calculate the standart deviation of each data set by applying the formula:
-
 ```
 s = √((1/(n-1)) * (xᵢ - x̅)²)
 x̅: arithmetic average of data set
@@ -282,7 +250,6 @@ xᵢ: each individual value in the data set
 ```
 
 knowing this, standart deviation can now be calculate:
-
 ```
 Public school:  √((1/(8-1)) * ((34.8 - 37.375)² + (35.9 - 37.375)² + (36.2 - 37.375)² + (36.8 - 37.375)² +
                                (38.1 - 37.375)² + (38.6 - 37.375)² + (38.7 - 37.375)² + (39.9 - 37.375)²))
@@ -302,14 +269,12 @@ Private school: √((1/(8-1)) * ((17.6 - 19.5375)² + (18.3 - 19.5375)² + (18.4
 ```
 
 __5º step__ - Calculate the variance of each data set by applying the formula:
-
 ```
 s²
 s: standart deviation
 ```
 
 knowing this, standart deviation can now be calculate:
-
 ```
 Public school:  (1.718595773)²
                 = 2.9535 value of variance
@@ -319,7 +284,6 @@ Private school: (1.410103846)²
 ```
 
 __6º step__ - Lets compare the average salary and standart deviation of the two education networks:
-
 ```
 Public school:  37.375 higher salary avg; 1.7185 slightly higher standart deviation
 
@@ -329,9 +293,7 @@ Although the public school has a higher average salary, annual salaries vary mor
 ```
 
 ### Question No. 4
-
 Akhiok is a small fishing village on the island of Kodiak, Alaska. The following census represents the stated age data for the entire population of the 77 inhabitants of Akhiok:
-
 ```
 28  6  17  48  63  47  27  21  3  7  12
 39  50  54  33  45  15  24  1  7  36  53
@@ -601,20 +563,16 @@ __A__: Figure `iii`. Because the sample contains data most close to the average.
 It is worth to mention that Figure `i` follows a Gaussian distribution in which most of the data is concentrated close to the average.
 
 ### Question No. 7
-
 The average value of land and buildings per acre for a sample of farms is $1,000, with a standard deviation of $200. The data set has a bell-shaped distribution. Estimate the percentage of farms whose land and construction values per acre are between $800 and $1,200.
 
 #### Procedures for the solution of question No. 7
-
 __1º step__ - Organize the received information.
-
 ```
 x̅: 1000
 s:  200
 ```
 
 __2º step__ - The statement tells us that the data set has a bell-shaped distribution.
-
 ```
 +/- 1s = 68%
 +/- 2s = 95%
@@ -624,16 +582,13 @@ __2º step__ - The statement tells us that the data set has a bell-shaped distri
 knowing this, the percentage of farms whose land and construction values per acre are between $800 and $1,200 is __68%__.
 
 ### Question No. 8
-
 Using the sample statistics from the previous exercise, do the following. (Suppose the number of farms in the sample is `75`.)
 
 1. Use the Empirical Rule to estimate the number of farms whose land and construction value per acre is between $800 and $1,200.
 2. If another `25` farms were sampled, how many of them would you expect to find land and construction values between $800 and $1,200 per acre?
 
 #### Procedures for the solution of question No. 8
-
 __1º step__ - Let's answer the first question.
-
 ```
 Calculate 68% of 75
 
@@ -642,7 +597,6 @@ Calculate 68% of 75
 ```
 
 __2º step__ - Now let's answer the second question.
-
 ```
 Calculate 68% of 25
 
@@ -651,13 +605,10 @@ Calculate 68% of 25
 ```
 
 ### Question No. 9
-
-Old Faithful is a famous geyser in Yellowstone National Park. In a sample with `n` = `32`, the average duration of Old Faithful eruptions is `3.32` minutes, with a standard deviation of `1.09` minutes. Using Chebychev's theorem, how many eruptions, at least, last between `1.14` minutes and `5.5` minutes? `(source: Yellowstone National Park)`
+[Old Faithful](https://www.nps.gov/yell/planyourvisit/exploreoldfaithful.htm) is a famous geyser in Yellowstone National Park. In a sample with `n` = `32`, the average duration of Old Faithful eruptions is `3.32` minutes, with a standard deviation of `1.09` minutes. Using Chebychev's theorem, how many eruptions, at least, last between `1.14` minutes and `5.5` minutes? `(source: Yellowstone National Park)`
 
 #### Procedures for the solution of question No. 9
-
 __1º step__ - Organize the received information.
-
 ```
 n: 32
 x̅:  3.32
@@ -665,7 +616,6 @@ s:  1.09
 ```
 
 __2º step__ - The statement tells us to work with Chebychev's theorem.
-
 ```
 +/- 2s = (3.32 + 1.09 * 2) and (3.32 - 1.09 * 2)
        = 5.5/1.14
@@ -674,7 +624,6 @@ __2º step__ - The statement tells us to work with Chebychev's theorem.
 ```
 
 __3º step__ - Calculate the number of total eruptions.
-
 ```
 [x̅ - 2s, x̅ + 2s] ➜ 75% of data
 [x̅ - 3s, x̅ + 3s] ➜ 89% of data
@@ -684,15 +633,12 @@ __3º step__ - Calculate the number of total eruptions.
 ```
 
 ### Question No. 10
-
 The results of a random sample of the number of pets per family in a region are shown in the histogram below. Estimate the sample mean and standard deviation in the data set.
 
 ![Image-QuestionNo.10](./assets/ListNo03Qst10.png)
 
 #### Procedures for the solution of question No. 10
-
 __1º step__ - Organize the received information.
-
 ```
 n = 40
 x̅ = ? ((5 * 0) + (11 * 1) + (7 * 2) + (10 * 3) + (7 * 4)) ÷ 40
@@ -701,7 +647,6 @@ s: ? 1.09
 ```
 
 __2º step__ - Calculate the arithmetic average.
-
 ```
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
@@ -709,14 +654,12 @@ xₙ: each individual value in the data set
 ```
 
 knowing this, arithmetic mean can now be calculate:
-
 ```
 x̅ = (1 ÷ 40) * ((5 * 0) + (11 * 1) + (7 * 2) + (10 * 3) + (7 * 4))
 x̅ = 2.075
 ```
 
 __3º step__ - Calculate the standart deviation.
-
 ```
 s = √((1/(n-1)) * (xᵢ - x̅)²)
 x̅: arithmetic average of data set
@@ -725,7 +668,6 @@ xᵢ: each individual value in the data set
 ```
 
 knowing this, standart deviation can now be calculate:
-
 ```
 s = √((1/(40-1)) * ((0 - 2.075)² + (0 - 2.075)² + (0 - 2.075)² + (0 - 2.075)² + (0 - 2.075)²
                     + (1 - 2.075)² + (1 - 2.075)² + (1 - 2.075)² + (1 - 2.075)² + (1 - 2.075)²
@@ -741,7 +683,6 @@ s = 1.327953892
 ```
 
 ### Question No. 11
-
 In the block chart below, we see the amount of caffeine in a sample of portions of coffee with five ounces each. Make a frequency distribution for the data. Then use the table to estimate the sample mean and standard deviation of the data set. `(Adapted from the American Dietetic Association's Complete Food and Nutrition Guide)`
 
 ![Image-QuestionNo.11](./assets/ListNo03Qst11.png)
@@ -750,7 +691,6 @@ In the block chart below, we see the amount of caffeine in a sample of portions 
 
 
 ### Question No. 12
-
 The estimated distribution (in millions) of the United States population by age for the year 2006 is shown in the pie chart below. Make a frequency distribution for the data. Then use the table to estimate the sample mean and standard deviation of the data set. Use 70 as a midpoint for "65 years or older" `(Source: US Censos Bares-tu)`
 
 ![Image-QuestionNo.12](./assets/ListNo03Qst12.png)
@@ -759,7 +699,6 @@ The estimated distribution (in millions) of the United States population by age 
 
 
 ### Question No. 13
-
 Japan's estimated population for the year 2010 is given in the corresponding bar graph. Make a frequency distribution for the data. Then use the table to estimate the sample mean and standard deviation of the data set. (Source: LIS Censos Barrou, International Base)
 
 ![Image-QuestionNo.13](./assets/ListNo03Qst13.png)
