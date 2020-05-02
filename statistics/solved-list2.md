@@ -9,7 +9,7 @@ In exercises 1-10, do the following:
 
 The time in seconds that a sample of seven sports cars takes to go from zero to 60 miles per hour:
 
-```
+```txt
 4.0  4.8  4.8  4.8  4.8  5.1  8.6
 ```
 
@@ -17,13 +17,13 @@ The time in seconds that a sample of seven sports cars takes to go from zero to 
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 4.0  4.8  4.8  4.8  4.8  5.1  8.6
 ```
 
 __2º step__ - Calculate the arithmetic mean of the data set by applying the formula:
 
-```
+```txt
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
 xₙ: each individual value in the data set
@@ -31,7 +31,7 @@ xₙ: each individual value in the data set
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = (1/7) * (4.0 + 4.8 + 4.8 + 4.8 + 4.8 + 5.1 + 8.6)
 x̅ = 0.1428 * 36.9
 x̅ = 5.27
@@ -49,7 +49,7 @@ The central trend measure that best represents the data is the __median__, since
 
 The cholesterol level in a sample provided by ten employees at a given company.
 
-```
+```txt
 154  216  171  188  229  203  184  173  181  147
 ```
 
@@ -57,13 +57,13 @@ The cholesterol level in a sample provided by ten employees at a given company.
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 147  154  171  173  181  184  188  203  216  229
 ```
 
 __2º step__ - Calculate the arithmetic mean of the data set by applying the formula:
 
-```
+```txt
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
 xₙ: each individual value in the data set
@@ -71,7 +71,7 @@ xₙ: each individual value in the data set
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = (1/10) * (147 + 154 + 171 + 173 + 181 + 184 + 188 + 203 + 216 + 229)
 x̅ = 0.1 * 1846
 x̅ = 184.6
@@ -89,7 +89,7 @@ The central trend measure that best represents the data is the __average__, sinc
 
 The responses in a sample of 1001 people were asked if their next car purchase would be a domestic or foreign brand:
 
-```
+```txt
 National: 704
 Foreign: 253
 Don't know yet: 44
@@ -109,7 +109,7 @@ The central trend measure that best represents the data is the __mode__, since t
 
 The maximum number of seats in a sample of sport utility vehicles:
 
-```
+```txt
 6  6  9  9  6  5  5  5  7  5  5  5  8
 ```
 
@@ -117,13 +117,13 @@ The maximum number of seats in a sample of sport utility vehicles:
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 5  5  5  5  5  5  6  6  6  7  8  9  9
 ```
 
 __2º step__ - Calculate the arithmetic mean of the data set by applying the formula:
 
-```
+```txt
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
 xₙ: each individual value in the data set
@@ -131,7 +131,7 @@ xₙ: each individual value in the data set
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = (1/13) * (5 + 5 + 5 + 5 + 5 + 5 + 6 + 6 + 6 + 7 + 8 + 9 + 9)
 x̅ = 0.077 * 81
 x̅ = 6.237
@@ -149,7 +149,7 @@ The central trend measure that best represents the data is the __average__, sinc
 
 Cost of education per student (in thousands of dollars) in a sample of ten universities:
 
-```
+```txt
 22  26  19  20  20  18  21  17  19  14
 ```
 
@@ -157,13 +157,13 @@ Cost of education per student (in thousands of dollars) in a sample of ten unive
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 14  17  18  19  19  20  20  21  22  26
 ```
 
 __2º step__ - Calculate the arithmetic mean of the data set by applying the formula:
 
-```
+```txt
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
 xₙ: each individual value in the data set
@@ -171,7 +171,7 @@ xₙ: each individual value in the data set
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = (1/10) * (14 + 17 + 18 + 19 + 19 + 20 + 20 + 21 + 22 + 26)
 x̅ = 0.1 * 196
 x̅ = 19.6
@@ -187,10 +187,9 @@ The central trend measure that best represents the data is the __average__, sinc
 
 ### Question No. 6
 
-
 The points that each NBA team scored per game during a recent season:
 
-```
+```txt
 94.8  100.6  98.9  103.1  87.5  90.6  97.8
 94.2  99.6  100.5  95.4  97.2  100.0  94.8
 95.3  96.1  97.2  95.4  100.2  102.8  99.0
@@ -201,7 +200,7 @@ The points that each NBA team scored per game during a recent season:
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 87.5  89.2  90.5  90.6  94.2  94.8  94.8
 95.3  95.4  95.4  95.5  96.1  96.4  97.2
 97.2  97.8  98.9  99.0  99.4  99.6  100.0
@@ -210,7 +209,7 @@ __1º step__ - Sort the data in ascending order.
 
 __2º step__ - Calculate the arithmetic mean of the data set by applying the formula:
 
-```
+```txt
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
 xₙ: each individual value in the data set
@@ -218,7 +217,7 @@ xₙ: each individual value in the data set
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = (1/28) * (87.5 + 89.2 + 90.5 + 90.6 + 94.2 + 94.8 + 94.8
               + 95.3 + 95.4 + 95.4 + 95.5 + 96.1 + 96.4 + 97.2
               + 97.2 + 97.8 + 98.9 + 99.0 + 99.4 + 99.6 + 100.0
@@ -239,7 +238,7 @@ The central trend measure that best represents the data is the __average__, sinc
 
 The duration (in minutes) of each blackout in a residence in the past ten years:
 
-```
+```txt
 18  26  45  75  125  80  33  40  44  49
 89  80  96  125  12  61  31  63  103  28
 ```
@@ -248,14 +247,14 @@ The duration (in minutes) of each blackout in a residence in the past ten years:
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 12  18  26  28  31  33  40  44  45  49
 61  63  75  80  80  89  96  103  125  125
 ```
 
 __2º step__ - Calculate the arithmetic mean of the data set by applying the formula:
 
-```
+```txt
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
 xₙ: each individual value in the data set
@@ -263,7 +262,7 @@ xₙ: each individual value in the data set
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = (1/20) * (12 + 18 + 26 + 28 + 31 + 33 + 40 + 44 + 45 + 49
               + 61 + 63 + 75 + 80 + 80 + 89 + 96 + 103 + 125 + 125)
 x̅ = 0.05 * 1223
@@ -276,14 +275,13 @@ Average: __61.15__
 Median: __55__ (the sum of the 2 records in the middle divided by 2)  
 Mode: __80__ and __125__ (*Bimodal*)  
 
-
 The central trend measure that best represents the data is the __median__, since there is an outlier in the sample (125).
 
 ### Question No. 8
 
 Answers from a sample of 1040 people who said whether the air quality in their community was better or worse than ten years ago:
 
-```
+```txt
 Better: 346
 Worse: 450
 The same: 244
@@ -303,7 +301,7 @@ The central trend measure that best represents the data is the __mode__, since t
 
 The responses of a sample of 1019 people who said how they felt when they thought about the crime:
 
-```
+```txt
 Carefree: 34
 Alert: 672
 Nervous: 125
@@ -324,7 +322,7 @@ The central trend measure that best represents the data is the __mode__, since t
 
 The number of airplanes that 11 airlines maintain in operation:
 
-```
+```txt
 563  667  443  544  358  178  289  182  105  82  66
 ```
 
@@ -332,13 +330,13 @@ The number of airplanes that 11 airlines maintain in operation:
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 66  82  105  178  182  289  358  443  544  563  667
 ```
 
 __2º step__ - Calculate the arithmetic mean of the data set by applying the formula:
 
-```
+```txt
 x̅ = (1/n) * (x₁ + ... + xₙ)
 n: total of values in the data set
 xₙ: each individual value in the data set
@@ -346,7 +344,7 @@ xₙ: each individual value in the data set
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = (1/11) * (66 + 82 + 105 + 178 + 182 + 289 + 358 + 443 + 544 + 563 + 667)
 x̅ = 0.0909 * 3477
 x̅ = 316.09
@@ -390,7 +388,7 @@ __1º step__ - Calculate the real value of the grades.
 
 __2º step__ - Calculate the grades average.
 
-```
+```txt
 x̅ = (1/(0.15 + 0.1 + 0.1 + 0.1 + 0.15 + 0.15 + 0.25)) * (12.75 + 8 + 9.2 + 7.6 + 15 + 13.5 + 23.25)
 x̅ = (1/1) * 89.3
 x̅ = 89.3
@@ -413,7 +411,7 @@ __C__ on a 3 credit course
 
 __1º step__ - Calculate the grades average.
 
-```
+```txt
 x̅ = (1/(3 * 2 + 2 + 4 + 3)) * (3 * 6 + 1 * 2 + 4 * 4 + 2 * 3)
 x̅ = (1/15) * 42
 x̅ = 0.06666... * 42
@@ -454,7 +452,7 @@ __1ª step__ - Fill the missing information on the given table.
 
 __2º step__ - Calculate the arithmetic mean for tabular data.
 
-```
+```txt
 x̅ =
       ∑(fᵢ*x^ᵢ)
     ————————————
@@ -467,7 +465,7 @@ x^ᵢ: midpoint of xᵢ
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = 724 ÷ 36
 x̅ = 20.111...
 ```
@@ -510,7 +508,7 @@ __1ª step__ - Fill the missing information on the given table.
 
 __2º step__ - Calculate the arithmetic mean for tabular data.
 
-```
+```txt
 x̅ =
       ∑(fᵢ*x^ᵢ)
     ————————————
@@ -523,14 +521,14 @@ x^ᵢ: midpoint of xᵢ
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = 3500 ÷ 100
 x̅ = 35
 ```
 
 __3º step__ - Calculate the median for tabular data.
 
-```
+```txt
 x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
 
 Lim inf: lower limit of the median class
@@ -542,7 +540,7 @@ fᵢ: relative frequency of the median class
 
 knowing this, the median can now be calculate:
 
-```
+```txt
 median class: the class where the value of Lx is (check Fᵢ)
 median class: 30 --- 40
 
@@ -555,7 +553,7 @@ x~ = 35
 
 __4º step__ - Calculate the mode for tabular data.
 
-```
+```txt
 Mo = Lim inf + h * (Δ₁ ÷ (Δ₁ + Δ₂))
 
 Lim inf: lower limit of the modal class
@@ -566,7 +564,7 @@ h: amplitude of the modal class (any lower limit subtracted from the immediately
 
 knowing this, the mode can now be calculate:
 
-```
+```txt
 modal class: the class with higher frequency of samples
 modal class: 30 --- 40
 
@@ -611,7 +609,7 @@ __1ª step__ - Fill the missing information on the given table.
 
 __2º step__ - Calculate the arithmetic mean for tabular data.
 
-```
+```txt
 x̅ =
       ∑(fᵢ*x^ᵢ)
     ————————————
@@ -624,14 +622,14 @@ x^ᵢ: midpoint of xᵢ
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = 232 ÷ 44
 x̅ = 5.27...
 ```
 
 __3º step__ - Calculate the median for tabular data.
 
-```
+```txt
 x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
 
 Lim inf: lower limit of the median class
@@ -643,7 +641,7 @@ fᵢ: relative frequency of the median class
 
 knowing this, the median can now be calculate:
 
-```
+```txt
 median class: the class where the value of Lx is (check Fᵢ)
 median class: 4|--6
 
@@ -656,7 +654,7 @@ x~ = 5.2857
 
 __4º step__ - Calculate the mode for tabular data.
 
-```
+```txt
 Mo = Lim inf + h * (Δ₁ ÷ (Δ₁ + Δ₂))
 
 Lim inf: lower limit of the modal class
@@ -667,7 +665,7 @@ h: amplitude of the modal class (any lower limit subtracted from the immediately
 
 knowing this, the mode can now be calculate:
 
-```
+```txt
 modal class: the class with higher frequency of samples
 modal class: 4|--6
 
@@ -712,7 +710,7 @@ __1ª step__ - Fill the missing information on the given table.
 
 __2º step__ - Calculate the arithmetic mean for tabular data.
 
-```
+```txt
 x̅ =
       ∑(fᵢ*x^ᵢ)
     ————————————
@@ -725,14 +723,14 @@ x^ᵢ: midpoint of xᵢ
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = 12068 ÷ 70
 x̅ = 172.4
 ```
 
 __3º step__ - Calculate the median for tabular data.
 
-```
+```txt
 x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
 
 Lim inf: lower limit of the median class
@@ -768,7 +766,7 @@ h: amplitude of the modal class (any lower limit subtracted from the immediately
 
 knowing this, the mode can now be calculate:
 
-```
+```txt
 modal class: the class with higher frequency of samples
 modal class: 174|--182
 
@@ -819,7 +817,7 @@ __1ª step__ - Fill the missing information on the given table.
 
 __2º step__ - Calculate the arithmetic mean for tabular data.
 
-```
+```txt
 x̅ =
       ∑(fᵢ*x^ᵢ)
     ————————————
@@ -832,14 +830,14 @@ x^ᵢ: midpoint of xᵢ
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = 21861 ÷ 158
 x̅ = 138.3607595
 ```
 
 __3º step__ - Calculate the median for tabular data.
 
-```
+```txt
 x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
 
 Lim inf: lower limit of the median class
@@ -851,7 +849,7 @@ fᵢ: relative frequency of the median class
 
 knowing this, the median can now be calculate:
 
-```
+```txt
 median class: the class where the value of Lx is (check Fᵢ)
 median class: 140---149
 
@@ -864,7 +862,7 @@ x~ = 140.4762
 
 __4º step__ - Calculate the mode for tabular data.
 
-```
+```txt
 Mo = Lim inf + h * (Δ₁ ÷ (Δ₁ + Δ₂))
 
 Lim inf: lower limit of the modal class
@@ -875,7 +873,7 @@ h: amplitude of the modal class (any lower limit subtracted from the immediately
 
 knowing this, the mode can now be calculate:
 
-```
+```txt
 modal class: the class with higher frequency of samples
 modal class: 140---149
 
@@ -930,7 +928,7 @@ __1ª step__ - Fill the missing information on the given table.
 
 __2º step__ - Calculate the arithmetic mean for tabular data.
 
-```
+```txt
 x̅ =
       ∑(fᵢ*x^ᵢ)
     ————————————
@@ -943,14 +941,14 @@ x^ᵢ: midpoint of xᵢ
 
 knowing this, the arithmetic mean can now be calculate:
 
-```
+```txt
 x̅ = 3460 ÷ 50
 x̅ = 69.2
 ```
 
 __3º step__ - Calculate the median for tabular data.
 
-```
+```txt
 x~ = Lim inf + (h * ((Lx - Fant) ÷ fᵢ))
 
 Lim inf: lower limit of the median class
@@ -962,7 +960,7 @@ fᵢ: relative frequency of the median class
 
 knowing this, the median can now be calculate:
 
-```
+```txt
 median class: the class where the value of Lx is (check Fᵢ)
 median class: 66|--68
 
@@ -975,7 +973,7 @@ x~ = 68
 
 __4º step__ - Calculate the mode for tabular data.
 
-```
+```txt
 Mo = Lim inf + h * (Δ₁ ÷ (Δ₁ + Δ₂))
 
 Lim inf: lower limit of the modal class
@@ -986,7 +984,7 @@ h: amplitude of the modal class (any lower limit subtracted from the immediately
 
 knowing this, the mode can now be calculate:
 
-```
+```txt
 modal class: the class with higher frequency of samples
 modal class: 64|--66
 
@@ -1011,7 +1009,7 @@ Find the geometric mean of the numbers 4, 6 and 9:
 
 __1º step__ - Calculate the geometric mean of the numbers.
 
-```
+```txt
 x̅ Geom = ⁿ√x₁*x₂*...*xₙ
 n: total of values in the sample
 xₙ: each individual record in the sample
@@ -1019,7 +1017,7 @@ xₙ: each individual record in the sample
 
 knowing this, the geometric mean can now be calculate:
 
-```
+```txt
 x̅ Geom = ³√4 * 6 * 9
 x̅ Geom = ³√216
 x̅ Geom = 6
@@ -1037,7 +1035,7 @@ One category of workers has a wage increase of 20% after one month, 12% after tw
 
 __1º step__ - Calculate the geometric mean of the percentage factors.
 
-```
+```txt
 x̅ Geom = ⁿ√x₁*x₂*...*xₙ
 n: total of values in the sample
 xₙ: each individual record in the sample
@@ -1045,7 +1043,7 @@ xₙ: each individual record in the sample
 
 knowing this, the geometric mean can now be calculate:
 
-```
+```txt
 x̅ Geom = ³√1.20 * 1.12 * 1.07
 x̅ Geom = ³√1.43808
 x̅ Geom = 1.128741126
@@ -1067,7 +1065,7 @@ __1º step__ - Calculate the harmonic mean of the numbers.
 
 knowing this, the harmonic mean can now be calculate:
 
-```
+```txt
 x̅ Harm =
                     4
   ——————————————————————————————————————
@@ -1080,21 +1078,21 @@ x̅ Harm =
   ——————————————————————————————
         3       1       1  
       ————— + ————— + —————
-        2       3       4   
+        2       3       4
 
 x̅ Harm =
              4
      ——————————————————
-         11       1    
+         11       1
        —————— + —————
-          6       4   
+          6       4
 
 x̅ Harm =
            4
         ————————
-           25    
+           25
          ——————
-           12   
+           12
 
 x̅ Harm = 1.92
 ```
@@ -1115,18 +1113,18 @@ __1º step__ - Calculate the harmonic mean.
 
 knowing this, the harmonic mean can now be calculate:
 
-```
+```txt
 x̅ Harm =
                2
       ——————————————————
-          1        1    
+          1        1
         —————— + ——————
-          50       60   
+          50       60
 
 x̅ Harm =
            2
        —————————
-          11    
+          11
          —————
           300
 
@@ -1149,20 +1147,20 @@ __1º step__ - Calculate the harmonic mean.
 
 knowing this, the harmonic mean can now be calculate:
 
-```
+```txt
 Because there are 2 routes:
 
 x̅ Harm =
                2
       ——————————————————
-          1        1    
+          1        1
         —————— + ——————
-          18       72   
+          18       72
 
 x̅ Harm =
            2
         ————————
-           90    
+           90
          ——————
           1296
 
@@ -1185,20 +1183,20 @@ __1º step__ - Calculate the harmonic mean.
 
 knowing this, the harmonic mean can now be calculate:
 
-```
+```txt
 Because it is only one pool:
 
 x̅ Harm =
                1
       ——————————————————
-          1        1    
+          1        1
         —————— + ——————
-          20       30   
+          20       30
 
 x̅ Harm =
            1
         ————————
-           5    
+           5
          ——————
            60
 
