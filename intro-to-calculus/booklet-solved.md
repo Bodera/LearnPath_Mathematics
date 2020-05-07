@@ -28,26 +28,30 @@ This huge file will cover solutions for the exercises suggested on [differential
 Use inequalities to describe the given range:
 
 a)
-```
+
+```txt
 -----[-----------)-----
     -2           3
 ```
 
 b)
-```
+
+```txt
 -----(----------------------->
     -4                       +∞
 ```
 
-###### Solution for question No. 1
+##### Solution for question No. 1
 
-`a)`
-```
+a)
+
+```txt
   -2 ≤ x < 3
 ```
 
-`b)`
-```
+b)
+
+```txt
   x > -4
 ```
 
@@ -60,28 +64,32 @@ b) -1 < x < 5
 c) x ≥ 1  
 d) 2 ≥ x < 7  
 
-###### Solution for question No. 2
+##### Solution for question No. 2
 
-`a)`
-```
+a)
+
+```txt
 ----[--------------)-------
    -3              2
 ```
 
-`b)`
-```
+b)
+
+```txt
 ----(--------------------)----
    -1                    5
 ```
 
-`c)`
-```
+c)
+
+```txt
 -----------[--------------->
            1               +∞
 ```
 
-`d)`
-```
+d)
+
+```txt
 --------[----------------)----
         2                7
 ```
@@ -93,16 +101,18 @@ Determine the distance between two real numbers:
 a) 0 and 3  
 b) -5 and -2  
 
-###### Solution for question No. 3
+##### Solution for question No. 3
 
-`a)`
-```
+a)
+
+```txt
   3 - 0
   = 3 total distance.
 ```
 
-`b)`
-```
+b)
+
+```txt
   (-2) - (-5)
   = 3 total distance
 ```
@@ -114,10 +124,11 @@ Determine the interval (s) constituted by the real numbers `x` that satisfy the 
 a) |x - 3| ≤ 1  
 b) |2x + 1| > 3  
 
-###### Solution for question No. 4
+##### Solution for question No. 4
 
-`a)` Developing solution:
-```
+a) Developing solution:
+
+```txt
 = |x - 3| ≤ 1
 = (x - 3) + 3 ≤ 1 + 3
 = x - 3 + 3 ≤ 4
@@ -129,14 +140,16 @@ or
 ```
 
 Presenting solution:
-```
+
+```txt
 S = {x ∈ ℝ | 2 ≤ x ≤ 4}
 or
 x ∈ [2, 4]
 ```
 
-`b)` Developing solution:
-```
+b) Developing solution:
+
+```txt
 = |2x + 1| > 3
 = (2x + 1) + (-1) > 3 + (-1)
 = 2x + 1 - 1 > 3 - 1
@@ -150,7 +163,8 @@ or
 ```
 
 Presenting solution:
-```
+
+```txt
 S = {x ∈ ℝ | x < -2 or x > 1}
 or
 x ∈ (-∞, -2) ⋃ (1, ∞)
@@ -171,18 +185,20 @@ h) (2 ^ ³⁄₂ * (4 ^ ⁵⁄₂)) ÷ 8 ^ ²⁄₃
 i) (54 ^ (1/3) * 2 ^ (1/6)) ÷ √8  
 j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃  
 
-###### Solution for question No. 5
+##### Solution for question No. 5
 
-`a)` Developing solution:
-```
+a) Developing solution:
+
+```txt
 3⁵ = 3 * 3 * 3 * 3 * 3
 [...] = 3³ * 3²
 [...] = 27 * 9
 3⁵ = 243  
 ```
 
-`b)` Developing solution:
-```
+b) Developing solution:
+
+```txt
 4⁻² = (2²) ^ -2
 [...] = 2 ^ (-2 * 2)
 [...] = 2 ^ -4
@@ -191,8 +207,9 @@ j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃
 4⁻² = 0.0625
 ```
 
-`c)` Developing solution:
-```
+c) Developing solution:
+
+```txt
 8 ^ ²⁄₃ = (2³) ^ (2/3)
 [...] = 2 ^ (3 * 2/3)
 [...] = 2 ^ ((3 * 2) / 3)
@@ -201,8 +218,9 @@ j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃
 8 ^ ²⁄₃ = 4
 ```
 
-`d)` Developing solution:
-```
+d) Developing solution:
+
+```txt
 49 ^ ⁻³⁄₂ = (7²) ^ (-3/2)
 [...] = 7 ^ (2 * -3/2)
 [...] = 7 ^ ((2 * -3) / 2)
@@ -213,8 +231,9 @@ j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃
 49 ^ ⁻³⁄₂ ≈ 0.0029
 ```
 
-`e)` Developing solution:
-```
+e) Developing solution:
+
+```txt
 (4 * (32) ^ ³⁄₄) ÷ (√2)³ = (4 * (2⁵) ^ (3/4)) ÷ (√2) ^ 3
 [...] = (4 * 2 ^ (5 * 3/4)) ÷ (√2) ^ 3
 [...] = (4 * 2 ^ ((5 * 3) / 4)) ÷ (√2) ^ 3
@@ -235,8 +254,9 @@ j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃
 (4 * (32) ^ ³⁄₄) ÷ (√2)³ ≈ 19.0273
 ```
 
-`f)` Developing solution:
-```
+f) Developing solution:
+
+```txt
 (1 ÷ 9) ^ ⁻⁵⁄₂ = 1 ÷ ((1/9) ^ (5/2))
 [...] = 1 ÷ (1 ^ (5/2) / 9 ^ (5/2))
 [...] = 1 ÷ (1 / 9 ^ (5/2))
@@ -250,8 +270,9 @@ j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃
 (1 ÷ 9) ^ ⁻⁵⁄₂ = 243
 ```
 
-`g)` Developing solution:
-```
+g) Developing solution:
+
+```txt
 16 ^ ³⁄₂ + 27 ^ ²⁄₃ = (2⁴) ^ (3/2) + (3³) ^ (2/3)
 [...] = 2 ^ (4 * (3/2)) + 3 ^ (3 * (2/3))
 [...] = 2 ^ ((4 * 3) / 2) + 3 ^ ((3 * 2) / 3)
@@ -261,8 +282,9 @@ j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃
 16 ^ ³⁄₂ + 27 ^ ²⁄₃ = 73
 ```
 
-`h)` Developing solution:
-```
+h) Developing solution:
+
+```txt
 (2 ^ ³⁄₂ * (4 ^ ⁵⁄₂)) ÷ 8 ^ ²⁄₃ = (2 ^ (3/2) * ((2²) ^ (5/2))) ÷ 8 ^ (2/3)
 [...] = (2 ^ (3/2) * (2 ^ (2 * (5/2)))) ÷ 8 ^ (2/3)
 [...] = (2 ^ (3/2) * (2 ^ ((2 * 5) / 2))) ÷ 8 ^ (2/3)
@@ -283,8 +305,9 @@ j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃
 (2 ^ ³⁄₂ * (4 ^ ⁵⁄₂)) ÷ 8 ^ ²⁄₃ ≈ 22.6274
 ```
 
-`i)` Developing solution:
-```
+i) Developing solution:
+
+```txt
 (³√54 * ⁶√2) ÷ √8 = (³√54 * ⁶√2) ÷ √2³
 [...] = (³√54 * ⁶√2) ÷ √2²*2¹
 [...] = (³√54 * ⁶√2) ÷ √2² * √2¹
@@ -301,8 +324,9 @@ j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃
 (³√54 * ⁶√2) ÷ √8 = 1.5
 ```
 
-`j)` Developing solution:
-```
+j) Developing solution:
+
+```txt
 (³√81 * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃ = (³√81 * (6 ^ (2/3))) ÷ 2 ^ (4/3)
 [...] = (³√81 * (2 ^ (2/3) * 3 ^ (2/3))) ÷ 2 ^ (4/3)
 [...] = (81 ^ (1/3) * 2 ^ (2/3) * 3 ^ (2/3)) ÷ 2 ^ (4/3)
@@ -328,10 +352,11 @@ b) a³ ÷ (√a)⁵ = a²ⁿ
 c) a² * a⁻⁵ = (aⁿ)³  
 d) a²ⁿ * a³ = a⁻⁷  
 
-###### Solution for question No. 6
+##### Solution for question No. 6
 
-`a)` Developing solution:
-```
+a) Developing solution:
+
+```txt
 a²/³ * a¹/² = a³ⁿ
 a ^ (²⁄₃ + ¹⁄₂) = a ^ (3 * n)
 a ^ (⁷⁄₆) = a ^ (3 * n)
@@ -344,12 +369,14 @@ a²/³ * a¹/² = a^²¹⁄₁₈
 ```
 
 Presenting solution:
-```
+
+```txt
 n = ⁷⁄₆
 ```
 
-`b)` Developing solution:
-```
+b) Developing solution:
+
+```txt
 a³ ÷ (√a)⁵ = a²ⁿ
 a³ ÷ (a¹/²)⁵= a ^ (2 * n)
 a³ ÷ a^((¹⁄₂) * 5) = a ^ (2 * n)
@@ -365,12 +392,14 @@ a³ ÷ (√a)⁵ = a^²⁄₄
 ```
 
 Presenting solution:
-```
+
+```txt
 n = ¹⁄₄
 ```
 
-`c)` Developing solution:
-```
+c) Developing solution:
+
+```txt
 a² * a⁻⁵ = (aⁿ)³
 a^(2 + (-5)) = a^(3 * n)
 a^(-3) = a^(3 * n)
@@ -382,12 +411,14 @@ a² * a⁻⁵ = a⁻³
 ```
 
 Presenting solution:
-```
+
+```txt
 n = -1
 ```
 
-`d)` Developing solution:
-```
+d) Developing solution:
+
+```txt
 a²ⁿ * a³ = a⁻⁷
 a²ⁿ = a⁻⁷ ÷ a³
 a²ⁿ = a⁽⁻⁷⁾ ⁻ ³
@@ -400,7 +431,8 @@ a⁻¹⁰ * a³ = a⁻⁷
 ```
 
 Presenting solution:
-```
+
+```txt
 n = -5
 ```
 
@@ -420,24 +452,27 @@ d) |x - 2| ≤ 5
 e) |1 - x| < 3  
 f) |x - 1| > 3  
 
-###### Solution for question No. 1
+##### Solution for question No. 1 (B)
 
-`a)` Developing solution:
-```
+a) Developing solution:
+
+```txt
 = z ≤ 3
 or
 = z ≥ -3
 ```
 
 Presenting solution:
-```
+
+```txt
 S = {x ∈ ℝ | -3 ≤ z ≤ 3}
 or
 x ∈ [-3, 3]
 ```
 
-`b)` Developing solution:
-```
+b) Developing solution:
+
+```txt
 = |x + 4| ≤ 2
 = (x + 4) + (-4) ≤ 2 + (-4)
 = x + 4 + (-4) ≤ -2
@@ -449,14 +484,16 @@ or
 ```
 
 Presenting solution:
-```
+
+```txt
 S = {x ∈ ℝ | -6 ≤ x ≤ -2}
 or
 x ∈ [-6, -2]
 ```
 
-`c)` Developing solution:
-```
+c) Developing solution:
+
+```txt
 = |x + 2| ≥ 5
 = (x + 2) + (-2) ≥ 5 + (-2)
 = x + 2 + (-2) ≥ 3
@@ -468,14 +505,16 @@ or
 ```
 
 Presenting solution:
-```
+
+```txt
 S = {x ∈ ℝ | x ≤ -7 or x ≥ 3}
 or
 x ∈ (-∞, -7] ⋃ [3, +∞)
 ```
 
-`d)` Developing solution:
-```
+d) Developing solution:
+
+```txt
 = |x - 2| ≤ 5
 = (x - 2) + 2 ≤ 5 + 2
 = x - 2 + 2 ≤ 7
@@ -487,14 +526,16 @@ or
 ```
 
 Presenting solution:
-```
+
+```txt
 S = {x ∈ ℝ | -3 ≤ x ≤ 7}
 or
 x ∈ [-3, 7]
 ```
 
-`e)` Developing solution:
-```
+e) Developing solution:
+
+```txt
 = |1 - x| < 3
 = (1 - x) + (-1) < 3 + (-1)
 = 1 - x + (-1) < 2
@@ -508,14 +549,16 @@ or
 ```
 
 Presenting solution:
-```
+
+```txt
 S = {x ∈ ℝ | -2 < x < 4}
 or
 x ∈ (-2, 4)
 ```
 
-`f)` Developing solution:
-```
+f) Developing solution:
+
+```txt
 = |x - 1| > 3
 = (x - 1) + 1 > 3 + 1
 = x - 1 + 1 > 4
@@ -527,7 +570,8 @@ or
 ```
 
 Presenting solution:
-```
+
+```txt
 S = {x ∈ ℝ | x < -2 or x > 4}
 or
 x ∈ (-∞, -2) ⋃ (4, +∞)
@@ -542,10 +586,11 @@ b) x¹⁶ - (2x)⁴
 c) x³ + 3(x - 12)  
 d) 2(x - 3)² * (x + 1) - 5(x - 3)³ * (2x)
 
-###### Solution for question No. 2
+##### Solution for question No. 2 (B)
 
-`a)` Developing solution:
-```
+a) Developing solution:
+
+```txt
 = x⁴ - 9x²
 = x² * (x² - 9)
 = x² * (x² - 3²)
@@ -553,36 +598,41 @@ d) 2(x - 3)² * (x + 1) - 5(x - 3)³ * (2x)
 ```
 
 Presenting solution:
-```
+
+```txt
 x²(x + 3)(x - 3)
 ```
 
-`b)` Developing solution:
-```
+b) Developing solution:
+
+```txt
 = x¹⁶ - (2x)⁴
 = x¹⁶ - 2⁴x⁴
 = x¹⁶ - 16x⁴
 ```
 
 Presenting solution:
-```
+
+```txt
 x¹⁶ - 16x⁴
 ```
 
-`c)` Developing solution:
-```
+c) Developing solution:
+
+```txt
 = x³ + 3(x - 12)
 = x³ + 3x - 36
 ```
 
 Presenting solution:
-```
+
+```txt
 x³ + 3x - 36
 ```
 
+d) Developing solution:
 
-`d)` Developing solution:
-```
+```txt
 = 2(x - 3)² * (x + 1) - 5(x - 3)³ * (2x)
 = 2(x - 3)² * (x + 1) - 5(x - 3)³ * 2x
 = 2(x - 3)² * (x + 1) - 5*2(x - 3)³ * x
@@ -602,7 +652,8 @@ x³ + 3x - 36
 ```
 
 Presenting solution:
-```
+
+```txt
 10x⁴ + 92x³ - 280x² - 276x + 18
 ```
 
@@ -613,30 +664,35 @@ Simplify the given quotient as much as possible.
 a) (x²(x - 1)³ - 2x(x - 1)²) ÷ (x² - x - 2)  
 b) (x(x + 2)⁴ - x³(x + 2)²) ÷ (x² - 3x + 2)  
 
-###### Solution for question No. 3
+##### Solution for question No. 3 (B)
 
-`a)` Developing solution:
-```
+a) Developing solution:
+
+```txt
 = (x²(x - 1)³ - 2x(x - 1)²) ÷ (x² - x - 2)
 = (x(x - 1)²(x(x - 1) - 2)) ÷ ((x + 1)(x - 2))
 = (x(x - 1)²(x² - x - 2)) ÷ ((x + 1)(x - 2))
 = (x(x - 1)²(x + 1)(x - 2)) ÷ ((x + 1)(x - 2))
 = x(x - 1)²
-
 ```
 
 Presenting solution:
-```
+
+```txt
 x(x - 1)²
 ```
 
-`b)` Developing solution:
-```
-= (x(x + 2)⁴ - x³(x + 2)²) ÷ (x² - 3x + 2)
+b) Developing solution:
 
+```txt
+= (x(x + 2)⁴ - x³(x + 2)²) ÷ (x² - 3x + 2)
+= (x(x + 2)⁴ - x³(x² + 2x * 2 + 2²)) ÷ (x² - 3x + 2) //perfect square
+= (x(x + 2)⁴ - x³(x² + 4x + 4)) ÷ (x² - 3x + 2)
+
+//binomial theorem for (x + 2)⁴
 ```
 
 Presenting solution:
-```
 
+```txt
 ```

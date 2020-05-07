@@ -41,16 +41,32 @@ The __bold text__ will be used to denote a problem which solution will be achiev
 33. [Question No. 33](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-33)
 34. [Question No. 34](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-34)
 35. [Question No. 35](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-35)
-
-
+36. [Question No. 36](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-36)
+37. [Question No. 37](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-37)
+38. [Question No. 38](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-38)
+39. [Question No. 39](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-39)
+40. [Question No. 40](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-40)
+41. [Question No. 41](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-41)
+42. [Question No. 42](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-42)
+43. [Question No. 43](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-43)
+44. [Question No. 44](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-44)
+45. [Question No. 45](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-45)
+46. [Question No. 46](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-46)
+47. [Question No. 47](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-47)
+48. [Question No. 48](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-48)
+49. [Question No. 49](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-49)
+50. [Question No. 50](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-50)
+51. [Question No. 51](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-51)
 
 ### Question No. 1
 
 Being the sets:
-```
+
+```txt
   A = {0, 3, 7}
   B = {0, 3, 5}
 ```  
+
 Using the symbols ∈ and ∉, list:
 
 a) (∈) 3 and A - 3 belongs to A  
@@ -65,12 +81,14 @@ h) (∉) 2 and B - 2 does not belong to B
 ### Question No. 2
 
 Consider the sets
-```
+
+```txt
   A = {1, 2}
   B = {1, 2, 3}
   C = {1, 2, 3, 7, 8}
   D = {3, 7}
 ```  
+
 Using the symbols ⊂ and ⊄, relate the sets to each other:
 
 a) (⊂) A and B - A is contained in B  
@@ -101,9 +119,11 @@ j) (F) C ⊂ B - C is contained in B
 ### Question No. 4
 
 Given the set:
-```
+
+```txt
   A = {0, 1, 2, {3}}
 ```  
+
 Say whether the following propositions are true (T) or false (F):
 
 a) (T) 0 ∈ A - 0 belongs to A  
@@ -120,214 +140,256 @@ j) (F) 0 ⊂ A - 0 is contained in A
 ### Question No. 5
 
 Given the sets:
-```
+
+```txt
   A = {0, 1, 2, 3}
   B = {0, 2, 3, 5}
   C = {0, 2, 4, 6, 8}
   D = {5, 7, 9}
-```  
+```
+
 determine:
 
 a) A ∪ B  
-```
+
+```txt
   A ∪ B = {0, 1, 2, 3, 5}
 ```  
 
 b) A ∪ C  
-```
+
+```txt
   A ∪ C = {0, 1, 2, 3, 4, 6, 8}
 ```  
 
 c) A ∪ D  
-```
+
+```txt
   A ∪ D = {0, 1, 2, 3, 5, 7, 9}
 ```  
 
 d) B ∪ C  
-```
+
+```txt
   B ∪ C = {0, 2, 3, 4, 5, 6, 8}
 ```  
 
 e) B ∪ D  
-```
+
+```txt
   B ∪ D = {0, 2, 3, 5, 7, 9}
 ```  
 
 f) C ∪ D  
-```
+
+```txt
   C ∪ D = {0, 2, 4, 5, 6, 7, 8, 9}
 ```  
 
 g) (A ∪ B) ∪ C  
-```
+
+```txt
   (A ∪ B) ∪ C = {0, 1, 2, 3, 4, 5, 6, 8}
 ```  
 
 h) (B ∪ C) ∪ D  
-```
+
+```txt
   (B ∪ C) ∪ D = {0, 2, 3, 4, 5, 6, 7, 8, 9}
 ```  
 
 i) (A ∪ C) ∪ D  
-```
+
+```txt
   (A ∪ C) ∪ D = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
 ```  
 
 j) (B ∪ D) ∪ A  
-```
+
+```txt
   (B ∪ D) ∪ A = {0, 1, 2, 3, 5, 7, 9}
 ```  
 
 ### Question No. 6
 
 With the same set:
-```
+
+```txt
   A = {0, 1, 2, 3}
   B = {0, 2, 3, 5}
   C = {0, 2, 4, 6, 8}
   D = {5, 7, 9}
-```  
+```
+
 determine:
 
 a) A ∩ B  
-```
+
+```txt
   A ∩ B = {0, 2, 3}
 ```  
 
 b) A ∩ C  
-```
+
+```txt
   A ∩ C = {0, 2}
 ```  
 
 c) A ∩ D  
-```
+
+```txt
   A ∩ D = {∅}
 ```  
 
 d) B ∩ C  
-```
+
+```txt
   B ∩ C = {0, 2}
 ```  
 
 e) B ∩ D  
-```
+
+```txt
   B ∩ D = {5}
 ```  
 
 f) C ∩ D  
-```
+
+```txt
   C ∩ D = {∅}
 ```  
 
 g) (A ∩ B) ∩ C  
-```
+
+```txt
   (A ∩ B) ∩ C = {0, 2}
 ```  
 
 h) (B ∩ C) ∩ D  
-```
+
+```txt
   (B ∩ C) ∩ D = {∅}
 ```  
 
 i) (A ∩ C) ∩ D  
-```
+
+```txt
   (A ∩ C) ∩ D = {∅}
 ```  
 
 j) (B ∩ D) ∩ A  
-```
+
+```txt
   (B ∩ D) ∩ A = {∅}
 ```  
 
 ### Question No. 7
 
 With the same set:
-```
+
+```txt
   A = {0, 1, 2, 3}
   B = {0, 2, 3, 5}
   C = {0, 2, 4, 6, 8}
   D = {5, 7, 9}
-```  
+```
+
 determine:
 
 a) A − B  
-```
+
+```txt
   A - B = {1}
 ```  
 
 b) A − C  
-```
+
+```txt
   A - C = {1, 3}
 ```  
 
 c) A − D  
-```
+
+```txt
   A - D = {0, 1, 2, 3}
 ```  
 
 d) B − C  
-```
+
+```txt
   B - C = {3, 5}
 ```  
 
 e) B − D  
-```
+
+```txt
   B - D = {0, 2, 3}
 ```  
 
 f) C − D  
-```
+
+```txt
   C − D = {0, 2, 4, 6, 8}
 ```  
 
 g) (A − B) − C  
-```
+
+```txt
   (A − B) − C = {1}
 ```  
 
 h) (B − C) − D  
-```
+
+```txt
   (B − C) − D = {3}
 ```  
 
 i) (A − C) − D  
-```
+
+```txt
   (A − C) − D = {1, 3}
 ```  
 
 j) (B − D) − A  
-```
+
+```txt
   (B − D) − A = {∅}
 ```  
 
 ### Question No. 8
 
 Consider the sets:
-```
+
+```txt
   A = {0, 1, 2, 3, 4, 5, 6, 7}
   B = {0, 2, 5}
   C = {1, 3, 5, 7}
   D = {2, 4, 6}
-```  
+```
+
 determine:
 
 a) Complementary of B in A  
-```
+
+```txt
   B - A = {1, 3, 4, 6, 7}
 ```
 
 b) Complementary of C in A  
-```
+
+```txt
   C - A = {0, 2, 4, 6}
 ```
 
 c) Complementary of D in A  
-```
+
+```txt
   D - A = {0, 1, 3, 5, 7}
 ```
 
 d) Complementary of (B ∩ C ∩ D) in A  
-```
+
+```txt
   (B ∩ C ∩ D) - A = {0, 1, 2, 3, 4, 5, 6, 7}
 ```
 
@@ -338,22 +400,10 @@ The following questions are asked:
 
 ![Question No. 9 diagram](./images/QuestionNo09.png)
 
-a) How many people read only newspaper A?  
-```
-190
-```
-b) How many people read only newspaper B?  
-```
-120
-```
-c) How many people read newspapers?  
-```
-370
-```
-d) How many people do not read newspapers?  
-```
-100
-```
+a) How many people read only newspaper A?  __190__  
+b) How many people read only newspaper B?  __120__  
+c) How many people read newspapers?  __370__  
+d) How many people do not read newspapers?  __100__  
 
 ### Question No. 10
 
@@ -374,28 +424,26 @@ The following questions are asked:
 
 ![Question No. 10 diagram](./images/QuestionNo10.png)
 
-a) How many people consume only product A?  
-```
-50
-```
+a) How many people consume only product A?  __50__  
 b) How many people consume product A or product B or product C?  
-```
+
+```txt
 (A + B + C) + (A ∩ B) + (B ∩ C) + (A ∩ C) + (A ∩ B ∩ C)
 = 300 + (10 + 20 + 30 + 60)
 = 300 + 120
 = 420
 ```
+
 c) How many people consume product A or product B?  
-```
+
+```txt
 (A + B) + (A ∩ B) + (B ∩ C) + (A ∩ C) + (A ∩ B ∩ C)
 = 160 + (10 + 20 + 30 + 60)
 = 160 + 120
 = 280
 ```
-d) How many people were consulted?  
-```
-600
-```
+
+d) How many people were consulted?  __600__  
 
 ### Question No. 11
 
@@ -404,7 +452,8 @@ A test was made up of two problems. 300 students hit only one, 260 hit the secon
 ![Question No. 11 diagram](./images/QuestionNo11.png)
 
 __Answer:__  
-```
+
+```txt
 450 students took the test.
 ```
 
@@ -417,7 +466,8 @@ According to the theory, a set with m elements has exactly 2ᵐ subsets. Using t
 3. The number of subsets of A ∪ B is 32.  
 
 __Answer:__  
-```
+
+```txt
 1 => P(B) = 2³ => 8
 2 => A ∩ B = {∅}
 3 => A ∪ B = P(32) => A ∪ 3 = 2⁵ => 2 ∪ 3 = 5
@@ -433,43 +483,54 @@ It is questioned:
 ![Question No. 13 diagram](./images/QuestionNo13.png)
 
 a) How many people read only one of the three works?  
-```
+
+```txt
 (H ∪ M ∪ S)
 = 270 + 120 + 70
 = 460
 ```
+
 b) How many people have not read any of the three works?  
-```
+
+```txt
 Complementary of (H ∪ M ∪ S)
 = 130
 ```
+
 c) How many people read two or more works?  
-```
+
+```txt
 (H ∩ S) + (M ∩ S) + (H ∩ M) + (H ∩ S ∩ M)
 = 80 + 130 + 180 + 20
 = 410
 ```
 
 ### Question No. 14
+
 In a group of 99 athletes, 40 play volleyball, 20 play volleyball and basketball, 22 play basketball and football, 18 play volleyball and football, 11 play all three. The number of people who play basketball is equal to the number of people who play football.
 It is questioned:
 
 ![Question No. 14 diagram](./images/QuestionNo14.png)
 
 a) How many play football and do not play volleyball?  
-```
+
+```txt
 F + (B ∩ F)
 = 25 + 11
 = 36
 ```
+
 b) How many play basketball and do not play volleyball?  
-```
+
+```txt
 B + (F ∩ B)
 = 23 + 11
 = 34
 ```
+
 c) How many play volleyball and do not play basketball?  
-```
+
+```txt
 V + (F ∩ V)
 = 13 + 7
 = 20
@@ -488,22 +549,10 @@ __Answer__:
 ### Question No. 16
 
 __Answers__:
-a) What is called the set that has only one element?  
-```
-Unitary.
-```
-b) If A ∩ B = ∅, what are the sets A and B called?  
-```
-Disjoint sets.
-```
-c) If a set A has 3 elements and a set B has 5 elements, how many elements does set A ∩ B will have at most?
-```
-3 elements.
-```
-d) If A and B are disjoint, how many elements will the set A ∩ B have?  
-```
-0, none. The intersection of disjoint sets is ∅.
-```
+a) What is called the set that has only one element?  __Unitary__  
+b) If A ∩ B = ∅, what are the sets A and B called?  __Disjoint sets__  
+c) If a set A has 3 elements and a set B has 5 elements, how many elements does set A ∩ B will have at most?  __3 elements__  
+d) If A and B are disjoint, how many elements will the set A ∩ B have?  __0, none. The intersection of disjoint sets is ∅.__  
 
 ### Question No. 17
 
@@ -604,7 +653,8 @@ d) {2, 3} ⊂ P(F) - {2, 3} is contained in a part of F
 e) {{9}} ∈ P(F) - {{9}} belongs to a part of F  
 
 `Hint`
-```
+
+```txt
 F has a total of 5 elements
 F = {2, 3, 4, 5, {9}}
 The total subsets that we can form from F is = 2⁵
@@ -639,7 +689,8 @@ c) 11
 d) 12  
 
 `Hint`
-```
+
+```txt
 A ⋂ B = {16, 17, 18, 19, 20, 21, 22, 23, 24}
 
 A total of 9 elements.
@@ -664,7 +715,8 @@ c) 6
 d) 8  
 
 `Hint`
-```
+
+```txt
 A ⋂ B has a total of 3 elements.
 A ⋂ B = {18, 19, 20}
 The total subsets that we can form from A ⋂ B is = 2³
@@ -690,7 +742,8 @@ c) 6
 d) 128  
 
 `Hint`
-```
+
+```txt
 A has a total of 8 elements.
 A = {a, b, c, d, e, f, g, h}
 The total subsets that we can form from A = 2⁸
@@ -723,7 +776,8 @@ c) 32
 d) 64  
 
 `Hint`
-```
+
+```txt
 E has a total of 4 elements.
 The total subsets that we can form from A = 2⁴
 2 ^ 4 = 16
@@ -751,7 +805,8 @@ c) {∅, {∅}}
 d) {{∅}}  
 
 `Hint`
-```
+
+```txt
 ∅ = {∅}
 ∅ has a total of 0 elements.
 The total subsets that we can form from ∅ = 2⁰
@@ -774,7 +829,8 @@ c) {∅, {∅}}
 d) {{∅}}  
 
 `Hint`
-```
+
+```txt
 {∅} = {∅, {∅}}
 {∅} has a total of 1 elements.
 The total subsets that we can form from {∅} = 2¹
@@ -804,7 +860,8 @@ c) A
 d) {b, d, e}  
 
 `Hint`
-```
+
+```txt
 A - C = {b}
 C - B = {a, e}
 A ∩ B ∩ C = {c}
@@ -833,7 +890,8 @@ c) {2, 4, 8}
 d) {1, 3, 5, 11}  
 
 `Hint`
-```
+
+```txt
 A ∪ B = {1, 2, 3, 4, 5, 7, 9, 11}
 (A ∪ B) ∩ C = {2, 4, 7, 9}
 (A ∪ B) ∩ C - A = {2, 4}
@@ -859,7 +917,8 @@ d) {a}
 e) A ∩ C  
 
 `Hint`
-```
+
+```txt
 A - B = {a}
 B - A = {d, e, f}
 (A - B) ∪ (B - A) = {a, d, e, f}
@@ -886,9 +945,9 @@ c) only II and III
 d) only IV  
 e) all the statements are true  
 
-
 `Hint`
-```
+
+```txt
 U = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}; ∅ is not an element of U.
 {∅} is contained in U. U also has 10 elements.
 5 belongs to U and also {5} is contained in U.
@@ -898,3 +957,155 @@ U = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}; ∅ is not an element of U.
 __Answer__:
 
 Letter __C__ is correct.
+
+### Question No. 34
+
+![Question No. 34 diagram](./images/QuestionNo34.png)
+
+In the diagram above, does the shaded part represent:
+
+a) (E ∩ F) ∩ G  
+b) E ∩ G  
+c) Cᵣ (E ∪ F)  
+d) (E ∩ G) - F  
+e) E - G  
+
+__Answer__:
+
+Letter __D__ is correct.
+
+### Question No. 35
+
+![Question No. 35 diagram](./images/QuestionNo35.png)
+
+In the figure, R is a rectangle, T is a triangle and C is a circle. The hatched region is:
+
+a) C - (R ∩ T)  
+b) (T ∪ C) - R  
+c) (R ∩ C) - T  
+d) (T ∩ C) - R  
+
+__Answer__:
+
+Letter __C__ is correct.
+
+### Question No. 36
+
+![Question No. 36 diagram](./images/QuestionNo36.png)
+
+The hatched part of the graph above is:
+
+a) A ∩ (B ∪ C)  
+b) (A ∩ B) ∪ C  
+c) (A ∪ B) ∩ C  
+d) A ∪ (B ∩ C)  
+
+__Answer__:
+
+Letter __A__ is correct.
+
+### Question No. 37
+
+Given A, B and C, non-empty sets where A ⊂ B, it is always true that:
+
+a) A ∩ B = ∅  
+b) B ∩ C = A  
+c) B ∩ C = ∅  
+d) (A ∪ B) ⊂ C  
+e) (A ∩ C) ⊂ B
+
+`Hint`
+
+```txt
+A ∩ B = A
+B ∩ C = Undefined. Not enough info about C
+B ∩ C = Undefined. Not enough info about C
+(A ∪ B) ⊂ C = Undefined. Not enough info about C
+(A ∩ C) ⊂ B = True.
+```
+
+__Answer__:
+
+Letter __E__ is correct.
+
+### Question No. 38
+
+If A, B and A ∩ B are sets with 90, 50 and 30 elements, respectively, then the number of elements in the set A ∪ B is:
+
+a) 10  
+b) 70  
+c) 85  
+d) 110  
+e) 170  
+
+`Hint`
+
+```txt
+A ∪ B = (A + B) - (A ∩ B)
+A ∪ B = 140 - 30
+A ∪ B = 110
+```
+
+__Answer__:
+
+Letter __D__ is correct.
+
+### Question No. 39
+
+Knowing that set A has 20 elements, that set A ∩ B has 12 elements and that set A ∪ B has 60 elements, then the number of elements in set B is:
+
+a) 28  
+b) 36  
+c) 40  
+d) 48  
+e) 52  
+
+`Hint`
+
+```txt
+B = (A ∪ B) - A
+B = 60 - 20
+B = 40
+```
+
+__Answer__:
+
+Letter __C__ is correct.
+
+### Question No. 40
+
+Consider sets M and N such that:
+
+- M ∪ N = {1, 2, 3, 4, 5, 6}  
+- M ∩ N = {1, 2}  
+- N - M = {3, 4}
+
+Therefore, the correct alternative is:
+
+a) M = {1, 2, 3}  
+b) M = {1, 2, 5, 6}  
+c) N = {1, 2, 4}  
+d) N = {1, 2}  
+e) M = {1, 2, 3, 4}  
+
+`Hint`
+
+```txt
+N - M = {3, 4}, so N ⊂ {3, 4}
+M ∩ N = {1, 2}, so N ⊂ {1, 2}
+M ∪ N = {1, 2, 3, 4, 5, 6}, so M ⊂ {1, 2, 5, 6}
+```
+
+__Answer__:
+
+Letter __B__ is correct.
+
+### Question No. 41
+
+In a group of students, 310 were found to have read only one of novels A or B; 270 read novel B; 80 have read both novels A and B, and 340 have not read novel A. The number of students in this group is...
+
+a) 380  
+b) 430  
+c) 480  
+d) 540  
+e) 610  
