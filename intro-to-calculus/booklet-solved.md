@@ -178,12 +178,12 @@ a) 3⁵
 b) 4⁻²  
 c) 8 ^ ²⁄₃  
 d) 49 ^ ⁻³⁄₂  
-e) (4 * (32) ^ ³⁄₄) ÷ (√2)³  
+e) (4 × (32) ^ ³⁄₄) ÷ (√2)³  
 f) (1 ÷ 9) ^ ⁻⁵⁄₂  
 g) 16 ^ ³⁄₂ + 27 ^ ²⁄₃  
-h) (2 ^ ³⁄₂ * (4 ^ ⁵⁄₂)) ÷ 8 ^ ²⁄₃  
-i) (54 ^ (1/3) * 2 ^ (1/6)) ÷ √8  
-j) (81 ^ (1/3) * (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃  
+h) (2 ^ ³⁄₂ × (4 ^ ⁵⁄₂)) ÷ 8 ^ ²⁄₃  
+i) (54 ^ (1/3) × 2 ^ (1/6)) ÷ √8  
+j) (81 ^ (1/3) × (6 ^ ²⁄₃)) ÷ 2 ^ ⁴⁄₃  
 
 ##### Solution for question No. 5
 
@@ -347,10 +347,10 @@ j) Developing solution:
 
 Make the value of *__n__* explicit in the given expression (assuming > 0, a ≠ 1).
 
-a) a²/³ * a¹/² = a³ⁿ  
+a) a²/³ × a¹/² = a³ⁿ  
 b) a³ ÷ (√a)⁵ = a²ⁿ  
-c) a² * a⁻⁵ = (aⁿ)³  
-d) a²ⁿ * a³ = a⁻⁷  
+c) a² × a⁻⁵ = (aⁿ)³  
+d) a²ⁿ × a³ = a⁻⁷  
 
 ##### Solution for question No. 6
 
@@ -440,6 +440,7 @@ n = -5
 
 1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-1-b)
 2. [Question No. 2](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-2-b)
+3. [Question No. 3](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-3-b)
 
 #### Question No. 1 (B)
 
@@ -584,7 +585,7 @@ Simplify as much as possible.
 a) x⁴ - 9x²  
 b) x¹⁶ - (2x)⁴  
 c) x³ + 3(x - 12)  
-d) 2(x - 3)² * (x + 1) - 5(x - 3)³ * (2x)
+d) 2(x - 3)² × (x + 1) - 5(x - 3)³ × (2x)
 
 ##### Solution for question No. 2 (B)
 
@@ -688,11 +689,54 @@ b) Developing solution:
 = (x(x + 2)⁴ - x³(x + 2)²) ÷ (x² - 3x + 2)
 = (x(x + 2)⁴ - x³(x² + 2x * 2 + 2²)) ÷ (x² - 3x + 2) //perfect square
 = (x(x + 2)⁴ - x³(x² + 4x + 4)) ÷ (x² - 3x + 2)
+```
 
-//binomial theorem for (x + 2)⁴
+Binomial theorem for `(x + 2)⁴`:
+
+![Binomial theorem formula](https://latex.codecogs.com/svg.latex?\sum_{i=0}^{4}\binom{4}{i}x^{(4-i)}*2^{i})
+
+Summation expanded:
+
+![Summation expanded for (x + 2)⁴](https://latex.codecogs.com/svg.latex?\frac{4!}{0!(4-0)!}x^{4}*2^{0}&plus;\frac{4!}{1!(4-1)!}x^{3}*2^{1}&plus;\frac{4!}{2!(4-2)!}x^{2}*2^{2}&plus;\frac{4!}{3!(4-3)!}x^{1}*2^{3}&plus;\frac{4!}{4!(4-4)!}x^{0}*2^{4})
+
+continuing...
+
+```txt
+= (x(x + 2)⁴ - x³(x² + 4x + 4)) ÷ (x² - 3x + 2)
+= (x((4! ÷ 0!(4-0)!)x⁴ * 2^0 + (4! ÷ 1!(4-1)!)x³ * 2^1 + (4! ÷ 2!(4-2)!)x² * 2^2 + (4! ÷ 3!(4-3)!)x¹ * 2^3 + (4! ÷ 4!(4-4)!)x⁰ * 2^4) - x³(x² + 4x + 4)) ÷ (x² - 3x + 2) //binomial theorem
+= (x(1 * x⁴ * 1 + (4! ÷ 1!(4-1)!)x³ * 2^1 + (4! ÷ 2!(4-2)!)x² * 2^2 + (4! ÷ 3!(4-3)!)x¹ * 2^3 + (4! ÷ 4!(4-4)!)x⁰ * 2^4) - x³(x² + 4x + 4)) ÷ (x² - 3x + 2)
+= (x(x⁴ + 4x³ * 2 + (4! ÷ 2!(4-2)!)x² * 2^2 + (4! ÷ 3!(4-3)!)x¹ * 2^3 + (4! ÷ 4!(4-4)!)x⁰ * 2^4) - x³(x² + 4x + 4)) ÷ (x² - 3x + 2)
+= (x(x⁴ + 8x³ + 6x² * 4 + (4! ÷ 3!(4-3)!)x¹ * 2^3 + (4! ÷ 4!(4-4)!)x⁰ * 2^4) - x³(x² + 4x + 4)) ÷ (x² - 3x + 2)
+= (x(x⁴ + 8x³ + 24x² + 4x * 8 + (4! ÷ 4!(4-4)!)x⁰ * 2^4) - x³(x² + 4x + 4)) ÷ (x² - 3x + 2)
+= (x(x⁴ + 8x³ + 24x² + 32x + 1x⁰ * 16) - x³(x² + 4x + 4)) ÷ (x² - 3x + 2)
+= (x(x⁴ + 8x³ + 24x² + 32x + 16) - x³(x² + 4x + 4)) ÷ (x² - 3x + 2) //Phew...
+= (x(x⁴ + 8x³ + 24x² + 32x + 16) - x³(x² + 4x + 4)) ÷ (x² - 3x + 2) //starting expansion
+= (x⁵ + 8x⁴ + 24x³ + 32x² + 16x - x³(x² + 4x + 4)) ÷ (x² - 3x + 2)
+= (x⁵ + 8x⁴ + 24x³ + 32x² + 16x - x⁵ - 4x⁴ - 4x³) ÷ (x² - 3x + 2)
+= (x⁵ - x⁵ + 8x⁴ - 4x⁴ + 24x³ - 4x³ + 32x² + 16x) ÷ (x² - 3x + 2) //reordering
+= (4x⁴ + 20x³ + 32x² + 16x) ÷ (x² - 3x + 2)
 ```
 
 Presenting solution:
 
 ```txt
+(4x⁴ + 20x³ + 32x² + 16x) ÷ (x² - 3x + 2)
 ```
+
+### Factoring polynomials with integer coefficients (C)
+
+1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-1-c)
+
+#### Question No. 1 (C)
+
+In the problems listed below, factor the given polynomial using integer coefficients.
+
+a) x² + x - 2  
+b) x² - 7x + 12  
+c) x² - 2x + 1  
+d) 16x² - 25  
+e) x³ - 1  
+f) x⁷ - x⁵  
+g) 2x³ - 8x² - 10x  
+
+##### Solution for question No. 1 (C)
