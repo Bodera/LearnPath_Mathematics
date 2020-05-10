@@ -1,4 +1,32 @@
-## Central Trend Measures
+# Central Trend Measures
+
+## Summary
+
+- [__Question No. 1__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-1)
+- [__Question No. 2__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-2)
+- [__Question No. 3__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-3)
+- [__Question No. 4__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-4)
+- [__Question No. 5__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-5)
+- [__Question No. 6__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-6)
+- [__Question No. 7__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-7)
+- [__Question No. 8__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-8)
+- [__Question No. 9__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-9)
+- [__Question No. 10__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-10)
+- [__Question No. 11__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-11)
+- [__Question No. 12__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-12)
+- [__Question No. 13__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-13)
+- [__Question No. 14__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-14)
+- [__Question No. 15__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-15)
+- [__Question No. 16__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-16)
+- [__Question No. 17__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-17)
+- [__Question No. 18__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-18)
+- [__Question No. 19__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-19)
+- [__Question No. 20__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-20)
+- [__Question No. 21__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-21)
+- [__Question No. 22__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-22)
+- [__Question No. 23__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-23)
+- [__Question No. 24__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-24)
+
 
 In exercises 1-10, do the following:
 

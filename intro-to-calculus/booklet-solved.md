@@ -13,6 +13,8 @@ This huge file will cover solutions for the exercises suggested on [differential
 
 * [__Review problems__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#review-problems-a)  
 * [__Absolute values and ranges__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#absolute-values-and-ranges-b)
+* [__Factoring polynomials with integer coefficients__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#factoring-polynomials-with-integer-coefficients-c)
+* [__Solving equations by factoring__](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#solving-equations-by-factoring-d)
 
 ### Review problems (A)
 
@@ -740,3 +742,137 @@ f) x⁷ - x⁵
 g) 2x³ - 8x² - 10x  
 
 ##### Solution for question No. 1 (C)
+
+a) Developing solution:
+
+```txt
+= x² + x - 2
+= (x - 1)(x + 2)
+= x² + 2x - x - 2
+= x² + x - 2
+```
+
+Presenting solution:
+
+```txt
+(x - 1)(x + 2)
+```
+
+b) Developing solution:
+
+```txt
+= x² - 7x + 12
+= (x - 4)(x - 3)
+= x² - 3x - 4x + 12
+= x² - 7x + 12
+```
+
+Presenting solution:
+
+```txt
+(x - 4)(x - 3)
+```
+
+c) Developing solution:
+
+```txt
+= x² - 2x + 1
+= (x - 1)(x - 1)
+= x² - x  - x + 1
+= x² - 2x + 1
+```
+
+Presenting solution:
+
+```txt
+(x - 1)²
+```
+
+d) Developing solution:
+
+```txt
+= 16x² - 25
+= (4x + 5)(4x - 5)
+= 16x² - 20x + 20x - 25
+= 16x² - 25
+```
+
+Presenting solution:
+
+```txt
+(4x + 5)(4x - 5)
+```
+
+e) Developing solution:
+
+```txt
+= x³ - 1
+= x³ - 1³
+= (x - 1)(x² + x * 1 + (-1)²) //(a - b)(a² + ab + b²)
+= (x - 1)(x² + x + 1)
+= x³ + x² + x - x² - x - 1
+= x³ - 1
+```
+
+Presenting solution:
+
+```txt
+(x - 1)(x² + x + 1)
+```
+
+f) Developing solution:
+
+```txt
+= x⁷ - x⁵
+= x⁵(x² - 1)
+= x⁵(x + 1)(x - 1) //(a + b)(a - b)
+= x⁷ - x⁵
+```
+
+Presenting solution:
+
+```txt
+x⁵(x + 1)(x - 1)
+```
+
+g) Developing solution:
+
+```txt
+= 2x³ - 8x² - 10x
+= 2x(x² - 4x - 5)
+= 2x(x + 1)(x - 5)
+= 2x³ - 8x² - 10x
+```
+
+Presenting solution:
+
+```txt
+2x(x + 1)(x - 5)
+```
+
+### Solving equations by factoring (D)
+
+1. [Question No. 1](https://github.com/Bodera/learnPath_Mathematics/blob/master/intro-to-calculus/booklet-solved.md#question-no-1-d)
+
+#### Question No. 1 (D)
+
+In the problems listed below, use the factorization method to solve the given equation.
+
+a) x² - 2x - 8 = 0  
+b) x² + 10x + 25 = 0  
+c) x² - 16 = 0  
+d) 2x² + 3x + 1 = 0  
+e) 4x² + 12x + 9 = 0  
+f) 1 + (4 ÷ x) - (5 ÷ x²) = 0  
+g) 2 + (2 ÷ x) - (4 ÷ x²) = 0  
+h) (x ÷ (x - 2)) - (4 ÷ (x + 3)) - (10 ÷ (x² + x - 6)) = 0  
+i) (x ÷ (x + 1)) + (3 ÷ (2x + 3)) - ((11x + 10) ÷ (2x² + 5x + 3)) = 0  
+j) x² - 4x + 3 = 0  
+k) x² - 25 = 0  
+l) x² + 8x + 16 = 0  
+m) x² - 2x + 1 = 0  
+n) 6x² + 7x - 3 = 0  
+o) (9 ÷ x²) - (6 ÷ x) + 1 = 0  
+p) (3 ÷ x²) - (5 ÷ x) - 2 = 0  
+
+##### Solution for question No. 1 (D)

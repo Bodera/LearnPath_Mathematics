@@ -1,5 +1,14 @@
-## Frequency distribution and it's graphics
+# Frequency distribution and it's graphics
 
+## Summary
+
+- [__Question No. 1__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list1.md#question-no-1)
+- [__Question No. 2__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list1.md#question-no-2)
+- [__Question No. 3__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list1.md#question-no-3)
+- [__Question No. 4__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list1.md#question-no-4)
+- [__Question No. 5__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list1.md#question-no-5)
+- [__Question No. 6__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list1.md#question-no-6)
+- [__Question No. 7__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list1.md#question-no-7)
 
 ### Question No. 1
 
