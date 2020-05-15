@@ -717,12 +717,13 @@ continuing...
 = (x⁵ + 8x⁴ + 24x³ + 32x² + 16x - x⁵ - 4x⁴ - 4x³) ÷ (x² - 3x + 2)
 = (x⁵ - x⁵ + 8x⁴ - 4x⁴ + 24x³ - 4x³ + 32x² + 16x) ÷ (x² - 3x + 2) //reordering
 = (4x⁴ + 20x³ + 32x² + 16x) ÷ (x² - 3x + 2)
+= (4x⁴ + 20x³ + 32x² + 16x) ÷ (x - 1)(x - 2)
 ```
 
 Presenting solution:
 
 ```txt
-(4x⁴ + 20x³ + 32x² + 16x) ÷ (x² - 3x + 2)
+(4x⁴ + 20x³ + 32x² + 16x) ÷ (x - 1)(x - 2)
 ```
 
 ### Factoring polynomials with integer coefficients (C)
@@ -746,7 +747,7 @@ g) 2x³ - 8x² - 10x
 a) Developing solution:
 
 ```txt
-= x² + x - 2
+x² + x - 2
 = (x - 1)(x + 2)
 = x² + 2x - x - 2
 = x² + x - 2
@@ -761,7 +762,7 @@ Presenting solution:
 b) Developing solution:
 
 ```txt
-= x² - 7x + 12
+x² - 7x + 12
 = (x - 4)(x - 3)
 = x² - 3x - 4x + 12
 = x² - 7x + 12
@@ -776,9 +777,9 @@ Presenting solution:
 c) Developing solution:
 
 ```txt
-= x² - 2x + 1
+x² - 2x + 1
 = (x - 1)(x - 1)
-= x² - x  - x + 1
+= x² - x - x + 1
 = x² - 2x + 1
 ```
 
@@ -791,7 +792,7 @@ Presenting solution:
 d) Developing solution:
 
 ```txt
-= 16x² - 25
+16x² - 25
 = (4x + 5)(4x - 5)
 = 16x² - 20x + 20x - 25
 = 16x² - 25
@@ -806,7 +807,7 @@ Presenting solution:
 e) Developing solution:
 
 ```txt
-= x³ - 1
+x³ - 1
 = x³ - 1³
 = (x - 1)(x² + x * 1 + (-1)²) //(a - b)(a² + ab + b²)
 = (x - 1)(x² + x + 1)
@@ -823,7 +824,7 @@ Presenting solution:
 f) Developing solution:
 
 ```txt
-= x⁷ - x⁵
+x⁷ - x⁵
 = x⁵(x² - 1)
 = x⁵(x + 1)(x - 1) //(a + b)(a - b)
 = x⁷ - x⁵
@@ -838,7 +839,7 @@ x⁵(x + 1)(x - 1)
 g) Developing solution:
 
 ```txt
-= 2x³ - 8x² - 10x
+2x³ - 8x² - 10x
 = 2x(x² - 4x - 5)
 = 2x(x + 1)(x - 5)
 = 2x³ - 8x² - 10x
