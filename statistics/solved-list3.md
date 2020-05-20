@@ -584,7 +584,7 @@ __A__: We've already perform this task on the question above.
 
 ### Question No. 6
 
-![Image-QuestionNo.6](./assets/ListNo03Qst6.png)
+![Image-QuestionNo.6](./assets/ListNo3Qst6.png)
 
 #### Questions and Answers about question No. 6
 
@@ -685,7 +685,7 @@ __3º step__ - Calculate the number of total eruptions.
 
 The results of a random sample of the number of pets per family in a region are shown in the histogram below. Estimate the sample mean and standard deviation in the data set.
 
-![Image-QuestionNo.10](./assets/ListNo03Qst10.png)
+![Image-QuestionNo.10](./assets/ListNo3Qst10.png)
 
 #### Procedures for the solution of question No. 10
 
@@ -742,7 +742,7 @@ s = 1.327953892
 
 In the block chart below, we see the amount of caffeine in a sample of portions of coffee with five ounces each. Make a frequency distribution for the data. Then use the table to estimate the sample mean and standard deviation of the data set. `(Adapted from the American Dietetic Association's Complete Food and Nutrition Guide)`
 
-![Image-QuestionNo.11](./assets/ListNo03Qst11.png)
+![Image-QuestionNo.11](./assets/ListNo3Qst11.png)
 
 #### Procedures for the solution of question No. 11
 
@@ -807,7 +807,7 @@ s = 18.3258
 
 The estimated distribution (in millions) of the United States population by age for the year 2006 is shown in the pie chart below. Make a frequency distribution for the data. Then use the table to estimate the sample mean and standard deviation of the data set. Use 70 as a midpoint for "65 years or older" `(Source: US Censos Bares-tu)`
 
-![Image-QuestionNo.12](./assets/ListNo03Qst12.png)
+![Image-QuestionNo.12](./assets/ListNo3Qst12.png)
 
 #### Procedures for the solution of question No. 12
 
@@ -878,7 +878,7 @@ s ≈ 21.3258
 
 Japan's estimated population for the year 2010 is given in the corresponding bar graph. Make a frequency distribution for the data. Then use the table to estimate the sample mean and standard deviation of the data set. (Source: LIS Censos Barrou, International Base)
 
-![Image-QuestionNo.13](./assets/ListNo03Qst13.png)
+![Image-QuestionNo.13](./assets/ListNo3Qst13.png)
 
 #### Procedures for the solution of question No. 13
 

@@ -1,6 +1,6 @@
 # Validating essential math exercises
 
-Remote exam.
+Remote exam: Review of elementary concepts.
 
 ## Summary
 

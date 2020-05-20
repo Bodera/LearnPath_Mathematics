@@ -28,7 +28,6 @@ c) Quantitative discrete.
 d) Quantitative discrete.  
 e) Quantitative continuous.  
 
-
 ### Question No. 2
 
 Which of the variables are qualitative or quantitative (continuous or discrete)?
@@ -59,12 +58,11 @@ i) Quantitative discrete.
 j) Quantitative discrete.  
 k) Quantitative continuous.  
 
-
 ### Question No. 3
 
 Akhiok is a small fishing village on the island of Kodiak  Alaska. The following census represents the stated age data for the entire population of the 77 inhabitants of Akhiok:
 
-```
+```txt
 28  6  17  48  63  47  27  21  3  7  12
 39  50  54  33  45  15  24  1  7  36  53
 46  27  5  10  32  50  52  11  42  22  3
@@ -84,7 +82,7 @@ c) Using the frequency distribution obtained in the two previous exercises, cons
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 0  1  1  1  2  2  2  3  3  4  4
 4  5  5  5  6  6  6  6  7  7  8
 8  9  10  10  10  11  11  11  12  12  13
@@ -96,7 +94,7 @@ __1º step__ - Sort the data in ascending order.
 
 __2º step__ - To create a frequency distribution table, we need to find out the range for each class. The question tells us explicitly to use 6 classes.
 
-```
+```txt
 77 = number of total records in the data set
 6 = number of classes in the frequency distribution table
 77 ÷ 6 = 12.8333...
@@ -104,7 +102,7 @@ __2º step__ - To create a frequency distribution table, we need to find out the
 
 However the highest record in the dataset is actually 63. So to better adjust the range let's make a different approach.
 
-```
+```txt
 63 = highest record
 6 = number of classes in the frequency distribution table
 63 ÷ 6 = 10.5
@@ -114,15 +112,14 @@ The ideal interval between classes for the frequency distribution table is __11_
 
 knowing this, the frequency distribution table can now be built:
 
-| Midpoint (x^) |  Age (x)  | Absolute frequency (f) | Cumulative frequency (F) | Relative frequency % (fr) | Cumulative frequency % |
-|:-------------:|:---------:|:----------------------:|:------------------------:|:-------------------------:|:----------------------:|
-|      5.5      |  0\|---11 |           27           |            27            |           35.06           |          35.06         |
-|      16.5     | 11\|---22 |           13           |            40            |           16.88           |          51.95         |
-|      27.5     | 22\|---33 |           16           |            56            |           20.78           |          72.72         |
-|      38.5     | 33\|---44 |            7           |            63            |            9.1            |          81.81         |
-|      49.5     | 44\|---55 |           11           |            74            |           14.28           |          96.10         |
-|      60.5     | 55\|---66 |            3           |            77            |            3.9            |           100          |
-|      ###      |    ###    |           77           |            ###           |            100%           |           ###          |
+|    *x*    | *x^* | *fᵢ* | *% fᵢ* | *Fᵢ* | *% Fᵢ* |
+|:---------:|:----:|:----:|:------:|:----:|:------:|
+|  0\|---11 |  5.5 |  27  |  35.06 |  27  |  35.06 |
+| 11\|---22 | 16.5 |  13  |  16.88 |  40  |  51.95 |
+| 22\|---33 | 27.5 |  16  |  20.78 |  56  |  72.72 |
+| 33\|---44 | 38.5 |   7  |   9.1  |  63  |  81.81 |
+| 44\|---55 | 49.5 |  11  |  14.28 |  74  |  96.10 |
+| 55\|---66 | 60.5 |   3  |   3.9  |  77  |   100  |
 
 __3º step__ - Now that we've finished the table, we can plot the graphs.
 
@@ -130,7 +127,7 @@ __3º step__ - Now that we've finished the table, we can plot the graphs.
 
 A survey on the age, in years, of a freshman class at a college, revealed the following data:
 
-```
+```txt
 18, 17, 18, 20, 21, 19, 20, 18, 17, 19
 20, 18, 19, 18, 19, 21, 18, 19, 18, 18
 19, 19, 21, 20, 17, 19, 19, 18, 18, 19
@@ -144,7 +141,7 @@ Your task is to build the convenient frequency distribution for this data and pl
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 17, 17, 17, 18, 18, 18, 18, 18, 18, 18
 18, 18, 18, 18, 18, 18, 18, 18, 18, 18
 18, 19, 19, 19, 19, 19, 19, 19, 19, 19
@@ -154,10 +151,11 @@ __1º step__ - Sort the data in ascending order.
 
 __2º step__ - To create a frequency distribution table, we need to find out the range for each class. The instruction left us free to choose the number of classes.
 
-```
+```txt
 50 = number of total records in the data set
 5 = number of distinct records
 ```
+
 So for convenience each class will consist of __a single value__, without intervals.
 
 knowing this, the frequency distribution table can now be built:
@@ -177,7 +175,7 @@ __3º step__ - Now that we've finished the table, we can plot the graph.
 
 The data below represent the earnings of a stock exchange share in the last 50 months. Build the frequency distribution suitable for this data and sketch the frequency histogram of that distribution.
 
-```
+```txt
 2.50, 2.00, 1.50, 1.00, 2.80, 3.00
 4.50, 5.00, 5.20, 4.40, 1.20, 4.30
 4.00, 4.15, 4.25, 2.33, 2.15, 1.36
@@ -193,7 +191,7 @@ The data below represent the earnings of a stock exchange share in the last 50 m
 
 __1º step__ - Sort the data in ascending order.
 
-```
+```txt
 1.00, 1.00, 1.20, 1.24, 1.25, 1.36
 1.50, 1.62, 1.88, 2.00, 2.00, 2.16
 2.15, 2.33, 2.50, 2.56, 2.59, 2.69
@@ -207,14 +205,14 @@ __1º step__ - Sort the data in ascending order.
 
 __2º step__ - To create a frequency distribution table, we need to find out the range for each class. The instruction left us free to choose the number of classes.
 
-```
+```txt
 50 = number of total records in the data set
 ? = number of classes
 ```
 
-* Sturges rule
+- Sturges rule
 
-```
+```txt
 k = number of classes
 n = number of total records in the data set
 k = 1 + 3.3 * log(n)
@@ -222,9 +220,9 @@ k = 1 + 3.3 * log(50)
 k = 6.606
 ```
 
-* Power of 2 rule
+- Power of 2 rule
 
-```
+```txt
 k = number of classes
 n = number of total records in the data set
 k = 2ᵏ ≥ n
@@ -232,9 +230,9 @@ k = 2⁶ = 64
 k = 6
 ```
 
-* Square root rule
+- Square root rule
 
-```
+```txt
 k = number of classes
 n = number of total records in the data set
 k = √n

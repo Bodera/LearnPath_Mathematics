@@ -27,7 +27,6 @@
 - [__Question No. 23__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-23)
 - [__Question No. 24__](https://github.com/Bodera/learnPath_Mathematics/blob/master/statistics/solved-list2.md#question-no-24)
 
-
 In exercises 1-10, do the following:
 
 (a) Determine the mean, median and mode of the data, if possible. If this is not possible, explain why the measure of central tendency could not be determined.  
