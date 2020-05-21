@@ -877,3 +877,169 @@ o) (9 ÷ x²) - (6 ÷ x) + 1 = 0
 p) (3 ÷ x²) - (5 ÷ x) - 2 = 0  
 
 ##### Solution for question No. 1 (D)
+
+a) Developing solution:
+
+```txt
+x² - 2x - 8 = 0
+= (x - 4)(x + 2)
+= x² + 2x - 4x - 8
+= x² -2x - 8
+```
+
+Presenting solution:
+
+```txt
+x' = 4
+x'' = (-2)
+```
+
+b) Developing solution:
+
+```txt
+x² + 10x + 25 = 0
+= (x + 5)(x + 5)
+= x² + 5x + 5x + 25
+= x² + 10x + 25
+```
+
+Presenting solution:
+
+```txt
+x = (-5)
+```
+
+c) Developing solution:
+
+```txt
+x² - 16 = 0
+= (x - 4)(x + 4)
+= x² + 4x - 4x - 16
+= x² - 16
+```
+
+Presenting solution:
+
+```txt
+x' = 4
+x'' = (-4)
+```
+
+d) Developing solution:
+
+```txt
+2x² + 3x + 1 = 0
+= (2x + 1)(x + 1)
+= 2x² + 2x + x + 1
+= 2x² + 3x + 1
+```
+
+Presenting solution:
+
+```txt
+x' = -½
+x'' = (-1)
+```
+
+e) Developing solution:
+
+```txt
+4x² + 12x + 9 = 0
+= (2x + 3)(2x + 3)
+= 4x² + 6x + 6x + 9
+= 4x² + 12x + 9
+```
+
+Presenting solution:
+
+```txt
+x = -³⁄₂
+```
+
+f) Developing solution:
+
+```txt
+1 + (4 ÷ x) - (5 ÷ x²) = 0
+= (1 * x²) + ((4 ÷ x) * x²) - ((5 ÷ x²) * x²) = (0 * x²)
+= x² + 4x - 5 = 0
+= (x - 1)(x + 5)
+= x² + 5x - x - 5
+= x² + 4x - 5
+```
+
+Presenting solution:
+
+```txt
+x' = 1
+x'' = (-5)
+```
+
+g) Developing solution:
+
+```txt
+2 + (2 ÷ x) - (4 ÷ x²) = 0
+= (2 * x²) + ((2 ÷ x) * x²) - ((4 ÷ x²) * x²) = (0 * x²)
+= 2x² + 2x - 4 = 0
+= 2(x² + x - 2)
+= 2(x - 1)(x + 2)
+= 2x² + 2x - 4
+```
+
+Presenting solution:
+
+```txt
+x' = 1
+x'' = (-2)
+```
+
+h) Developing solution:
+
+```txt
+(x - 2)(x + 3)
+= xx + 3x - 2x - 6
+= x² + x - 6
+
+(x ÷ (x - 2)) - (4 ÷ (x + 3)) - (10 ÷ (x² + x - 6)) = 0
+= ((x ÷ (x - 2)) * (x - 2)(x + 3)(x² + x -6)) - ((4 ÷ (x + 3)) * (x - 2)(x + 3)(x² + x -6)) - ((10 ÷ (x² + x - 6)) * (x - 2)(x + 3)(x² + x -6)) = (0  * (x - 2)(x + 3)(x² + x -6))
+= x(x + 3)(x² + x -6) - 4(x - 2)(x² + x -6) - 10(x - 2)(x + 3) = 0
+= x(xx² + xx - 6x + 3x² + 3x - 18) - 4(xx² + xx - 6x - 2x² - 2x + 12) - 10(xx + 3x - 2x - 6) = 0
+= x(x³ + 4x² - 3x - 18) - 4(x³ - x² - 8x + 12) - 10(x² + x - 6) = 0
+= x⁴ + 4x³ - 3x² - 18x - 4x³ + 4x² + 32x - 48 - 10x² - 10x + 60 = 0
+= x⁴ + 4x³ - 4x³ - 3x² + 4x² - 10x² - 18x - 10x + 32x - 48 + 60 = 0
+= x⁴ - 9x² + 4x + 12 = 0
+= (x + 1) * ((x⁴ - 9x² + 4x + 12) ÷ (x + 1))
+= (x + 1) * x³ - x² - 8x + 12
+= (x + 1)(x - 2)(x - 2)(x + 3)
+= (x + 1)(x - 2)²(x + 3) = 0
+```
+
+Presenting solution:
+
+```txt
+x = (-1)
+or
+x = 2
+or
+x = (-3)
+```
+
+i) Developing solution:
+
+```txt
+(x + 1)(2x + 3)
+= 2x¹ * x¹ + 3x + 2x + 3
+= 2x² + 5x + 3
+
+(x ÷ (x + 1)) + (3 ÷ (2x + 3)) - ((11x + 10) ÷ (2x² + 5x + 3)) = 0
+= ((x ÷ (x - 1)) * (x + 1)(2x + 3)) + ((3 ÷ (2x + 3)) * (x + 1)(2x + 3)) - (((11x + 10) ÷ (2x² + 5x + 3)) * (x + 1)(2x + 3)
+```
+
+Presenting solution:
+
+```txt
+x = (-1)
+or
+x = 2
+or
+x = (-3)
+```
