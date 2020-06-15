@@ -57,6 +57,7 @@ The __bold text__ will be used to denote a problem which solution will be achiev
 49. [Question No. 49](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-49)
 50. [Question No. 50](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-50)
 51. [Question No. 51](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-51)
+52. [Question No. 52](https://github.com/Bodera/learnPath_Mathematics/blob/master/discrete-math/set-theory-solved.md#question-no-52)
 
 ### Question No. 1
 
@@ -1102,10 +1103,227 @@ Letter __B__ is correct.
 
 ### Question No. 41
 
-In a group of students, 310 were found to have read only one of novels A or B; 270 read novel B; 80 have read both novels A and B, and 340 have not read novel A. The number of students in this group is...
+In a group of students, 310 were found to have read only one of novels A or B; 270 read novel B; 80 have read both novels A and B, and 340 have not read novel A. The number of students in this group is?
+
+![Question No. 41 diagram](./images/QuestionNo41.png)
 
 a) 380  
 b) 430  
 c) 480  
 d) 540  
 e) 610  
+
+__Answer__:
+
+Letter __D__ is correct.
+
+### Question No. 42
+
+In one school, 5000 students signed up to take subjects A and B. Of these students, 2825 enrolled in subject A and 1027 in subject B. Due to lack of academic conditions, 1324 students were unable to enroll in any of the subjects. The number of students enrolled in both subjects, simultaneously, is?
+
+![Question No. 42 diagram](./images/QuestionNo42.png)
+
+a) 156  
+b) 176  
+c) 297  
+d) 1027  
+
+__Answer__:
+
+Letter __B__ is correct.
+
+### Question No. 43
+
+In a school there are *n* students. It is known that 56 students read newspaper A, 21 students read newspapers A and B, 106 read only one of the two newspapers and 66 do not read newspaper B. The value of *n* is?
+
+![Question No. 43 diagram](./images/QuestionNo43.png)
+
+a) 249  
+b) 137  
+c) 158  
+d) 127  
+
+__Answer__:
+
+Letter __C__ is correct.
+
+### Question No. 44
+
+In a group of 30 people, 21 study French, 14 study English, while 3 study neither French nor English. What is the number of people studying both languages?
+
+![Question No. 44 diagram](./images/QuestionNo44.png)
+
+a) 3  
+b) 4  
+c) 6  
+d) 8  
+
+__Answer__:
+
+Letter __D__ is correct.
+
+### Question No. 45
+
+In a school 30% of students speak English and 90% speak French. What percentage of students speak both languages?
+
+![Question No. 45 diagram](./images/QuestionNo45.png)
+
+a) 40%  
+b) 10%  
+c) 20%  
+d) 60%  
+
+__Answer__:
+
+Letter __C__ is correct.
+
+### Question No. 46
+
+In a group of 30 people, 5 are tall and fat, 11 are short and 13 are fat. The number of people in this set who are both tall and thin is?
+
+|           | Tall | Short | __TOTAL__ |
+|:---------:|:----:|:-----:|:---------:|
+|    Fat    |   5  |   8   |     13    |
+|    Thin   |  14  |   3   |     17    |
+| __TOTAL__ |  19  |   11  |     30    |
+
+a) 3  
+b) 8  
+c) 14  
+d) 16  
+
+__Answer__:
+
+Letter __C__ is correct.
+
+### Question No. 47
+
+At a university, 1500 students study in the various courses offered. Of these, 35 are studying Electrical Engineering, 30 are studying Civil Engineering and 8 are studying both. The number of university students who do not study in either course is?
+
+![Question No. 47 diagram](./images/QuestionNo47.png)
+
+a) 1450  
+b) 1435  
+c) 1443  
+d) 1427  
+e) 1400  
+
+__Answer__:
+
+Letter __C__ is correct.
+
+### Question No. 48
+
+A company carried out, in a community, a survey on the consumption of three products A, B and C, manufactured by it. Below the tabulated data:
+
+- A → 720 people  
+- B → 650 people  
+- C → 630 people  
+- A e B → 200 people  
+- A e C → 310 people  
+- B e C → 350 people  
+- A, B e C → 160 people  
+- Nenhum dos três → 100 people  
+
+Under these conditions, how many people were consulted?
+
+![Question No. 48 diagram](./images/QuestionNo48.png)
+
+a) 1300  
+b) 1040  
+c) 1400  
+d) 1200  
+e) 1240  
+
+__Answer__:
+
+Letter __C__ is correct.
+
+### Question No. 49
+
+In the ABO blood group system, individuals may contain antigen A only, antigen B only, both antigens, or none of the antigens. In a survey, 6000 people were evaluated, of which 2500 had antigen A, 2200 had antigen B, and 1800 had none of the antigens. How many people presented both antigens?
+
+![Question No. 49 diagram](./images/QuestionNo49.png)
+
+a) 500  
+b) 0  
+c) 2350  
+d) 1500  
+e) 4700  
+
+__Answer__:
+
+Letter __A__ is correct.
+
+### Question No. 50
+
+In an opinion poll, these data were obtained:
+
+- 40% of respondents read newspaper A  
+- 55% of respondents read newspaper B  
+- 35% of respondents read newspaper C  
+- 12% of respondents read A and B  
+- 15% of respondents read A and C  
+- 19% of respondents read B and C  
+- 7% of respondents read the three newspapers  
+- 135 people interviewed do not read any of the three newspapers  
+
+Considering these data, is it CORRECT to state that the number of respondents was?
+
+![Question No. 50 diagram](./images/QuestionNo50.png)
+
+a) 1200  
+b) 1250  
+c) 1500  
+d) 1350  
+
+__Answer__:
+
+Letter __C__ is correct.
+
+### Question No. 51
+
+In a society there are:
+
+- 35 men
+- 18 people wearing glasses
+- 15 women who do not wear glasses
+- 7 men who wear glasses
+
+What is the number of people that make up this society?
+
+|                     | Men | Women | __TOTAL__ |
+|:-------------------:|:---:|:-----:|:---------:|
+|     Wear glasses    |  7  |   11  |     18    |
+| Do not wear glasses |  28 |   15  |     43    |
+|      __TOTAL__      |  35 |   26  |     61    |
+
+a) 26  
+b) 35  
+c) 40  
+d) 46  
+e) 61  
+
+__Answer__:
+
+Letter __E__ is correct.
+
+### Question No. 52
+
+In a classroom with 60 students, 11 play chess, 31 are men or play chess and 3 women play chess. It is concluded, therefore, that:
+
+|                   | Men | Women | __TOTAL__ |
+|:-----------------:|:---:|:-----:|:---------:|
+|     Play chess    |  8  |   3   |     11    |
+| Do not play chess |  20 |   29  |     49    |
+|     __TOTAL__     |  28 |   32  |     60    |
+
+a) 31 are women  
+b) 29 are men  
+c) 29 women do not play chess  
+d) 23 men do not play chess  
+e) 9 men play chess  
+
+__Answer__:
+
+Letter __C__ is correct.
