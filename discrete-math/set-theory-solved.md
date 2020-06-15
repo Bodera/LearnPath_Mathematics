@@ -104,7 +104,7 @@ g) (⊂) D and C - D is contained in C
 
 In the diagram below, A, B and C are three non-empty sets. Check `T` or `F` for each of the sentences, depending on whether it is true or false:
 
-![Question No. 3 diagram](./images/QuestionNo03.png)
+![Question No. 3 diagram](./images/set-theory/QuestionNo03.png)
 
 a) (T) A ⊂ C - A is contained in C  
 b) (T) B ⊂ C - B is contained in C  
@@ -399,7 +399,7 @@ d) Complementary of (B ∩ C ∩ D) in A
 In a research on preference over two newspapers, 470 people were consulted and the result was as follows: 250 of them read the newspaper A, 180 read newspaper B and 60 read both newspapers.
 The following questions are asked:
 
-![Question No. 9 diagram](./images/QuestionNo09.png)
+![Question No. 9 diagram](./images/set-theory/QuestionNo09.png)
 
 a) How many people read only newspaper A?  __190__  
 b) How many people read only newspaper B?  __120__  
@@ -423,7 +423,7 @@ In a city, three products A, B and C are consumed. A market survey was conducted
 
 The following questions are asked:
 
-![Question No. 10 diagram](./images/QuestionNo10.png)
+![Question No. 10 diagram](./images/set-theory/QuestionNo10.png)
 
 a) How many people consume only product A?  __50__  
 b) How many people consume product A or product B or product C?  
@@ -450,7 +450,7 @@ d) How many people were consulted?  __600__
 
 A test was made up of two problems. 300 students hit only one, 260 hit the second, 100 students hit both and 210 missed the first. How many students took the test?
 
-![Question No. 11 diagram](./images/QuestionNo11.png)
+![Question No. 11 diagram](./images/set-theory/QuestionNo11.png)
 
 __Answer:__  
 
@@ -481,7 +481,7 @@ A is a set of two elements.
 A publisher is studying the possibility of launching the publications HELENA, SENHORA and A MORENINHA again. For this, it carried out a market research and concluded that for every 1,000 people consulted, 600 read MORENINHA, 400 read HELENA, 300 read LADY, 200 read MORENINHA and HELENA, 150 read MORENINHA and LADY, 100 read HELENA and LADY and 20 read the three works.
 It is questioned:
 
-![Question No. 13 diagram](./images/QuestionNo13.png)
+![Question No. 13 diagram](./images/set-theory/QuestionNo13.png)
 
 a) How many people read only one of the three works?  
 
@@ -511,7 +511,7 @@ c) How many people read two or more works?
 In a group of 99 athletes, 40 play volleyball, 20 play volleyball and basketball, 22 play basketball and football, 18 play volleyball and football, 11 play all three. The number of people who play basketball is equal to the number of people who play football.
 It is questioned:
 
-![Question No. 14 diagram](./images/QuestionNo14.png)
+![Question No. 14 diagram](./images/set-theory/QuestionNo14.png)
 
 a) How many play football and do not play volleyball?  
 
@@ -541,11 +541,11 @@ V + (F ∩ V)
 
 Given the diagram below, color the region (A ∩ B) ∪ (A ∩ C).
 
-![Question No. 15 diagram](./images/QuestionNo15.png)
+![Question No. 15 diagram](./images/set-theory/QuestionNo15.png)
 
 __Answer__:
 
-![Question No. 15 diagram - Answer](./images/QuestionNo15-Answer.png)
+![Question No. 15 diagram - Answer](./images/set-theory/QuestionNo15-Answer.png)
 
 ### Question No. 16
 
@@ -645,7 +645,7 @@ Letter __E__ is correct.
 
 In the diagram below, we have that:
 
-![Question No. 23 diagram](./images/QuestionNo23.png)
+![Question No. 23 diagram](./images/set-theory/QuestionNo23.png)
 
 a) 3 ∈ P(F) - 3 belongs to a part of F  
 b) {4, 5} ⊂ P(F) - {4, 5} is contained in a part of F  
@@ -961,7 +961,7 @@ Letter __C__ is correct.
 
 ### Question No. 34
 
-![Question No. 34 diagram](./images/QuestionNo34.png)
+![Question No. 34 diagram](./images/set-theory/QuestionNo34.png)
 
 In the diagram above, does the shaded part represent:
 
@@ -977,7 +977,7 @@ Letter __D__ is correct.
 
 ### Question No. 35
 
-![Question No. 35 diagram](./images/QuestionNo35.png)
+![Question No. 35 diagram](./images/set-theory/QuestionNo35.png)
 
 In the figure, R is a rectangle, T is a triangle and C is a circle. The hatched region is:
 
@@ -992,7 +992,7 @@ Letter __C__ is correct.
 
 ### Question No. 36
 
-![Question No. 36 diagram](./images/QuestionNo36.png)
+![Question No. 36 diagram](./images/set-theory/QuestionNo36.png)
 
 The hatched part of the graph above is:
 
@@ -1105,7 +1105,7 @@ Letter __B__ is correct.
 
 In a group of students, 310 were found to have read only one of novels A or B; 270 read novel B; 80 have read both novels A and B, and 340 have not read novel A. The number of students in this group is?
 
-![Question No. 41 diagram](./images/QuestionNo41.png)
+![Question No. 41 diagram](./images/set-theory/QuestionNo41.png)
 
 a) 380  
 b) 430  
@@ -1121,7 +1121,7 @@ Letter __D__ is correct.
 
 In one school, 5000 students signed up to take subjects A and B. Of these students, 2825 enrolled in subject A and 1027 in subject B. Due to lack of academic conditions, 1324 students were unable to enroll in any of the subjects. The number of students enrolled in both subjects, simultaneously, is?
 
-![Question No. 42 diagram](./images/QuestionNo42.png)
+![Question No. 42 diagram](./images/set-theory/QuestionNo42.png)
 
 a) 156  
 b) 176  
@@ -1136,7 +1136,7 @@ Letter __B__ is correct.
 
 In a school there are *n* students. It is known that 56 students read newspaper A, 21 students read newspapers A and B, 106 read only one of the two newspapers and 66 do not read newspaper B. The value of *n* is?
 
-![Question No. 43 diagram](./images/QuestionNo43.png)
+![Question No. 43 diagram](./images/set-theory/QuestionNo43.png)
 
 a) 249  
 b) 137  
@@ -1151,7 +1151,7 @@ Letter __C__ is correct.
 
 In a group of 30 people, 21 study French, 14 study English, while 3 study neither French nor English. What is the number of people studying both languages?
 
-![Question No. 44 diagram](./images/QuestionNo44.png)
+![Question No. 44 diagram](./images/set-theory/QuestionNo44.png)
 
 a) 3  
 b) 4  
@@ -1166,7 +1166,7 @@ Letter __D__ is correct.
 
 In a school 30% of students speak English and 90% speak French. What percentage of students speak both languages?
 
-![Question No. 45 diagram](./images/QuestionNo45.png)
+![Question No. 45 diagram](./images/set-theory/QuestionNo45.png)
 
 a) 40%  
 b) 10%  
@@ -1200,7 +1200,7 @@ Letter __C__ is correct.
 
 At a university, 1500 students study in the various courses offered. Of these, 35 are studying Electrical Engineering, 30 are studying Civil Engineering and 8 are studying both. The number of university students who do not study in either course is?
 
-![Question No. 47 diagram](./images/QuestionNo47.png)
+![Question No. 47 diagram](./images/set-theory/QuestionNo47.png)
 
 a) 1450  
 b) 1435  
@@ -1227,7 +1227,7 @@ A company carried out, in a community, a survey on the consumption of three prod
 
 Under these conditions, how many people were consulted?
 
-![Question No. 48 diagram](./images/QuestionNo48.png)
+![Question No. 48 diagram](./images/set-theory/QuestionNo48.png)
 
 a) 1300  
 b) 1040  
@@ -1243,7 +1243,7 @@ Letter __C__ is correct.
 
 In the ABO blood group system, individuals may contain antigen A only, antigen B only, both antigens, or none of the antigens. In a survey, 6000 people were evaluated, of which 2500 had antigen A, 2200 had antigen B, and 1800 had none of the antigens. How many people presented both antigens?
 
-![Question No. 49 diagram](./images/QuestionNo49.png)
+![Question No. 49 diagram](./images/set-theory/QuestionNo49.png)
 
 a) 500  
 b) 0  
@@ -1270,7 +1270,7 @@ In an opinion poll, these data were obtained:
 
 Considering these data, is it CORRECT to state that the number of respondents was?
 
-![Question No. 50 diagram](./images/QuestionNo50.png)
+![Question No. 50 diagram](./images/set-theory/QuestionNo50.png)
 
 a) 1200  
 b) 1250  
