@@ -2,7 +2,7 @@
 
 You may want to check out [this pdf file](./teoria-dos-conjuntos1.pdf) in order to read more about set theory and the needed properties to perform operations between them.
 
-The __bold text__ will be used to denote a problem which solution will be achieved using formulas. The *italic text* will be used to denote a problem which solution will be achieved using the [Venn diagram](https://www.mathsisfun.com/sets/venn-diagrams.html), in this case the [lucid chart tool](https://www.lucidchart.com/pages/pt/exemplos/diagrama-de-venn-online) will be used to plot the diagrams.
+The [Venn diagrams](https://www.mathsisfun.com/sets/venn-diagrams.html), were elaborated using the [lucid chart tool](https://www.lucidchart.com/pages/pt/exemplos/diagrama-de-venn-online) for plotting.
 
 ## Exercises
 
