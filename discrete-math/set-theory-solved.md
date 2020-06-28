@@ -1,6 +1,6 @@
 # Solving exercises
 
-You may want to check out [this pdf file](./teoria-dos-conjuntos1.pdf) in order to read more about set theory and the needed properties to perform operations between them.
+You may want to check out [this pdf file](./assets/files/set-theory.pdf) in order to read more about set theory and the needed properties to perform operations between them.
 
 The [Venn diagrams](https://www.mathsisfun.com/sets/venn-diagrams.html), were elaborated using the [lucid chart tool](https://www.lucidchart.com/pages/pt/exemplos/diagrama-de-venn-online) for plotting.
 
