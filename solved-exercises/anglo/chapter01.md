@@ -1,6 +1,6 @@
-# Numeric expressions
+# Whole numbers and numeric expressions
 
-## Series No. 1
+## Series No. I
 
 ```txt
 4 + 5 * 8 = ?
@@ -18,7 +18,7 @@
 11 + 4 * 3 = ?
 ```
 
-### Resolution for series no. 1
+### Resolution for series no. I
 
 ```txt
 4 + (5 * 8)
@@ -44,7 +44,7 @@
 = 23
 ```
 
-## Series 2
+## Series II
 
 ```txt
 31 - 15 * 2 = ?
@@ -62,7 +62,7 @@
 36 - 28 ÷ 7 = ?
 ```
 
-### Resolution for series no. 2
+### Resolution for series no. II
 
 ```txt
 31 - (15 * 2)
@@ -88,7 +88,7 @@
 = 32
 ```
 
-## Series 3
+## Series III
 
 ```txt
 6 * 4 + 3 * 7 = ?
@@ -106,7 +106,7 @@
 8 * 6 - 72 ÷ 8 = ?
 ```
 
-### Resolution for series no. 3
+### Resolution for series no. III
 
 ```txt
 (6 * 4) + (3 * 7)
@@ -132,7 +132,7 @@
 = 39
 ```
 
-## Series 4
+## Series IV
 
 ```txt
 5 * (7 + 4) + 3 * 2 = ?
@@ -150,7 +150,7 @@
 (3 + 9) ÷ 3 - 4 ÷ (7 - 5) = ?
 ```
 
-### Resolution for series no. 4
+### Resolution for series no. IV
 
 ```txt
 5 * (7 + 4) + 3 * 2
@@ -180,7 +180,7 @@
 = 2
 ```
 
-## Series 5
+## Series V
 
 ```txt
 (+2) * (+5) = ?
@@ -198,7 +198,7 @@
 (+14) * (+9) = ?
 ```
 
-### Resolution for series no. 5
+### Resolution for series no. V
 
 ```txt
 (+2) * (+5)
@@ -224,7 +224,7 @@
 = 126
 ```
 
-## Series 6
+## Series VI
 
 ```txt
 (-2) * (+3) = ?
@@ -242,7 +242,7 @@
 (-1) * (+5) = ?
 ```
 
-### Resolution for series no. 6
+### Resolution for series no. VI
 
 ```txt
 (-2) * (+3)
@@ -268,7 +268,7 @@
 = -5
 ```
 
-## Series 7
+## Series VII
 
 ```txt
 (-2) * (-3) = ?
@@ -286,7 +286,7 @@
 (-1) * (-8) = ?
 ```
 
-### Resolution for series no. 7
+### Resolution for series no. VII
 
 ```txt
 (-2) * (-3)
@@ -308,7 +308,7 @@
 = 8
 ```
 
-## Series 8
+## Series VIII
 
 ```txt
 (+15) ÷ (+3) = ?
@@ -326,7 +326,7 @@
 (+18) ÷ (+3) = ?
 ```
 
-### Resolution for series no. 8
+### Resolution for series no. VIII
 
 ```txt
 (+15) ÷ (+3)
@@ -352,7 +352,7 @@
 = 6
 ```
 
-## Series 9
+## Series IX
 
 ```txt
 (+15) ÷ (-3) = ?
@@ -370,7 +370,7 @@
 (+3) ÷ (-1) = ?
 ```
 
-### Resolution for series no. 9
+### Resolution for series no. IX
 
 ```txt
 (+15) ÷ (-3)
@@ -396,7 +396,7 @@
 = -3
 ```
 
-## Series 10
+## Series X
 
 ```txt
 (-14) ÷ (-7) = ?
@@ -414,7 +414,7 @@
 (-7) ÷ (-1) = ?
 ```
 
-### Resolution for series no. 10
+### Resolution for series no. X
 
 ```txt
 (-14) ÷ (-7)
@@ -436,7 +436,7 @@
 = 7
 ```
 
-## Series 11
+## Series XI
 
 ```txt
 (+12) * (-4) ÷ (-6) = ?
@@ -454,7 +454,7 @@
 (+7) * (-6) ÷ (+14) * (-1) = ?
 ```
 
-### Resolution for series no. 11
+### Resolution for series no. XI
 
 ```txt
 (+12) * (-4) ÷ (-6)
@@ -486,7 +486,7 @@
 = 3
 ```
 
-## Series 12
+## Series XII
 
 ```txt
 2 ^ 3 = ?
@@ -520,7 +520,7 @@
 10 ^ 3 = ?
 ```
 
-### Resolution for series no. 12
+### Resolution for series no. XII
 
 ```txt
 2 ^ 3
@@ -570,7 +570,7 @@
 = 1000
 ```
 
-## Series 13
+## Series XIII
 
 ```txt
 (-3) ^ 2 = ?
@@ -588,7 +588,7 @@
 (-1) ^ 6 = ?
 ```
 
-### Resolution for series no. 13
+### Resolution for series no. XIII
 
 ```txt
 (-3) ^ 2
@@ -614,7 +614,7 @@
 = 1
 ```
 
-## Series 14
+## Series XIV
 
 ```txt
 (-2) ^ 5 = ?
@@ -632,7 +632,7 @@
 (-1) ^ 7 = ?
 ```
 
-### Resolution for series no. 14
+### Resolution for series no. XIV
 
 ```txt
 (-2) ^ 5
@@ -658,7 +658,7 @@
 = (-1)
 ```
 
-## Series 15
+## Series XV
 
 ```txt
 10 ^ 2 = ?
@@ -676,7 +676,7 @@
 10 ^ 6 = ?
 ```
 
-### Resolution for series no. 15
+### Resolution for series no. XV
 
 ```txt
 10 ^ 2
@@ -702,7 +702,7 @@
 = 1000000
 ```
 
-## Series 16
+## Series XVI
 
 ```txt
 1000000 = ?
@@ -720,7 +720,7 @@
 1000000000 = ?
 ```
 
-### Resolution for series no. 16
+### Resolution for series no. XVI
 
 ```txt
 1000000
@@ -742,7 +742,7 @@
 = 10 ^ 9
 ```
 
-## Series 17
+## Series XVII
 
 ```txt
 -3 ^ 2 = ?
@@ -760,7 +760,7 @@
 -1 ^ 6 = ?
 ```
 
-### Resolution for series no. 17
+### Resolution for series no. XVII
 
 ```txt
 -3 ^ 2
@@ -790,7 +790,7 @@
 = -1
 ```
 
-## Series 18
+## Series XVIII
 
 ```txt
 √4 = ?
@@ -840,7 +840,7 @@
 √225 = ?
 ```
 
-### Resolution for series no. 18
+### Resolution for series no. XVIII
 
 ```txt
 √4
@@ -914,7 +914,7 @@
 = 15
 ```
 
-## Series 19
+## Series XIX
 
 ```txt
 ³√27 = ?
@@ -932,7 +932,7 @@
 ³√1000 = ?
 ```
 
-### Resolution for series no. 19
+### Resolution for series no. XIX
 
 ```txt
 ³√27
@@ -958,7 +958,7 @@
 = 10
 ```
 
-## Series 20
+## Series XX
 
 ```txt
 √140625 = ?
@@ -1097,7 +1097,7 @@ After adding up the zero we calculate the integer division of 166 by 20 which re
 
 Therefore the square root of 11664 equals to 108.
 
-### Resolution for series no. 20
+### Resolution for series no. XX
 
 ```txt
 √190969 = ?
