@@ -2,6 +2,8 @@
 
 ## Series No. I
 
+Calculate:
+
 ```txt
 4 + 5 * 8 = ?
 ```
@@ -45,6 +47,8 @@
 ```
 
 ## Series II
+
+Calculate:
 
 ```txt
 31 - 15 * 2 = ?
@@ -90,6 +94,8 @@
 
 ## Series III
 
+Calculate:
+
 ```txt
 6 * 4 + 3 * 7 = ?
 ```
@@ -133,6 +139,8 @@
 ```
 
 ## Series IV
+
+Calculate:
 
 ```txt
 5 * (7 + 4) + 3 * 2 = ?
@@ -182,6 +190,8 @@
 
 ## Series V
 
+Perform the operations:
+
 ```txt
 (+2) * (+5) = ?
 ```
@@ -225,6 +235,8 @@
 ```
 
 ## Series VI
+
+Perform the operations:
 
 ```txt
 (-2) * (+3) = ?
@@ -270,6 +282,8 @@
 
 ## Series VII
 
+Perform the operations:
+
 ```txt
 (-2) * (-3) = ?
 ```
@@ -309,6 +323,8 @@
 ```
 
 ## Series VIII
+
+Perform the operations:
 
 ```txt
 (+15) ÷ (+3) = ?
@@ -354,6 +370,8 @@
 
 ## Series IX
 
+Perform the operations:
+
 ```txt
 (+15) ÷ (-3) = ?
 ```
@@ -398,6 +416,8 @@
 
 ## Series X
 
+Perform the operations:
+
 ```txt
 (-14) ÷ (-7) = ?
 ```
@@ -437,6 +457,8 @@
 ```
 
 ## Series XI
+
+Perform the operations:
 
 ```txt
 (+12) * (-4) ÷ (-6) = ?
@@ -487,6 +509,8 @@
 ```
 
 ## Series XII
+
+Calculate:
 
 ```txt
 2 ^ 3 = ?
@@ -572,6 +596,8 @@
 
 ## Series XIII
 
+Calculate:
+
 ```txt
 (-3) ^ 2 = ?
 ```
@@ -615,6 +641,8 @@
 ```
 
 ## Series XIV
+
+Calculate:
 
 ```txt
 (-2) ^ 5 = ?
@@ -660,6 +688,8 @@
 
 ## Series XV
 
+Calculate:
+
 ```txt
 10 ^ 2 = ?
 ```
@@ -704,6 +734,8 @@
 
 ## Series XVI
 
+Write it in the form of power of base 10:
+
 ```txt
 1000000 = ?
 ```
@@ -723,26 +755,28 @@
 ### Resolution for series no. XVI
 
 ```txt
-1000000
+1000000 (six zeros)
 = 10 ^ 6
 ```
 
 ```txt
-10000000
+10000000 (seven zeros)
 = 10 ^ 7
 ```
 
 ```txt
-100000000
+100000000 (eight zeros)
 = 10 ^ 8
 ```
 
 ```txt
-1000000000
+1000000000 (nine zeros)
 = 10 ^ 9
 ```
 
 ## Series XVII
+
+Calculate:
 
 ```txt
 -3 ^ 2 = ?
@@ -791,6 +825,8 @@
 ```
 
 ## Series XVIII
+
+Calculate:
 
 ```txt
 √4 = ?
@@ -916,6 +952,8 @@
 
 ## Series XIX
 
+Calculate:
+
 ```txt
 ³√27 = ?
 ```
@@ -959,6 +997,8 @@
 ```
 
 ## Series XX
+
+Extract the square root of the following numbers:
 
 ```txt
 √140625 = ?
@@ -1208,3 +1248,220 @@ Integer division of 183 ÷ 30 ≈ 6
 Therefore the square root of 24336 equals to 156.
 
 - - -
+
+```txt
+√232324 = ?
+
+√23.23.24
+```
+
+🠫
+
+| 23 | 23 | 24 | \| | 4 |
+|:--:|:--:|:--:|:--:|:-:|
+| 16 |    |    |    | 8 |
+| 72 |  3 |    |    |   |
+
+🠫
+
+Integer division of 72 ÷ 8 = 9
+
+Unfortunately the product of 89 by 9 is higher than 723 (801). So we decrease one unit and stick with 8.
+
+🠫
+
+| 23 |  23 | 24 | \| |   48   |     |
+|:--:|:---:|:--:|:--:|:------:|:---:|
+| 16 |     |    |    | 88 * 8 | 704 |
+| 72 |  3  |    |    |   96   |     |
+| 70 |  4  |    |    |        |     |
+|    | 192 |  4 |    |        |     |
+
+🠫
+
+Integer division of 192 ÷ 96 = 2
+
+🠫
+
+| 23 |  23 | 24 | \| |   482   |      |
+|:--:|:---:|:--:|:--:|:-------:|:----:|
+| 16 |     |    |    |  88 * 8 |  704 |
+| 72 |  3  |    |    | 962 * 2 | 1924 |
+| 70 |  4  |    |    |         |      |
+|    | 192 |  4 |    |         |      |
+|    | 192 |  4 |    |         |      |
+|    |     |  0 |    |         |      |
+
+Therefore the square root of 232324 equals to 482.
+
+- - -
+
+```txt
+√41209 = ?
+
+√4.12.09
+```
+
+🠫
+
+|  4 | 12 | 09 | \| | 2 |
+|:--:|:--:|:--:|:--:|:-:|
+|  4 |    |    |    | 4 |
+| 01 |  2 |    |    |   |
+
+🠫
+
+The resulting number on the left is lower than twice the root so, the correspondent digit to that group will be zero.
+
+🠫
+
+|  4 | 12 | 09 | \| | 20 |
+|:--:|:--:|:--:|:--:|:--:|
+|  4 |    |    |    | 40 |
+| 01 | 20 |  9 |    |    |
+
+🠫
+
+Integer division of 120 ÷ 40 = 3
+
+🠫
+
+|  4 | 12 | 09 | \| |   203   |      |
+|:--:|:--:|:--:|:--:|:-------:|:----:|
+|  4 |    |    |    | 403 * 3 | 1209 |
+| 01 | 20 |  9 |    |         |      |
+| 01 | 20 |  9 |    |         |      |
+|    |  0 |    |    |         |      |
+
+Therefore the square root of 41209 equals to 203.
+
+## Series XXI
+
+Extract the square root of the following numbers with an error of less than 0.1 or ⅒:
+
+```txt
+√23618 = ?
+```
+
+```txt
+√45263 = ?
+```
+
+```txt
+√62418 = ?
+```
+
+```txt
+√16957 = ?
+```
+
+```txt
+√40245 = ?
+```
+
+### Practical algorithm with error of less than ⅒
+
+Given:
+
+```txt
+√23618
+```
+
+We add two zeros to the end of the radicand, thus:
+
+```txt
+√2361800
+```
+
+Now we perform the practical algorithm normally. Like this:
+
+```txt
+√2.36.18.00
+```
+
+🠫
+
+|  2 | 36 | 18 | 00 | \| | 1 |
+|:--:|:--:|:--:|:--:|:--:|:-:|
+|  1 |    |    |    |    | 2 |
+| 13 |  6 |    |    |    |   |
+
+🠫
+
+Integer division of 13 ÷ 2 ≈ 6
+
+Unfortunately the product of 26 by 6 is higher than 136 (156). So we decrease one unit and stick with 5.
+
+🠫
+
+|  2 |  36 | 18 | 00 | \| |   15   |     |
+|:--:|:---:|:--:|:--:|:--:|:------:|:---:|
+|  1 |     |    |    |    | 25 * 5 | 125 |
+| 13 |  6  |    |    |    |   30   |     |
+| 12 |  5  |    |    |    |        |     |
+|    | 111 |  8 |    |    |        |     |
+
+🠫
+
+Integer division of 111 ÷ 30 ≈ 3
+
+🠫
+
+|  2 |  36 |  18  | 00 | \| |   153   |     |
+|:--:|:---:|:----:|:--:|:--:|:-------:|:---:|
+|  1 |     |      |    |    |  25 * 5 | 125 |
+| 13 |  6  |      |    |    | 303 * 3 | 909 |
+| 12 |  5  |      |    |    |   306   |     |
+|    | 111 |   8  |    |    |         |     |
+|    |  90 |   9  |    |    |         |     |
+|    |     | 2090 |  0 |    |         |     |
+
+🠫
+
+Integer division of 2090 ÷ 306 ≈ 6
+
+🠫
+
+|  2 |  36 |  18  |  00 | \| |   1536   |       |
+|:--:|:---:|:----:|:---:|:--:|:--------:|:-----:|
+|  1 |     |      |     |    |  25 * 5  |  125  |
+| 13 |  6  |      |     |    |  303 * 3 |  909  |
+| 12 |  5  |      |     |    | 3066 * 6 | 18396 |
+|    | 111 |   8  |     |    |          |       |
+|    |  90 |   9  |     |    |          |       |
+|    |     | 2090 |  0  |    |          |       |
+|    |     | 1839 |  6  |    |          |       |
+|    |     |      | 250 |  4 |          |       |
+
+We've already used all groups of the radicand so there is no way to proceed the calculation.
+
+But we still don't reach our goal. We must divide the result by the fraction denominator that indicates the desired approximation (0.1 so the denominator is 10).
+
+1536 ÷ 10 = 153.6
+
+Therefore the square root of 23618 equals to 153.6 (with error of less than ⅒).
+
+### Resolution for series no. XXI
+
+```txt
+√45263 = ?
+
+√4526300
+
+√4.52.63.00
+```
+
+🠫
+
+|  2 | 36 | 18 | 00 | \| | 1 |
+|:--:|:--:|:--:|:--:|:--:|:-:|
+|  1 |    |    |    |    | 2 |
+| 13 |  6 |    |    |    |   |
+
+🠫
+
+Integer division of 13 ÷ 2 ≈ 6
+
+Unfortunately the product of 26 by 6 is higher than 136 (156). So we decrease one unit and stick with 5.
+
+🠫
