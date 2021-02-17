@@ -5,7 +5,7 @@ The exercises presented here are taken from Anglo's entrance exam booklet [avail
 ## Summary
 
 - [Chapter 1](./chapter01.md): whole numbers and numeric expressions
-- [Chapter 2](no-link): fractional numbers and numeric expressions
+- [Chapter 2](./chapter02.md): fractional numbers and numeric expressions
 - [Chapter 3](no-link): fractions and decimal numbers
 - [Chapter 4](no-link): decimal metric system
 - [Chapter 5](no-link): first degree equations (linear equations)
